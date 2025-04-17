@@ -1,0 +1,642 @@
+[
+  {
+    "id": "20000",
+    "name": "Mũi Tên",
+    "description" : "Khi bắt đầu chiến đấu sẽ khiến Tỷ Lệ Bạo Kích của người trang bị tăng 12%, duy trì 3 hiệp."
+  },
+  {
+    "id": "20001",
+    "name": "Dồi Dào",
+    "description" : "Khi người trang bị thi triển Chiến Kỹ và Tuyệt Kỹ, lượng Trị Liệu tăng 12%."
+  },
+  {
+    "id": "20002",
+    "name": "Trời Sập",
+    "description" : "Khiến sát thương do Tấn Công Thường và Chiến Kỹ gây ra của người trang bị tăng 20%."
+  },
+  {
+    "id": "20003",
+    "name": "Hổ Phách",
+    "description" : "Khiến Phòng Thủ của người trang bị tăng 16%. Khi Phần Trăm HP hiện tại của người trang bị nhỏ hơn 50%, Phòng Thủ của người đó sẽ tăng thêm 16%."
+  },
+  {
+    "id": "20004",
+    "name": "Tĩnh Mịch",
+    "description" : "Khi bắt đầu chiến đấu sẽ khiến Chính Xác Hiệu Ứng của người trang bị tăng 20%, duy trì 3 hiệp."
+  },
+  {
+    "id": "20005",
+    "name": "Điệp Khúc",
+    "description" : "Sau khi vào chiến đấu, khiến Tấn Công của toàn thể phe ta tăng 8%. Kỹ năng cùng loại sẽ không có hiệu lực trùng lặp."
+  },
+  {
+    "id": "20006",
+    "name": "Kho Lưu Trữ",
+    "description" : "Khiến sát thương Tuyệt Kỹ gây ra của người trang bị tăng 28%."
+  },
+  {
+    "id": "20007",
+    "name": "Tên Bắn",
+    "description" : "Sau khi người trang bị tiêu diệt kẻ địch, Tấn Công sẽ tăng 24%, duy trì 3 hiệp."
+  },
+  {
+    "id": "20008",
+    "name": "Trái Ngọt",
+    "description" : "Khi bắt đầu chiến đấu sẽ hồi ngay cho toàn phe ta 6 điểm Năng Lượng."
+  },
+  {
+    "id": "20009",
+    "name": "Đổ Nát",
+    "description" : "Khiến sát thương mà người trang bị gây ra cho kẻ địch có Phần Trăm HP lớn hơn 50% tăng 20%."
+  },
+  {
+    "id": "20010",
+    "name": "Phòng Thủ",
+    "description" : "Khi người trang bị thi triển Tuyệt Kỹ, sẽ hồi HP tương đương 18% Giới Hạn HP của bản thân."
+  },
+  {
+    "id": "20011",
+    "name": "Xoáy Ốc",
+    "description" : "Tăng 24% sát thương mà người trang bị gây ra cho kẻ địch trong trạng thái Giảm Tốc."
+  },
+  {
+    "id": "20012",
+    "name": "Luân Hồi",
+    "description" : "Sau khi người trang bị tấn công hoặc bị tấn công sẽ hồi thêm 4 điểm Năng Lượng, hiệu ứng này không thể kích hoạt trùng lặp trong 1 hiệp.."
+  },
+  {
+    "id": "20013",
+    "name": "Chìa Khóa Linh Hồn",
+    "description" : "Sau khi người trang bị thi triển Chiến Kỹ sẽ hồi thêm 8 điểm Năng Lượng, hiệu ứng này không thể kích hoạt trùng lặp trong 1 hiệp."
+  },
+  {
+    "id": "20014",
+    "name": "Đối Kháng",
+    "description" : "Sau khi người trang bị tiêu diệt kẻ địch, Tốc Độ sẽ tăng 10%, duy trì 2 hiệp."
+  },
+  {
+    "id": "20015",
+    "name": "Sinh Sôi",
+    "description" : "Sau khi người trang bị thi triển tấn công thường sẽ Ưu Tiên Hành Động 12% cho lần tiếp theo."
+  },
+  {
+    "id": "20016",
+    "name": "Hủy Diệt Tất Cả",
+    "description" : "Khi Phần Trăm HP hiện tại của người trang bị nhỏ hơn 80%, Tỷ Lệ Bạo Kích sẽ tăng 12%."
+  },
+  {
+    "id": "20017",
+    "name": "Mở Rộng",
+    "description" : "Khi người trang bị phá vỡ điểm yếu của địch, sẽ hồi HP tương đương 12% Giới Hạn HP của bản thân."
+  },
+  {
+    "id": "20018",
+    "name": "Bóng Ẩn",
+    "description" : "Sau khi thi triển Chiến Kỹ, sẽ khiến đòn tấn công thường tiếp theo của người trang bị gây cho kẻ địch một lượng sát thương kèm theo bằng 60% Tấn Công của bản thân."
+  },
+  {
+    "id": "20019",
+    "name": "Hài Hòa",
+    "description" : "Khi vào chiến đấu, Tốc Độ của toàn bộ phe ta tăng 12 điểm, duy trì 1 hiệp."
+  },
+  {
+    "id": "20020",
+    "name": "Thông Tuệ",
+    "description" : "Khi người trang bị thi triển Tuyệt Kỹ, Tấn Công sẽ tăng 24%, duy trì 2 hiệp."
+  },
+  {
+    "id": "20021",
+    "name": "Thiêu Đốt Ảo Ảnh",
+    "description" : "Khi người trang bị lần đầu triệu hồi Linh Hồn Ký Ức, hồi 1 Điểm Chiến Kỹ, và hồi 12 điểm Năng Lượng cho bản thân."
+  },
+  {
+    "id": "20022",
+    "name": "Tìm Về Ký Ức",
+    "description" : "Khi bắt đầu hiệp của Linh Hồn Ký Ức, khiến người trang bị và Linh Hồn Ký Ức lần lượt nhận 1 tầng Tưởng Nhớ. Mỗi tầng khiến Sát Thương gây ra tăng 8%, tối đa cộng dồn 4 tầng. Khi Linh Hồn Ký Ức biến mất, sẽ xóa Tưởng Nhớ của người trang bị và Linh Hồn Ký Ức."
+  },
+  {
+    "id": "21000",
+    "name": "Buổi Trò Chuyện Hậu Phẫu",
+    "description" : "Khiến hiệu suất hồi năng lượng của người trang bị tăng 8%, đồng thời lượng trị liệu khi thi triển Tuyệt Kỹ tăng 12%."
+  },
+  {
+    "id": "21001",
+    "name": "Chúc Ngủ Ngon",
+    "description" : "Mỗi khi kẻ địch nhận phải 1 Hiệu Ứng Xấu, thì sát thương người trang bị gây ra cho kẻ đó sẽ tăng 12%, tối đa cộng dồn 3 tầng. Hiệu ứng này cũng có hiệu lực với sát thương duy trì."
+  },
+  {
+    "id": "21002",
+    "name": "Ngày Đầu Tiên",
+    "description" : "Phòng Thủ của người trang bị tăng 16%. Sau khi vào chiến đấu, Kháng Toàn Thuộc Tính của toàn bộ phe ta tăng 8%. Hiệu ứng cùng loại sẽ không thể cộng dồn."
+  },
+  {
+    "id": "21003",
+    "name": "Sự Trầm Mặc Duy Nhất",
+    "description" : "Tấn công của người trang bị tăng 16%. Khi trong trận có 2 kẻ địch trở xuống, Tỷ Lệ Bạo Kích của người trang bị tăng 12%."
+  },
+  {
+    "id": "21004",
+    "name": "Dáng Hình Trong Ký Ức",
+    "description" : "Khiến Tấn Công Kích Phá của người trang bị tăng 28%. Sau khi người trang bị tấn công sẽ hồi thêm 4 điểm Năng Lượng, hiệu ứng này không thể kích hoạt trùng lặp trong 1 hiệp."
+  },
+  {
+    "id": "21005",
+    "name": "Băng Chuột Chũi Hoan Nghênh",
+    "description" : "Sau khi người trang bị thi triển Tấn Công Thường, Chiến Kỹ hoặc Tuyệt Kỹ lên kẻ địch, sẽ lần lượt nhận 1 tầng \"Trêu Chọc\". Mỗi tầng khiến Tấn Công của người trang bị tăng 12%."
+  },
+  {
+    "id": "21006",
+    "name": "Sự Ra Đời Của \"Tôi\"",
+    "description" : "Tăng 24% sát thương gây ra bởi Đòn Đánh Theo Sau của người trang bị. Nếu Phần Trăm HP hiện tại của kẻ địch này nhỏ hơn hoặc bằng 50%, thì sát thương gây ra của Đòn Đánh Theo Sau tăng thêm 24%."
+  },
+  {
+    "id": "21007",
+    "name": "Cùng Một Tâm Trạng",
+    "description" : "Tăng 10% lượng trị liệu của người trang bị, đồng thời khi thi triển Chiến Kỹ, toàn bộ phe ta sẽ hồi 2 điểm Năng Lượng."
+  },
+  {
+    "id": "21008",
+    "name": "Tầm Mắt Của Con Mồi",
+    "description" : "Tăng 20% Chính Xác Hiệu Ứng cho người trang bị, đồng thời sát thương duy trì gây ra sẽ tăng 24%."
+  },
+  {
+    "id": "21009",
+    "name": "Sự Lựa Chọn Của Landau",
+    "description" : "Tăng xác suất bị tấn công của người trang bị, đồng thời sát thương phải chịu sẽ giảm 16%."
+  },
+  {
+    "id": "21010",
+    "name": "Luận Kiếm",
+    "description" : "Khi người trang bị đánh trúng cùng một kẻ địch nhiều lần, sát thương gây ra mỗi lần sẽ tăng 8%, hiệu quả này tối đa cộng dồn 5 tầng. Nếu mục tiêu tấn công có thay đổi, sẽ xóa ngay hiệu ứng buff hiện tại."
+  },
+  {
+    "id": "21011",
+    "name": "Điểm Hẹn Hành Tinh",
+    "description" : "Sau khi vào chiến đấu, khi mục tiêu phe ta gây sát thương cùng thuộc tính với người trang bị, sẽ khiến sát thương gây ra tăng 12%."
+  },
+  {
+    "id": "21012",
+    "name": "Lời Thề Bí Mật",
+    "description" : "Tăng 20% sát thương của người trang bị gây ra, đồng thời tăng thêm 20% sát thương gây ra cho kẻ địch có phần trăm HP hiện tại cao hơn hoặc bằng phần trăm HP hiện tại của người trang bị."
+  },
+  {
+    "id": "21013",
+    "name": "Đừng Để Thế Giới Lạnh Lẽo",
+    "description" : "Khiến người trang bị khi vào chiến đấu sẽ hồi ngay 20 điểm Năng Lượng, đồng thời khiến sát thương Tuyệt Kỹ mà người đó gây ra tăng 32%."
+  },
+  {
+    "id": "21014",
+    "name": "Vừa Đúng Lúc",
+    "description" : "Kháng Hiệu Ứng của người trang bị tăng 16%, đồng thời tăng lượng trị liệu của người trang bị, trị số tăng tương đương 33% Kháng Hiệu Ứng, tối đa tăng trị liệu 15%."
+  },
+  {
+    "id": "21015",
+    "name": "Sự Quyết Tâm Như Giọt Mồ Hôi Lấp Lánh",
+    "description" : "Khi người trang bị đánh trúng mục tiêu địch, nếu mục tiêu này không ở trạng thái Đánh Hạ, sẽ có 60% xác suất cơ bản khiến địch rơi vào trạng thái Đánh Hạ. Kẻ địch ở trạng thái Đánh Hạ sẽ giảm 12% Phòng Thủ, duy trì 1 hiệp."
+  },
+  {
+    "id": "21016",
+    "name": "Xu Hướng Thị Trường Vũ Trụ",
+    "description" : "Khiến Phòng Thủ của người trang bị tăng 16%. Sau khi người trang bị chịu tấn công sẽ có 100% xác suất cơ bản khiến kẻ địch rơi vào trạng thái Thiêu Đốt, mỗi hiệp gây sát thương liên tục bằng 40% Phòng Thủ của người trang bị, duy trì 2 hiệp."
+  },
+  {
+    "id": "21017",
+    "name": "Hãy Theo Dõi Nào!",
+    "description" : "Tăng 24% sát thương tấn công thường và Chiến Kỹ gây ra của người trang bị, khi Năng Lượng hiện tại của người trang bị bằng giới hạn Năng Lượng, thì hiệu quả này sẽ tăng thêm 24%."
+  },
+  {
+    "id": "21018",
+    "name": "Múa! Múa! Múa!",
+    "description" : "Sau khi người trang bị thi triển Tuyệt Kỹ, toàn phe ta sẽ ưu tiên hành động 16%."
+  },
+  {
+    "id": "21019",
+    "name": "Dưới Bầu Trời Xanh",
+    "description" : "Khiến Tấn Công của người trang bị tăng 16%, sau khi người trang bị tiêu diệt kẻ địch, Tỷ Lệ Bạo Kích tăng 12%, duy trì 3 hiệp."
+  },
+  {
+    "id": "21020",
+    "name": "Sự Nghỉ Ngơi Của Thiên Tài",
+    "description" : "Khiến Tấn Công của người trang bị tăng 16%, sau khi người trang bị tiêu diệt kẻ địch, Sát Thương Bạo Kích tăng 24%, duy trì 3 hiệp."
+  },
+  {
+    "id": "21021",
+    "name": "Đổi Ngang Giá",
+    "description" : "Khi bắt đầu hiệp của người trang bị, sẽ hồi 8 Năng Lượng cho 1 mục tiêu khác ngẫu nhiên của phe ta có Năng Lượng hiện tại dưới 50%."
+  },
+  {
+    "id": "21022",
+    "name": "Ký Hiệu Kéo Dài",
+    "description" : "Tăng 16% Tấn Công Kích Phá của người trang bị, sát thương gây ra cho địch ở trạng thái Sốc Điện hoặc Bào Mòn tăng 16%, hiệu ứng này cũng có hiệu lực với sát thương duy trì."
+  },
+  {
+    "id": "21023",
+    "name": "Chúng Ta Là Lửa Ngầm",
+    "description" : "Khi bắt đầu chiến đấu sẽ khiến sát thương toàn phe ta phải chịu giảm 8%, duy trì 5 hiệp. Đồng thời hồi HP cho toàn phe ta tương đương 30% HP đã mất của mỗi người."
+  },
+  {
+    "id": "21024",
+    "name": "Làn Nước Xuân Xuất Hiện",
+    "description" : "Sau khi vào chiến đấu, tăng 8% tốc độ của người trang bị, sát thương gây ra tăng 12%. Sau khi người trang bị chịu sát thương, hiệu ứng này sẽ mất hiệu lực, kết thúc hiệp kế tiếp sẽ hồi phục lại hiệu ứng này."
+  },
+  {
+    "id": "21025",
+    "name": "Quá Khứ Tương Lai",
+    "description" : "Sau khi người trang bị thi triển Chiến Kỹ, sẽ khiến sát thương gây ra bởi mục tiêu khác của phe ta trong hành động tiếp theo tăng 16%, duy trì 1 hiệp."
+  },
+  {
+    "id": "21026",
+    "name": "Gâu! Thời Gian Tản Bộ",
+    "description" : "Tăng 10% Tấn Công của người trang bị, sát thương gây ra cho kẻ địch ở trạng thái Thiêu Đốt hoặc Chảy Máu tăng 16%. Hiệu ứng này cũng có hiệu lực với sát thương duy trì."
+  },
+  {
+    "id": "21027",
+    "name": "Bữa Sáng Đúng Điệu",
+    "description" : "Khiến sát thương gây ra bởi người trang bị tăng 12%. Mỗi khi tiêu diệt 1 kẻ địch, Tấn Công của người trang bị tăng 4%, hiệu ứng này tối đa cộng dồn 3 tầng."
+  },
+  {
+    "id": "21028",
+    "name": "Đêm Ấm Sẽ Chóng Qua",
+    "description" : "Khiến Giới Hạn HP của người trang bị tăng 16%. Sau khi thi triển Tấn Công Thường hoặc Chiến Kỹ, sẽ hồi cho toàn phe ta một lượng HP bằng 2% Giới Hạn HP của mỗi người."
+  },
+  {
+    "id": "21029",
+    "name": "Hẹn Gặp Lại",
+    "description" : "Sau khi người trang bị thi triển Tấn Công Thường hoặc Chiến Kỹ, sẽ gây cho 1 kẻ địch ngẫu nhiên bị đánh trúng một lượng sát thương kèm theo bằng 48% Tấn Công của bản thân."
+  },
+  {
+    "id": "21030",
+    "name": "Đó Chính Là Tôi!",
+    "description" : "Khiến Phòng Thủ của người trang bị tăng 16%. Tăng sát thương gây ra khi người trang bị thi triển Tuyệt Kỹ, mức tăng tương đương 60% Phòng Thủ của người trang bị. Mỗi lần dùng Tuyệt Kỹ, hiệu ứng này chỉ có hiệu lực 1 lần cho mỗi kẻ địch."
+  },
+  {
+    "id": "21031",
+    "name": "U Tối Trở Lại",
+    "description" : "Khiến Tỷ Lệ Bạo Kích của người trang bị tăng 12%. Sau khi bạo kích có 16% xác suất cố định giải trừ 1 buff hiện có của kẻ địch bị tấn công, hiệu ứng này mỗi lần tấn công chỉ có thể kích hoạt 1 lần."
+  },
+  {
+    "id": "21032",
+    "name": "Khắc Lên Ánh Trăng",
+    "description" : "Khi bắt đầu chiến đấu và khi người trang bị bắt đầu hiệp, sẽ có 1 hiệu ứng ngẫu nhiên phát huy hiệu lực. Hiệu ứng này khi phát huy hiệu lực, sẽ thay thế hiệu ứng của lần trước và không trùng với lần trước. Hiệu ứng bao gồm: Tăng 10% Tấn Công của toàn phe ta; Tăng 12% Sát Thương Bạo Kích của toàn phe ta; Tăng 6% hiệu suất hồi Năng Lượng của toàn phe ta. Hiệu ứng cùng loại không thể cộng dồn, khi người trang bị rơi vào trạng thái không thể chiến đấu sẽ giải trừ."
+  },
+  {
+    "id": "21033",
+    "name": "Không Nơi Ẩn Náu",
+    "description" : "Tăng 24% Tấn Công của người trang bị. Khi người trang bị tiêu diệt kẻ địch sẽ hồi một lượng HP bằng 12% Tấn Công của bản thân."
+  },
+  {
+    "id": "21034",
+    "name": "Hôm Nay Là Ngày Yên Lành",
+    "description" : "Sau khi vào chiến đấu, dựa theo giới hạn Năng Lượng của người trang bị để tăng sát thương mà người trang bị gây ra: Mỗi điểm Năng Lượng tăng 0.2%, tối đa tính 160 điểm."
+  },
+  {
+    "id": "21035",
+    "name": "Đâu Là Thật?",
+    "description" : "Tăng 24% Tấn Công Kích Phá của người trang bị. Sau khi Tấn Công Thường, người trang bị sẽ hồi một lượng HP bằng 2% Giới Hạn HP +800."
+  },
+  {
+    "id": "21036",
+    "name": "Chuyến Thám Hiểm Thị Trấn Mộng Đẹp",
+    "description" : "Sau khi người trang bị thi triển một trong các loại kỹ năng Tấn Công Thường/Chiến Kỹ/Tuyệt Kỹ, sẽ kèm theo Trái Tim Trẻ Thơ lên toàn bộ phe ta, Trái Tim Trẻ Thơ tăng 12% sát thương do kỹ năng loại tương ứng của mục tiêu phe ta gây ra. Trái Tim Trẻ Thơ chỉ có hiệu lực với loại kỹ năng mà người trang bị vừa mới sử dụng, và không thể cộng dồn."
+  },
+  {
+    "id": "21037",
+    "name": "Người Chiến Thắng Cuối Cùng",
+    "description" : "Khiến Tấn Công của người trang bị tăng 12%. Sau khi người trang bị gây ra bạo kích lên kẻ địch, sẽ nhận 1 tầng May Mắn, tối đa cộng dồn 4 tầng. Mỗi tầng May Mắn khiến Sát Thương Bạo Kích của người trang bị tăng 8%, May Mắn sẽ mất khi kết thúc hiệp của người trang bị."
+  },
+  {
+    "id": "21038",
+    "name": "Ở Nơi Xa Ngọn Lửa",
+    "description" : "Khi người trang bị trong 1 lần bị tấn công tích lũy lượng HP tổn thất vượt quá 25% Giới Hạn HP, hoặc tiêu hao HP bản thân trong 1 lần vượt quá 25% Giới Hạn HP, sẽ hồi ngay HP bằng 15% Giới Hạn HP của người trang bị, đồng thời tăng 25% Sát Thương do người trang bị gây ra, duy trì 2 hiệp. Hiệu ứng này mỗi 3 hiệp chỉ có thể kích hoạt 1 lần."
+  },
+  {
+    "id": "21039",
+    "name": "Dây Thêu Dệt Vận Mệnh",
+    "description" : "Tăng 12% Kháng Hiệu Ứng của người trang bị. Mỗi khi người trang bị có 100 điểm Phòng Thủ, thì sát thương gây ra tăng 0.8%, tối đa tăng 32% sát thương gây ra."
+  },
+  {
+    "id": "21040",
+    "name": "Ngày Ngân Hà Sụp Đổ",
+    "description" : "Khiến Tấn Công của người trang bị tăng 16%. Sau khi người trang bị tấn công, nếu có từ 2 kẻ địch bị tấn công trở lên mang Điểm Yếu thuộc tính tương ứng, thì Sát Thương Bạo Kích của người trang bị tăng 20%, duy trì 2 hiệp."
+  },
+  {
+    "id": "21041",
+    "name": "Vai Diễn Bắt Đầu",
+    "description" : "Sau khi người trang bị thi triển Hiệu Ứng Xấu lên kẻ địch, sẽ nhận 1 tầng Vai Diễn, mỗi tầng Vai Diễn tăng 6% sát thương do người trang bị gây ra, tối đa cộng dồn 3 tầng, duy trì 1 hiệp. Khi Chính Xác Hiệu Ứng của người trang bị lớn hơn hoặc bằng 80%, Tấn Công sẽ tăng 20%."
+  },
+  {
+    "id": "21042",
+    "name": "Ước Hẹn Khắc Ghi",
+    "description" : "Tăng 28% Tấn Công Kích Phá của người trang bị. Khi người trang bị thi triển Tuyệt Kỹ, Tỷ Lệ Bạo Kích tăng 15%, duy trì 2 hiệp."
+  },
+  {
+    "id": "21043",
+    "name": "Buổi Hòa Nhạc Hai Người",
+    "description" : "Tăng 16% Phòng Thủ của người trang bị. Mỗi khi trên trận có 1 nhân vật sở hữu Khiên, sát thương do người trang bị gây ra tăng 4%."
+  },
+  {
+    "id": "21044",
+    "name": "Vũ Điệu Vô Biên",
+    "description" : "Tăng 8% tỷ lệ Bạo Kích của người trang bị. Sát Thương Bạo Kích mà người trang bị gây cho kẻ địch ở trạng thái Giảm Phòng Thủ hoặc Giảm Tốc tăng 24%."
+  },
+  {
+    "id": "21045",
+    "name": "Sau Sự Im Lặng Hài Hòa",
+    "description" : "Tăng 28% Tấn Công Kích Phá của người trang bị. Sau khi người trang bị thi triển Tuyệt Kỹ, Tốc Độ tăng 8%, duy trì 2 hiệp."
+  },
+  {
+    "id": "21046",
+    "name": "Tuổi Hoa Chờ Nở Rộ",
+    "description" : "Khiến Tấn Công của người trang bị tăng 16%. Khi vào chiến đấu, nếu có từ 2 nhân vật phe ta trở lên có cùng vận mệnh bất kỳ, sẽ khiến Sát Thương Bạo Kích của những nhân vật này tăng 16%. Kỹ năng cùng loại không thể cộng dồn hiệu quả."
+  },
+  {
+    "id": "21047",
+    "name": "Bóng Tối Đồng Hành",
+    "description" : "Tăng 28% Tấn Công Kích Phá của người trang bị. Khi vào chiến đấu hoặc sau khi gây Sát Thương Phá Vỡ, Tốc Độ tăng 8%, duy trì 2 hiệp, hiệu ứng này mỗi hiệp chỉ có thể kích hoạt 1 lần."
+  },
+  {
+    "id": "21048",
+    "name": "Dựng Phim Trong Mơ",
+    "description" : "Tăng 8% tốc độ của người trang bị, sau khi tấn công mục tiêu phe địch ở trạng thái Phá Vỡ Điểm Yếu, sẽ hồi 3 điểm Năng Lượng, hiệu ứng này mỗi hiệp tối đa kích hoạt 2 lần."
+  },
+  {
+    "id": "21050",
+    "name": "Chiến Thắng Trong Chớp Mắt",
+    "description" : "Tăng 12% Sát Thương Bạo Kích cho người trang bị. Khi Linh Hồn Ký Ức của người trang bị thi triển kỹ năng với mục tiêu phe ta, sẽ khiến Sát Thương toàn bộ mục tiêu phe ta gây ra tăng 8%, duy trì 3 hiệp."
+  },
+  {
+    "id": "21051",
+    "name": "Lời Chào Hỏi Của Thiên Tài",
+    "description" : "Khiến Tấn Công của người trang bị tăng 16%. Sau khi người trang bị thi triển Tuyệt Kỹ, khiến sát thương Tấn Công Thường mà người trang bị và Linh Hồn Ký Ức gây ra tăng 20%, duy trì 3 hiệp."
+  },
+  {
+    "id": "21052",
+    "name": "Đổ Mồ Hôi Nhiều, Rơi Nước Mắt Ít",
+    "description" : "Khiến Tỷ Lệ Bạo Kích của người trang bị tăng 12%. Khi Linh Hồn Ký Ức của người trang bị trong trận, Sát Thương người trang bị và Linh Hồn Ký Ức gây ra tăng 24%."
+  },
+  {
+    "id": "22000",
+    "name": "Trước Khi Bắt Đầu Nhiệm Vụ Tân Thủ",
+    "description" : "Khiến Chính Xác Hiệu Ứng của người trang bị tăng 20%. Sau khi người trang bị tấn công kẻ địch bị giảm Phòng Thủ, sẽ hồi 4 điểm Năng Lượng."
+  },
+  {
+    "id": "22001",
+    "name": "Hi, Tôi Ở Đây",
+    "description" : "Khiến Giới Hạn HP của người trang bị tăng 8%. Khi người trang bị thi triển Chiến Kỹ, lượng trị liệu tăng 16%, duy trì 2 hiệp."
+  },
+  {
+    "id": "22002",
+    "name": "Vì Hành Trình Ngày Mai",
+    "description" : "Tăng 16% Tấn Công cho người trang bị. Sau khi người trang bị thi triển Tuyệt Kỹ, sát thương gây ra tăng 18%, duy trì 1 hiệp."
+  },
+  {
+    "id": "22003",
+    "name": "Nhẫn Sự Lục-Săn Bắn Âm Luật",
+    "description" : "Tăng 12% Giới Hạn HP của người trang bị. Sau khi tổn thất hoặc hồi HP của bản thân, Sát Thương Bạo Kích tăng 18%, duy trì 2 hiệp, hiệu ứng này mỗi hiệp chỉ có thể kích hoạt 1 lần."
+  },
+  {
+    "id": "22004",
+    "name": "Kinh Doanh Tầm Cỡ Vũ Trụ",
+    "description": "Khiến tấn công của người trang bị tăng 8%. Mỗi khi mục tiêu phe địch có 1 Điểm Yếu thuộc tính khác nhau, thì sát thương người trang bị gây ra cho kẻ đó tăng 4%, tối đa tính 7 Điểm Yếu."
+  },
+  {
+    "id": "23000",
+    "name": "Chuyến Tàu Đêm Trên Dải Ngân Hà",
+    "description" : "Mỗi một kẻ địch trong trận, sẽ khiến Tấn Công của người trang bị tăng 9%, hiệu ứng này tối đa cộng dồn 5 tầng. Khi có kẻ địch bị phá vỡ Điểm Yếu, sát thương mà người trang bị gây ra sẽ tăng 30%, duy trì 1 hiệp."
+  },
+  {
+    "id": "23001",
+    "name": "Trong Đêm Tối",
+    "description" : "Tăng 18% Tỷ Lệ Bạo Kích của người trang bị. Khi Tốc Độ trong chiến đấu của người trang bị lớn hơn 100, mỗi khi vượt trên 10 điểm sẽ tăng 6% sát thương Tấn Công Thường và Chiến Kỹ gây ra, đồng thời tăng 12% Sát Thương Bạo Kích Tuyệt Kỹ, hiệu ứng này có thể cộng dồn 6 tầng."
+  },
+  {
+    "id": "23002",
+    "name": "Vật Không Thể Thay Thế",
+    "description" : "Tăng 24% Tấn Công của người trang bị. Sau khi người trang bị tiêu diệt kẻ địch hoặc bị tấn công sẽ hồi ngay HP bằng 8% Tấn Công của người trang bị, đồng thời sát thương gây ra tăng 24%, duy trì đến hết hiệp sau của bản thân. Hiệu ứng này không thể cộng dồn, mỗi hiệp chỉ kích hoạt 1 lần."
+  },
+  {
+    "id": "23003",
+    "name": "Cuộc Chiến Chưa Nguôi",
+    "description" : "Tăng 10% hiệu suất hồi Năng Lượng của người trang bị, đồng thời hồi 1 điểm Chiến Kỹ khi thi triển Tuyệt Kỹ lên mục tiêu phe ta. Mỗi khi thi triển 2 lần Tuyệt Kỹ sẽ kích hoạt hiệu ứng này 1 lần. Sau khi người trang bị thi triển Chiến Kỹ sẽ khiến sát thương gây ra bởi mục tiêu khác của phe ta trong lần hành động tiếp theo tăng 30%, duy trì 1 hiệp."
+  },
+  {
+    "id": "23004",
+    "name": "Nhân Danh Thế Giới",
+    "description" : "Khiến sát thương mà người trang bị gây cho kẻ địch đang trong Hiệu Ứng Xấu tăng 24%. Khi người trang bị thi triển Chiến Kỹ, Chính Xác Hiệu Ứng của lần tấn công này của người trang bị sẽ tăng 18%, Tấn Công tăng 24%."
+  },
+  {
+    "id": "23005",
+    "name": "Giây Phút Thắng Lợi",
+    "description" : "Tăng 24% Phòng Thủ của người trang bị, tăng 24% Chính Xác Hiệu Ứng, đồng thời cũng tăng xác suất bản thân bị tấn công. Sau khi người trang bị bị tấn công, Phòng Thủ sẽ tăng thêm 24%, duy trì đến khi kết thúc hiệp của mình."
+  },
+  {
+    "id": "23006",
+    "name": "Chỉ Cần Chờ Đợi",
+    "description" : "Sát thương người trang bị gây ra tăng 24%. Sau mỗi lần người trang bị thi triển tấn công, tốc độ tăng 4.8%, tối đa cộng dồn 3 tầng. Khi người trang bị đánh trúng kẻ địch, nếu kẻ địch này không ở trạng thái Xói Mòn sẽ có 100% xác suất cơ bản khiến kẻ đó rơi vào trạng thái Xói Mòn. Khi kẻ địch đã ở trạng thái này sẽ được xem là rơi vào Sốc Điện. Ở trạng thái Xói Mòn, kẻ địch mỗi khi bắt đầu hiệp sẽ chịu Sát Thương Lôi Duy Trì bằng 60% Tấn Công của người trang bị, duy trì 1 hiệp."
+  },
+  {
+    "id": "23007",
+    "name": "Cơn Mưa Tầm Tã",
+    "description" : "Tăng 24% Chính Xác Hiệu Ứng của người trang bị. Khi người trang bị gây sát thương cho kẻ địch đang có 3 Hiệu Ứng Xấu hoặc hơn, thì Tỷ Lệ Bạo Kích sẽ tăng 12%. Sau khi người trang bị thi triển tấn công thường, Chiến Kỹ, Tuyệt Kỹ sẽ có 100% xác suất cơ bản thi triển Mã Aether lên mục tiêu bị tấn công ngẫu nhiên chưa có Mã Aether. Sát thương phải chịu của mục tiêu có Mã Aether tăng 12%, duy trì 1 hiệp."
+  },
+  {
+    "id": "23008",
+    "name": "Tiếng Vọng Của Quan Tài",
+    "description" : "Tăng 24% tấn công của người trang bị. Sau khi người trang bị tấn công, mỗi khi đánh trúng một kẻ địch khác nhau, sẽ hồi 3 Năng Lượng, tối đa hồi năng lượng 3 lần bằng cách này. Sau khi người trang bị thi triển Tuyệt Kỹ, sẽ khiến toàn bộ phe ta tăng 12 tốc độ, duy trì 1 hiệp."
+  },
+  {
+    "id": "23009",
+    "name": "Bến Bờ Xa Diệu Vợi",
+    "description" : "Khiến Tỷ Lệ Bạo Kích của người trang bị tăng 18%, Giới Hạn HP tăng 18%. Sau khi người trang bị chịu tấn công hoặc tiêu hao HP của bản thân, sát thương gây ra sẽ tăng 24%, hiệu ứng này sẽ giải trừ sau khi người trang bị thực hiện tấn công."
+  },
+  {
+    "id": "23010",
+    "name": "Trước Buổi Bình Minh",
+    "description" : "Tăng 36% Sát Thương Bạo Kích của người trang bị. Tăng 18% sát thương do Chiến Kỹ và Tuyệt Kỹ của người trang bị gây ra. Sau khi người trang bị thi triển Chiến Kỹ hoặc Tuyệt Kỹ, sẽ nhận hiệu ứng \"Thân Mộng\". Khi thi triển Đòn Đánh Theo Sau, tiêu hao \"Thân Mộng\", tăng 48% sát thương do Đòn Đánh Theo Sau gây ra."
+  },
+  {
+    "id": "23011",
+    "name": "Đôi Mắt Đã Nhắm Lại",
+    "description" : "Tăng 24% Giới Hạn HP của người trang bị, hiệu suất hồi phục Năng Lượng tăng 12%. Khi HP của người trang bị xuống thấp, khiến toàn thể phe ta tăng 9% sát thương gây ra, duy trì 2 hiệp. Khi bắt đầu mỗi đợt, sẽ hồi HP cho toàn phe ta bằng 80% lượng HP mỗi nhân vật đã mất."
+  },
+  {
+    "id": "23012",
+    "name": "Giấc Ngủ Say Mềm",
+    "description" : "Khiến người trang bị tăng Sát Thương Bạo Kích 30%. Khi sát thương Tấn Công Thường hoặc Chiến Kỹ của người trang bị chưa tạo thành Bạo Kích, sẽ khiến Tỷ Lệ Bạo Kích của bản thân tăng 36%, duy trì 1 hiệp. Hiệu ứng này mỗi 3 hiệp có thể kích hoạt 1 lần."
+  },
+  {
+    "id": "23013",
+    "name": "Thời Gian Không Ngừng Lại",
+    "description" : "Khiến Giới Hạn HP của người trang bị tăng 18%, lượng trị liệu tăng 12%. Khi người trang bị cung cấp trị liệu cho mục tiêu phe ta, sẽ ghi lại lượng trị liệu. Sau khi mục tiêu bất kỳ của phe ta tấn công, sẽ căn cứ 36% lượng trị liệu được ghi, gây sát thương kèm theo cho 1 kẻ địch bị tấn công ngẫu nhiên dựa trên thuộc tính người trang bị. Sát thương này không chịu ảnh hưởng bởi các buff khác, mỗi hiệp tối đa tổng kết 1 lần."
+  },
+  {
+    "id": "23014",
+    "name": "Thân Này Là Kiếm",
+    "description" : "Tăng 20% Sát Thương Bạo Kích của người trang bị. Sau khi đồng đội bị tấn công hoặc tiêu hao HP, người trang bị sẽ nhận 1 tầng Nguyệt Thực, tối đa cộng dồn 3 tầng. Mỗi tầng Nguyệt Thực khiến sát thương gây ra ở lần tấn công kế tiếp của người trang bị tăng 14%. Khi cộng dồn đủ 3 tầng sẽ khiến lần tấn công này bỏ qua 12% phòng thủ của mục tiêu. Hiệu ứng này sẽ bị giải trừ sau khi người trang bị thi triển tấn công."
+  },
+  {
+    "id": "23015",
+    "name": "Rực Rỡ Hơn Mặt Trời",
+    "description" : "Khiến Tỷ Lệ Bạo Kích của người trang bị tăng 18%. Khi người trang bị thi triển tấn công thường, sẽ nhận 1 tầng Rồng Gầm, duy trì 2 hiệp. Mỗi tầng Rồng Gầm sẽ tăng 18% tấn công của người trang bị, hiệu suất hồi năng lượng tăng 6%. Rồng Gầm tối đa cộng dồn 2 tầng."
+  },
+  {
+    "id": "23016",
+    "name": "Phiền Não, Hạnh Phúc",
+    "description" : "Tăng 18% Tỷ Lệ Bạo Kích của người trang bị, tăng 30% sát thương do Đòn Đánh Theo Sau gây ra. Sau khi người trang bị thi triển Đòn Đánh Theo Sau, khiến mục tiêu rơi vào trạng thái Ôn Hòa, hiệu ứng này tối đa cộng dồn 2 tầng. Khi mục tiêu phe ta đánh trúng kẻ địch ở trạng thái Ôn Hòa, mỗi tầng Ôn Hòa sẽ tăng 12% Sát Thương Bạo Kích gây ra."
+  },
+  {
+    "id": "23017",
+    "name": "Đêm Kinh Hoàng",
+    "description" : "Tăng 12% hiệu suất hồi phục Năng Lượng của người trang bị. Khi mục tiêu phe ta thi triển Tuyệt Kỹ, người trang bị sẽ hồi HP bằng 10% Giới Hạn HP cho mục tiêu phe ta có Phần Trăm HP thấp nhất hiện tại. Khi người trang bị trị liệu cho mục tiêu phe ta, sẽ khiến tấn công của mục tiêu này tăng 2.4%, hiệu ứng này tối đa cộng dồn 5 tầng, duy trì 2 hiệp."
+  },
+  {
+    "id": "23018",
+    "name": "Khoảnh Khắc Nơi Đáy Mắt",
+    "description" : "Khiến sát thương bạo kích của người trang bị tăng 36%. Khi người trang bị thi triển Tuyệt Kỹ, sẽ tăng sát thương Tuyệt Kỹ mà người trang bị gây ra theo giới hạn năng lượng của người trang bị: mỗi điểm năng lượng tăng 0.36%, tối đa 180 điểm năng lượng."
+  },
+  {
+    "id": "23019",
+    "name": "Tôi Trong Gương Ngày Ấy",
+    "description" : "Khiến Tấn Công Kích Phá của người trang bị tăng 60%. Sau khi người trang bị thi triển Tuyệt Kỹ, sẽ khiến sát thương của toàn bộ phe ta tăng 24%, duy trì 3 hiệp, hơn nữa nếu Tấn Công Kích Phá của người trang bị lớn hơn hoặc bằng 150%, sẽ hồi 1 điểm Chiến Kỹ. Khi bắt đầu mỗi đợt, toàn bộ phe ta sẽ hồi ngay 10 Năng Lượng, kỹ năng cùng loại sẽ không thể cộng dồn."
+  },
+  {
+    "id": "23020",
+    "name": "Lễ Rửa Tội Thuần Khiết",
+    "description" : "Tăng 20% Sát Thương Bạo Kích của người trang bị. Mỗi khi kẻ địch phải chịu 1 Hiệu Ứng Xấu, sẽ tăng thêm 8% Sát Thương Bạo Kích mà người trang bị gây lên kẻ này, tối đa cộng dồn 3 tầng. Khi thi triển Tuyệt Kỹ tấn công kẻ địch, khiến người trang bị nhận hiệu ứng Biện Luận, tăng 36% sát thương gây ra, Đòn Đánh Theo Sau bỏ qua 24% phòng thủ của mục tiêu, hiệu ứng này duy trì 2 hiệp."
+  },
+  {
+    "id": "23021",
+    "name": "Trò Đùa Trần Thế",
+    "description" : "Tăng 32% Sát Thương Bạo Kích của người trang bị. Khi bắt đầu chiến đấu, sẽ khiến người trang bị nhận Mặt Nạ, duy trì 3 hiệp. Khi người trang bị đang có Mặt Nạ, Tỷ Lệ Bạo Kích của đồng đội tăng 10%, Sát Thương Bạo Kích tăng 28%. Người trang bị mỗi khi hồi phục 1 Điểm Chiến Kỹ sẽ nhận được 1 tầng Ngọn Lửa Sắc Màu, Điểm Chiến Kỹ dư ra khi hồi phục cũng được tính vào. Sau khi Ngọn Lửa Sắc Màu đạt 4 tầng, sẽ xóa tất cả Ngọn Lửa Sắc Màu và nhận Mặt Nạ, duy trì 4 hiệp."
+  },
+  {
+    "id": "23022",
+    "name": "Hun Đúc Ký Ức Thời Gian",
+    "description" : "Tăng 40% Chính Xác Hiệu Ứng của người trang bị. Khi người trang bị gây sát thương cho kẻ địch đang trong trạng thái Bào Mòn, Thiêu Đốt, Sốc Điện, Chảy Máu, sẽ lần lượt nhận 1 tầng Tiên Tri, tối đa cộng dồn 4 tầng. Trong 1 trận đấu, mỗi loại trạng thái Sát Thương Duy Trì chỉ có thể cộng dồn hiệu ứng Tiên Tri 1 lần. Mỗi tầng Tiên Tri tăng 5% Tấn Công của người trang bị, Sát Thương Duy Trì gây ra bỏ qua 7.2% Phòng Thủ của mục tiêu."
+  },
+  {
+    "id": "23023",
+    "name": "Vận Mệnh Chưa Từng Công Bằng",
+    "description" : "Tăng 40% Phòng Thủ của người trang bị, khi người trang bị cung cấp khiên cho mục tiêu phe ta, Sát Thương Bạo Kích của người trang bị sẽ tăng 40%, duy trì 2 hiệp. Khi người trang bị phát động Đòn Đánh Theo Sau tấn công kẻ địch, có 100% xác suất cơ bản khiến sát thương phải chịu của kẻ địch bị tấn công tăng 10%, duy trì 2 hiệp."
+  },
+  {
+    "id": "23024",
+    "name": "Bước Theo Bến Bờ Thời Gian",
+    "description" : "Tăng 36% Sát Thương Bạo Kích của người trang bị. Khi người trang bị đánh trúng kẻ địch, sẽ khiến kẻ địch rơi vào trạng thái Bóng Hư Ảo, duy trì 1 hiệp. Mỗi lần người trang bị tấn công, đối với mỗi mục tiêu chỉ có thể được kích hoạt 1 lần. Sát Thương mà người trang bị gây ra cho mục tiêu đang ở trạng thái Bóng Hư Ảo tăng 24%, sát thương do Tuyệt Kỹ gây ra tăng thêm 24%."
+  },
+  {
+    "id": "23025",
+    "name": "Giấc Mộng Sẽ Đi Về Đâu",
+    "description" : "Khiến Tấn Công Kích Phá của người trang bị tăng 60%. Khi người trang bị gây Sát Thương Phá Vỡ cho kẻ địch, sẽ khiến kẻ địch rơi vào trạng thái Thảm Bại, duy trì 2 hiệp. Ở trạng thái Thảm Bại, Sát Thương Phá Vỡ mục tiêu phải chịu do người trang bị gây ra tăng 24%, Tốc Độ giảm 20%, hiệu ứng cùng loại không thể cộng dồn."
+  },
+  {
+    "id": "23026",
+    "name": "Sắc Đêm Rực Sáng",
+    "description" : "Mỗi khi nhân vật phe ta tấn công, sẽ khiến người trang bị nhận 1 tầng Ca Tụng, mỗi tầng Ca Tụng sẽ tăng 3% hiệu suất hồi Năng Lượng của người trang bị, tối đa cộng dồn 5 tầng. Khi người trang bị thi triển Tuyệt Kỹ, sẽ xóa bỏ Ca Tụng và nhận Độc Tấu Tự Do, Độc Tấu Tự Do khiến Tấn Công của người trang bị tăng 48%, khiến sát thương của toàn phe ta gây ra tăng 24%, duy trì 1 hiệp."
+  },
+  {
+    "id": "23027",
+    "name": "Hướng Đến Sinh Mệnh Thứ Hai",
+    "description" : "Tăng 60% Tấn Công Kích Phá của người trang bị, Sát Thương Phá Vỡ gây ra sẽ bỏ qua 20% Phòng Thủ của mục tiêu. Trong chiến đấu, khi Tấn Công Kích Phá của người trang bị lớn hơn hoặc bằng 150%, Tốc Độ tăng 12%."
+  },
+  {
+    "id": "23028",
+    "name": "Hi Vọng Là Vô Giá",
+    "description" : "Khiến Tỷ Lệ Bạo Kích của người trang bị tăng 16%. Khi Sát Thương Bạo Kích của người trang bị trong trận lớn hơn 120%, mỗi 20% vượt quá thì Sát Thương Đòn Đánh Theo Sau gây ra tăng 12%, hiệu ứng này có thể cộng dồn 4 tầng. Khi bắt đầu chiến đấu hoặc sau khi người trang bị dùng Tấn Công Thường sẽ khiến Tuyệt Kỹ hoặc sát thương Đòn Đánh Theo Sau gây ra bỏ qua 20% Phòng Thủ của mục tiêu, duy trì 2 hiệp."
+  },
+  {
+    "id": "23029",
+    "name": "Vô Số Mùa Xuân Ấy",
+    "description" : "Khiến Chính Xác Hiệu Ứng của người trang bị tăng 60%, sau khi người trang bị thi triển Tấn Công Thường, Chiến Kỹ, Tuyệt Kỹ tấn công kẻ địch, sẽ có 60% xác suất cơ bản khiến kẻ đó rơi vào trạng thái Tháo Giáp. Trong trạng thái Tháo Giáp, sát thương kẻ địch phải chịu tăng 10%, duy trì 2 hiệp. Nếu mục tiêu ở trạng thái Sát Thương Duy Trì do người trang bị thi triển, thì có 60% xác suất cơ bản khiến trạng thái Tháo Giáp mà người trang bị thi triển tăng cấp thành trạng thái Đường Cùng, khiến sát thương kẻ địch phải chịu tăng thêm 14%, duy trì 2 hiệp, trong thời gian này người trang bị không thể thi triển Tháo Giáp cho mục tiêu này."
+  },
+  {
+    "id": "23030",
+    "name": "Điệu Múa Dưới Hoàng Hôn",
+    "description" : "Tăng mạnh xác suất người trang bị chịu tấn công, Sát Thương Bạo Kích tăng 36%. Sau khi người trang bị thi triển Tuyệt Kỹ, sẽ nhận được 1 tầng Hỏa Vũ, duy trì 2 hiệp, tối đa cộng dồn 2 tầng. Mỗi tầng Hỏa Vũ khiến sát thương do Đòn Đánh Theo Sau của người trang bị gây ra tăng 36%."
+  },
+  {
+    "id": "23031",
+    "name": "Ta Sẽ, Tuần Tra Săn Bắn",
+    "description" : "Tăng 15% Tỷ Lệ Bạo Kích của người trang bị. Khi người trang bị thi triển Đòn Đánh Theo Sau sẽ nhận 1 tầng Lưu Quang, tối đa cộng dồn 2 tầng. Mỗi tầng Lưu Quang khiến sát thương Tuyệt Kỹ mà người trang bị gây ra bỏ qua 27% phòng thủ của mục tiêu. Khi hiệp của người trang bị kết thúc sẽ xóa bỏ 1 tầng Lưu Quang."
+  },
+  {
+    "id": "23032",
+    "name": "Mùi Hương Vẹn Nguyên",
+    "description" : "Khiến Tấn Công Kích Phá của người trang bị tăng 60%. Sau khi người trang bị thi triển Tuyệt Kỹ tấn công kẻ địch, sẽ khiến kẻ đó rơi vào trạng thái Vong Ưu, duy trì 2 hiệp. Sát thương phải chịu của kẻ địch trong trạng thái Vong Ưu tăng 10%, nếu Tấn Công Kích Phá hiện tại của người trang bị lớn hơn hoặc bằng 150%, hiệu ứng tăng sát thương phải chịu sẽ tăng thêm 8%."
+  },
+  {
+    "id": "23033",
+    "name": "Bí Kíp Nhẫn Pháp-Dazzling Phá Ma",
+    "description" : "Tăng 60% Tấn Công Kích Phá của người trang bị. Khi vào chiến đấu, lập tức hồi 30 điểm Năng Lượng. Và sau khi người trang bị thi triển Tuyệt Kỹ, nhận Lôi Độn. Sau khi thi triển 2 lần Tấn Công Thường, người trang bị Ưu Tiên Hành Động 50%, và xóa Lôi Độn. Sau khi người trang bị thi triển Tuyệt Kỹ sẽ làm mới Lôi Độn."
+  },
+  {
+    "id": "23034",
+    "name": "Chuyến Bay Trở Về Mặt Đất",
+    "description" : "Sau khi người trang bị thi triển Chiến Kỹ hoặc Tuyệt Kỹ lên 1 nhân vật phe ta, thì người trang bị sẽ hồi 6 điểm Năng Lượng, đồng thời khiến mục tiêu kỹ năng nhận 1 tầng Thánh Ca, duy trì 3 hiệp, tối đa cộng dồn 3 tầng, mỗi tầng Thánh Ca khiến sát thương mà người sở hữu gây ra tăng 15%. Sau mỗi 2 lần người trang bị thi triển Chiến Kỹ hoặc Tuyệt Kỹ cho 1 nhân vật phe ta, sẽ hồi 1 Điểm Chiến Kỹ."
+  },
+  {
+    "id": "23035",
+    "name": "Đường Dài Vẫn Có Lối Về",
+    "description" : "Khiến Tấn Công Kích Phá của người trang bị tăng 60%. Khi điểm yếu của mục tiêu phe địch bị phá vỡ sẽ có 100% xác suất cơ bản khiến kẻ đó rơi vào trạng thái Lửa Đốt, Sát Thương Phá Vỡ phải chịu tăng 18%, duy trì 2 hiệp, hiệu ứng này có thể cộng dồn 2 tầng."
+  },
+  {
+    "id": "23036",
+    "name": "Dệt Thời Gian Thành Vàng",
+    "description" : "Tốc Độ Cơ Bản của người trang bị tăng 12, người trang bị và Linh Hồn Ký Ức của người trang bị sau khi tấn công sẽ khiến người trang bị nhận 1 tầng Dệt Gấm, mỗi tầng Dệt Gấm khiến sát thương bạo kích của người trang bị và Linh Hồn Ký Ức của người trang bị tăng 9%, tối đa cộng dồn 6 tầng. Khi cộng dồn đến tối đa, mỗi tầng Dệt Gấm sẽ khiến Sát Thương Tấn Công Thường gây ra tăng thêm 9%."
+  },
+  {
+    "id": "23037",
+    "name": "Hướng Về Điều Không Thể Truy Hỏi",
+    "description" : "Khiến Tỷ Lệ Bạo Kích của người trang bị tăng 12%. Khi người trang bị thi triển Tuyệt Kỹ, sẽ khiến sát thương Chiến Kỹ và Tuyệt Kỹ do người trang bị gây ra tăng 60%, duy trì 3 hiệp. Sau khi người trang bị thi triển Tuyệt Kỹ, nếu Năng Lượng tiêu hao trong lần Tuyệt Kỹ này lớn hơn hoặc bằng 140 điểm, sẽ hồi 1 điểm Chiến Kỹ."
+  },
+  {
+    "id": "23038",
+    "name": "Nếu Thời Gian Là Một Đóa Hoa",
+    "description" : "Khiến sát thương bạo kích của người trang bị tăng 36%. Sau khi người trang bị thi triển Đòn Đánh Theo Sau sẽ hồi thêm 12 Năng Lượng và nhận Chỉ Dẫn, duy trì 2 hiệp. Khi người trang bị có Chỉ Dẫn, sát thương bạo kích của toàn bộ mục tiêu phe ta tăng 48%. Khi vào chiến đấu, người trang bị hồi 21 Năng Lượng và nhận Chỉ Dẫn, duy trì 2 hiệp."
+  },
+  {
+    "id": "23039",
+    "name": "Huyết Hỏa, Hãy Thiêu Đốt Con Đường Phía Trước",
+    "description" : "Giới Hạn HP của người trang bị tăng 18%, lượng trị liệu nhận được tăng 20%, thi triển Chiến Kỹ hoặc Tuyệt Kỹ sẽ tiêu hao HP bằng 6% Giới Hạn HP của bản thân, đồng thời khiến sát thương lần tấn công này gây ra tăng 30%, nếu lượng HP mà hiệu ứng này tiêu hao lớn hơn 500, thì sẽ khiến sát thương tăng thêm 30%. Nếu HP hiện tại không đủ, hiệu ứng này tối đa khiến HP hiện tại của người trang bị giảm đến 1."
+  },
+  {
+    "id": "23040",
+    "name": "Để Lời Từ Biệt Đẹp Đẽ Hơn",
+    "description": "Khiến Giới Hạn HP của người trang bị tăng 30%. Khi người trang bị hoặc Linh Hồn Ký Ức của người trang bị mất HP trong hiệp của mình, người trang bị sẽ nhận Hoa Âm Ty. Hoa Âm Ty khiến người trang bị và Linh Hồn Ký Ức của họ khi gây sát thương có thể bỏ qua 30% phòng thủ của mục tiêu, duy trì 2 hiệp. Khi Linh Hồn Ký Ức của người trang bị biến mất, người trang bị sẽ ưu tiên hành động 12%. Hiệu ứng này chỉ kích hoạt tối đa 1 lần, và sẽ được làm mới số lần mỗi khi người trang bị thi triển Tuyệt Kỹ."
+  },
+  {
+    "id": "24000",
+    "name": "Sự Sụp Đổ Của Aeon",
+    "description" : "Khi người trang bị tấn công, sẽ tăng 8% Tấn Công của người trang bị trong trận hiện tại, hiệu ứng này tối đa cộng dồn 4 tầng. Sau khi người trang bị phá vỡ điểm yếu của kẻ địch, sát thương gây ra tăng 12%, duy trì 2 hiệp."
+  },
+  {
+    "id": "23041",
+    "name": "Sinh Mệnh Đáng Bị Thiêu Rụi",
+    "description": "Khi bắt đầu hiệp của người trang bị sẽ hồi 10 Năng Lượng. Nếu mục tiêu phe địch có điểm yếu được thêm vào bởi người trang bị, thì sát thương người trang bị gây ra cho kẻ đó tăng 60%. Khi mục tiêu phe địch bị người trang bị tấn công, người trang bị sẽ khiến kẻ đó giảm 12% phòng thủ, duy trì 2 hiệp. Hiệu ứng cùng loại không thể cộng dồn."
+  },
+  {
+    "id": "24001",
+    "name": "Du Hành Trên Biển Sao",
+    "description" : "Khiến Tỷ Lệ Bạo Kích của người trang bị tăng 8%, Tỷ Lệ Bạo Kích mà người trang bị gây cho kẻ địch có phần trăm HP từ 50% trở xuống sẽ tăng thêm 8%. Sau khi người trang bị tiêu diệt kẻ địch, Tấn Công tăng 20%, duy trì 2 hiệp."
+  },
+  {
+    "id": "24002",
+    "name": "Chất Liệu Ký Ức",
+    "description" : "Khiến Kháng Hiệu Ứng của người trang bị tăng 8%, sau khi người trang bị bị tấn công, nếu bản thân chưa có khiên, sẽ nhận 1 khiên bằng 16% Giới Hạn HP của người trang bị, duy trì 2 hiệp. Hiệu ứng này mỗi 3 hiệp chỉ có thể kích hoạt 1 lần. Nếu người trang bị đã có khiên, sẽ khiến sát thương phải chịu của bản thân giảm 12%."
+  },
+  {
+    "id": "24003",
+    "name": "Một Mình Chữa Trị",
+    "description" : "Tăng 20% Tấn Công Kích Phá của người trang bị. Khi người trang bị thi triển Tuyệt Kỹ, sẽ khiến Sát Thương Duy Trì của người trang bị gây ra tăng 24%, duy trì 2 hiệp. Khi kẻ địch rơi vào hiệu ứng Sát Thương Duy Trì mà người trang bị thi triển bị tiêu diệt, người trang bị sẽ hồi 4 điểm Năng Lượng."
+  },
+  {
+    "id": "24004",
+    "name": "Ngoại Suy Vô Tận",
+    "description" : "Khiến Tấn Công của người trang bị tăng 8%. Sau khi thi triển tấn công, mỗi khi đánh trúng 1 kẻ địch sẽ tăng thêm 4% Tấn Công, hiệu ứng này tối đa cộng dồn 5 lần, duy trì cho đến sau lần tấn công tiếp theo, nếu đánh trúng 3 kẻ địch trở lên, sẽ tăng 8% Tốc Độ của bản thân, duy trì 1 hiệp."
+  },
+  {
+    "id": "24005",
+    "name": "Kí Ức Không Bao Giờ Hạ Màn",
+    "description" : "Khiến Tốc Độ của người trang bị tăng 6%. Sau khi người trang bị thi triển Chiến Kỹ, khiến sát thương toàn bộ phe ta gây ra tăng 8%, duy trì 3 hiệp."
+  }
+]

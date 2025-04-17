@@ -1,0 +1,1090 @@
+[
+  {
+    "id": "61011",
+    "name": "Passerby's Rejuvenated Wooden Hairstick",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/3874c777f4c1395074693991f924ff730ae62ae4dc3778eed56d4cc473ae05c9.webp",
+    "description" : "2-Pc: Increases Outgoing Healing by 10%. \n4-Pc: At the start of the battle, immediately regenerates 1 Skill Point.",
+    "group": "Passerby of Wandering Cloud"
+  },
+  {
+    "id": "61012",
+    "name": "Passerby's Roaming Dragon Bracer",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/3874c777f4c1395074693991f924ff730ae62ae4dc3778eed56d4cc473ae05c9.webp",
+    "description" : "2-Pc: Increases Outgoing Healing by 10%. \n4-Pc: At the start of the battle, immediately regenerates 1 Skill Point.",
+    "group": "Passerby of Wandering Cloud"
+  },
+  {
+    "id": "61013",
+    "name": "Passerby's Ragged Embroided Coat",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/3874c777f4c1395074693991f924ff730ae62ae4dc3778eed56d4cc473ae05c9.webp",
+    "description" : "2-Pc: Increases Outgoing Healing by 10%. \n4-Pc: At the start of the battle, immediately regenerates 1 Skill Point.",
+    "group": "Passerby of Wandering Cloud"
+  },
+  {
+    "id": "61014",
+    "name": "Passerby's Stygian Hiking Boots",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/3874c777f4c1395074693991f924ff730ae62ae4dc3778eed56d4cc473ae05c9.webp",
+    "description" : "2-Pc: Increases Outgoing Healing by 10%. \n4-Pc: At the start of the battle, immediately regenerates 1 Skill Point.",
+    "group": "Passerby of Wandering Cloud"
+  },
+  {
+    "id": "61021",
+    "name": "Musketeer's Wild Wheat Felt Hat",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/05a1a74a9070b44c2e4a11b31d4fa97ba27d43cd6db72a0f8ff9cb713b7392a2.webp",
+    "description" : "2-Pc: Increases ATK by 12%. \n4-Pc: The wearer's SPD increases by 6% and DMG dealt by Basic ATK increases by 10%.",
+    "group": "Musketeer of Wild Wheat"
+  },
+  {
+    "id": "61022",
+    "name": "Musketeer's Coarse Leather Gloves",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/05a1a74a9070b44c2e4a11b31d4fa97ba27d43cd6db72a0f8ff9cb713b7392a2.webp",
+    "description" : "2-Pc: Increases ATK by 12%. \n4-Pc: The wearer's SPD increases by 6% and DMG dealt by Basic ATK increases by 10%.",
+    "group": "Musketeer of Wild Wheat"
+  },
+  {
+    "id": "61023",
+    "name": "Musketeer's Wind-Hunting Shawl",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/05a1a74a9070b44c2e4a11b31d4fa97ba27d43cd6db72a0f8ff9cb713b7392a2.webp",
+    "description" : "2-Pc: Increases ATK by 12%. \n4-Pc: The wearer's SPD increases by 6% and DMG dealt by Basic ATK increases by 10%.",
+    "group": "Musketeer of Wild Wheat"
+  },
+  {
+    "id": "61024",
+    "name": "Musketeer's Rivets Riding Boots",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/05a1a74a9070b44c2e4a11b31d4fa97ba27d43cd6db72a0f8ff9cb713b7392a2.webp",
+    "description" : "2-Pc: Increases ATK by 12%. \n4-Pc: The wearer's SPD increases by 6% and DMG dealt by Basic ATK increases by 10%.",
+    "group": "Musketeer of Wild Wheat"
+  },
+  {
+    "id": "61031",
+    "name": "Knight's Forgiving Casque",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/e4bcfca0bb74305ef9109f0ef26967d0c40adfec8bebf67836a9a8b070c99e29.webp",
+    "description" : "2-Pc: Increases DEF by 15%. \n4-Pc: Increases the max DMG that can be absorbed by the Shield created by the wearer by 20%.",
+    "group": "Knight of Purity Palace"
+  },
+  {
+    "id": "61032",
+    "name": "Knight's Silent Oath Ring",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/e4bcfca0bb74305ef9109f0ef26967d0c40adfec8bebf67836a9a8b070c99e29.webp",
+    "description" : "2-Pc: Increases DEF by 15%. \n4-Pc: Increases the max DMG that can be absorbed by the Shield created by the wearer by 20%.",
+    "group": "Knight of Purity Palace"
+  },
+  {
+    "id": "61033",
+    "name": "Knight's Solemn Breastplate",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/e4bcfca0bb74305ef9109f0ef26967d0c40adfec8bebf67836a9a8b070c99e29.webp",
+    "description" : "2-Pc: Increases DEF by 15%. \n4-Pc: Increases the max DMG that can be absorbed by the Shield created by the wearer by 20%.",
+    "group": "Knight of Purity Palace"
+  },
+  {
+    "id": "61034",
+    "name": "Knight's Iron Boots of Order",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/e4bcfca0bb74305ef9109f0ef26967d0c40adfec8bebf67836a9a8b070c99e29.webp",
+    "description" : "2-Pc: Increases DEF by 15%. \n4-Pc: Increases the max DMG that can be absorbed by the Shield created by the wearer by 20%.",
+    "group": "Knight of Purity Palace"
+  },
+  {
+    "id": "61041",
+    "name": "Hunter's Artaius Hood",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/33fe6b9916b0396a59627d6448c6192a1170664ed54d40bf0e4166051fe5ee67.webp",
+    "description" : "2-Pc: Increases Ice DMG by 10%. \n4-Pc: After the wearer uses their Ultimate, their CRIT DMG increases by 25% for 2 turn(s).",
+    "group": "Hunter of Glacial Forest"
+  },
+  {
+    "id": "61042",
+    "name": "Hunter's Lizard Gloves",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/33fe6b9916b0396a59627d6448c6192a1170664ed54d40bf0e4166051fe5ee67.webp",
+    "description" : "2-Pc: Increases Ice DMG by 10%. \n4-Pc: After the wearer uses their Ultimate, their CRIT DMG increases by 25% for 2 turn(s).",
+    "group": "Hunter of Glacial Forest"
+  },
+  {
+    "id": "61043",
+    "name": "Hunter's Ice Dragon Cloak",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/33fe6b9916b0396a59627d6448c6192a1170664ed54d40bf0e4166051fe5ee67.webp",
+    "description" : "2-Pc: Increases Ice DMG by 10%. \n4-Pc: After the wearer uses their Ultimate, their CRIT DMG increases by 25% for 2 turn(s).",
+    "group": "Hunter of Glacial Forest"
+  },
+  {
+    "id": "61044",
+    "name": "Hunter's Soft Elkskin Boots",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/33fe6b9916b0396a59627d6448c6192a1170664ed54d40bf0e4166051fe5ee67.webp",
+    "description" : "2-Pc: Increases Ice DMG by 10%. \n4-Pc: After the wearer uses their Ultimate, their CRIT DMG increases by 25% for 2 turn(s).",
+    "group": "Hunter of Glacial Forest"
+  },
+  {
+    "id": "61051",
+    "name": "Champion's Headgear",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/bc73556e673c4bd633889622bc419b6d74ed902dba459a9578e7890ebab01918.webp",
+    "description" : "2-Pc: Increases Physical DMG by 10%. \n4-Pc: After the wearer attacks or is hit, their ATK increases by 5% for the rest of the battle. This effect can stack up to 5 time(s).",
+    "group": "Champion of Streetwise Boxing"
+  },
+  {
+    "id": "61052",
+    "name": "Champion's Heavy Gloves",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/bc73556e673c4bd633889622bc419b6d74ed902dba459a9578e7890ebab01918.webp",
+    "description" : "2-Pc: Increases Physical DMG by 10%. \n4-Pc: After the wearer attacks or is hit, their ATK increases by 5% for the rest of the battle. This effect can stack up to 5 time(s).",
+    "group": "Champion of Streetwise Boxing"
+  },
+  {
+    "id": "61053",
+    "name": "Champion's Chest Guard",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/bc73556e673c4bd633889622bc419b6d74ed902dba459a9578e7890ebab01918.webp",
+    "description" : "2-Pc: Increases Physical DMG by 10%. \n4-Pc: After the wearer attacks or is hit, their ATK increases by 5% for the rest of the battle. This effect can stack up to 5 time(s).",
+    "group": "Champion of Streetwise Boxing"
+  },
+  {
+    "id": "61054",
+    "name": "Champion's Fleetfoot Boots",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/bc73556e673c4bd633889622bc419b6d74ed902dba459a9578e7890ebab01918.webp",
+    "description" : "2-Pc: Increases Physical DMG by 10%. \n4-Pc: After the wearer attacks or is hit, their ATK increases by 5% for the rest of the battle. This effect can stack up to 5 time(s).",
+    "group": "Champion of Streetwise Boxing"
+  },
+  {
+    "id": "61061",
+    "name": "Guard's Cast Iron Helmet",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/29593d227d0f085df2ad7460102cab22e3999452452b7011d8e0e14275152458.webp",
+    "description" : "2-Pc: Reduces DMG taken by 8%. \n4-Pc: At the beginning of the turn, if the wearer's HP percentage is equal to or less than 50%, restores HP equal to 8% of their Max HP and regenerates 5 Energy.",
+    "group": "Guard of Wuthering Snow"
+  },
+  {
+    "id": "61062",
+    "name": "Guard's Shining Gauntlets",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/29593d227d0f085df2ad7460102cab22e3999452452b7011d8e0e14275152458.webp",
+    "description" : "2-Pc: Reduces DMG taken by 8%. \n4-Pc: At the beginning of the turn, if the wearer's HP percentage is equal to or less than 50%, restores HP equal to 8% of their Max HP and regenerates 5 Energy.",
+    "group": "Guard of Wuthering Snow"
+  },
+  {
+    "id": "61063",
+    "name": "Guard's Uniform of Old",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/29593d227d0f085df2ad7460102cab22e3999452452b7011d8e0e14275152458.webp",
+    "description" : "2-Pc: Reduces DMG taken by 8%. \n4-Pc: At the beginning of the turn, if the wearer's HP percentage is equal to or less than 50%, restores HP equal to 8% of their Max HP and regenerates 5 Energy.",
+    "group": "Guard of Wuthering Snow"
+  },
+  {
+    "id": "61064",
+    "name": "Guard's Silver Greaves",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/29593d227d0f085df2ad7460102cab22e3999452452b7011d8e0e14275152458.webp",
+    "description" : "2-Pc: Reduces DMG taken by 8%. \n4-Pc: At the beginning of the turn, if the wearer's HP percentage is equal to or less than 50%, restores HP equal to 8% of their Max HP and regenerates 5 Energy.",
+    "group": "Guard of Wuthering Snow"
+  },
+  {
+    "id": "61071",
+    "name": "Firesmith's Obsidian Goggles",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/834d481fce926aa859ed52070c162fd509eb22c848024feb8e102bc47e2ed2e9.webp",
+    "description" : "2-Pc: Increases Fire DMG by 10%. \n4-Pc: Increases DMG by the wearer's Skill by 12%. After unleashing Ultimate, increases the wearer's Fire DMG by 12% for the next attack.",
+    "group": "Firesmith of Lava-Forging"
+  },
+  {
+    "id": "61072",
+    "name": "Firesmith's Ring of Flame-Mastery",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/834d481fce926aa859ed52070c162fd509eb22c848024feb8e102bc47e2ed2e9.webp",
+    "description" : "2-Pc: Increases Fire DMG by 10%. \n4-Pc: Increases DMG by the wearer's Skill by 12%. After unleashing Ultimate, increases the wearer's Fire DMG by 12% for the next attack.",
+    "group": "Firesmith of Lava-Forging"
+  },
+  {
+    "id": "61073",
+    "name": "Firesmith's Fireproof Apron",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/834d481fce926aa859ed52070c162fd509eb22c848024feb8e102bc47e2ed2e9.webp",
+    "description" : "2-Pc: Increases Fire DMG by 10%. \n4-Pc: Increases DMG by the wearer's Skill by 12%. After unleashing Ultimate, increases the wearer's Fire DMG by 12% for the next attack.",
+    "group": "Firesmith of Lava-Forging"
+  },
+  {
+    "id": "61074",
+    "name": "Firesmith's Alloy Leg",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/834d481fce926aa859ed52070c162fd509eb22c848024feb8e102bc47e2ed2e9.webp",
+    "description" : "2-Pc: Increases Fire DMG by 10%. \n4-Pc: Increases DMG by the wearer's Skill by 12%. After unleashing Ultimate, increases the wearer's Fire DMG by 12% for the next attack.",
+    "group": "Firesmith of Lava-Forging"
+  },
+  {
+    "id": "61081",
+    "name": "Genius's Ultraremote Sensing Visor",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/d7fad9ed358027eb91bcf72cc3e8d679542407cb2f819f4472a998daaa66cb08.webp",
+    "description" : "2-Pc: Increases Quantum DMG by 10%. \n4-Pc: When the wearer deals DMG to the target enemy, ignores 10% DEF. If the target enemy has Quantum Weakness, the wearer additionally ignores 10% DEF.",
+    "group": "Genius of Brilliant Stars"
+  },
+  {
+    "id": "61082",
+    "name": "Genius's Frequency Catcher",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/d7fad9ed358027eb91bcf72cc3e8d679542407cb2f819f4472a998daaa66cb08.webp",
+    "description" : "2-Pc: Increases Quantum DMG by 10%. \n4-Pc: When the wearer deals DMG to the target enemy, ignores 10% DEF. If the target enemy has Quantum Weakness, the wearer additionally ignores 10% DEF.",
+    "group": "Genius of Brilliant Stars"
+  },
+  {
+    "id": "61083",
+    "name": "Genius's Metafield Suit",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/d7fad9ed358027eb91bcf72cc3e8d679542407cb2f819f4472a998daaa66cb08.webp",
+    "description" : "2-Pc: Increases Quantum DMG by 10%. \n4-Pc: When the wearer deals DMG to the target enemy, ignores 10% DEF. If the target enemy has Quantum Weakness, the wearer additionally ignores 10% DEF.",
+    "group": "Genius of Brilliant Stars"
+  },
+  {
+    "id": "61084",
+    "name": "Genius's Gravity Walker",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/d7fad9ed358027eb91bcf72cc3e8d679542407cb2f819f4472a998daaa66cb08.webp",
+    "description" : "2-Pc: Increases Quantum DMG by 10%. \n4-Pc: When the wearer deals DMG to the target enemy, ignores 10% DEF. If the target enemy has Quantum Weakness, the wearer additionally ignores 10% DEF.",
+    "group": "Genius of Brilliant Stars"
+  },
+  {
+    "id": "61091",
+    "name": "Band's Polarized Sunglasses",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/69c44f2a48a9a64c38ff7d33ce1023d3d4cc372a79c0bde27cd8b228c38e5770.webp",
+    "description" : "2-Pc: Increases Lightning DMG by 10%. \n4-Pc: When the wearer uses their Skill, increases the wearer's ATK by 20% for 1 turn(s).",
+    "group": "Band of Sizzling Thunder"
+  },
+  {
+    "id": "61092",
+    "name": "Band's Touring Bracelet",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/69c44f2a48a9a64c38ff7d33ce1023d3d4cc372a79c0bde27cd8b228c38e5770.webp",
+    "description" : "2-Pc: Increases Lightning DMG by 10%. \n4-Pc: When the wearer uses their Skill, increases the wearer's ATK by 20% for 1 turn(s).",
+    "group": "Band of Sizzling Thunder"
+  },
+  {
+    "id": "61093",
+    "name": "Band's Leather Jacket With Studs",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/69c44f2a48a9a64c38ff7d33ce1023d3d4cc372a79c0bde27cd8b228c38e5770.webp",
+    "description" : "2-Pc: Increases Lightning DMG by 10%. \n4-Pc: When the wearer uses their Skill, increases the wearer's ATK by 20% for 1 turn(s).",
+    "group": "Band of Sizzling Thunder"
+  },
+  {
+    "id": "61094",
+    "name": "Band's Ankle Boots With Rivets",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/69c44f2a48a9a64c38ff7d33ce1023d3d4cc372a79c0bde27cd8b228c38e5770.webp",
+    "description" : "2-Pc: Increases Lightning DMG by 10%. \n4-Pc: When the wearer uses their Skill, increases the wearer's ATK by 20% for 1 turn(s).",
+    "group": "Band of Sizzling Thunder"
+  },
+  {
+    "id": "61101",
+    "name": "Eagle's Beaked Helmet",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/b50d07cce8940db6b1a495d7918f6bf33e5345c5f4513cb2ce8bedf1e1749b78.webp",
+    "description" : "2-Pc: Increases Wind DMG by 10%. \n4-Pc: After the wearer uses their Ultimate, their action is Advanced Forward by 25%.",
+    "group": "Eagle of Twilight Line"
+  },
+  {
+    "id": "61102",
+    "name": "Eagle's Soaring Ring",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/b50d07cce8940db6b1a495d7918f6bf33e5345c5f4513cb2ce8bedf1e1749b78.webp",
+    "description" : "2-Pc: Increases Wind DMG by 10%. \n4-Pc: After the wearer uses their Ultimate, their action is Advanced Forward by 25%.",
+    "group": "Eagle of Twilight Line"
+  },
+  {
+    "id": "61103",
+    "name": "Eagle's Winged Suit Harness",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/b50d07cce8940db6b1a495d7918f6bf33e5345c5f4513cb2ce8bedf1e1749b78.webp",
+    "description" : "2-Pc: Increases Wind DMG by 10%. \n4-Pc: After the wearer uses their Ultimate, their action is Advanced Forward by 25%.",
+    "group": "Eagle of Twilight Line"
+  },
+  {
+    "id": "61104",
+    "name": "Eagle's Quilted Puttees",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/b50d07cce8940db6b1a495d7918f6bf33e5345c5f4513cb2ce8bedf1e1749b78.webp",
+    "description" : "2-Pc: Increases Wind DMG by 10%. \n4-Pc: After the wearer uses their Ultimate, their action is Advanced Forward by 25%.",
+    "group": "Eagle of Twilight Line"
+  },
+  {
+    "id": "61111",
+    "name": "Thief's Myriad-Faced Mask",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/167d2804ceb28e0f33d94a60d3cd1d026adf530cceeeaaaa7897f83573ce0745.webp",
+    "description" : "2-Pc: Increases Break Effect by 16%. \n4-Pc: Increases the wearer's Break Effect by 16%. After the wearer inflicts Weakness Break on an enemy, regenerates 3 Energy.",
+    "group": "Thief of Shooting Meteor"
+  },
+  {
+    "id": "61112",
+    "name": "Thief's Gloves With Prints",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/167d2804ceb28e0f33d94a60d3cd1d026adf530cceeeaaaa7897f83573ce0745.webp",
+    "description" : "2-Pc: Increases Break Effect by 16%. \n4-Pc: Increases the wearer's Break Effect by 16%. After the wearer inflicts Weakness Break on an enemy, regenerates 3 Energy.",
+    "group": "Thief of Shooting Meteor"
+  },
+  {
+    "id": "61113",
+    "name": "Thief's Steel Grappling Hook",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/167d2804ceb28e0f33d94a60d3cd1d026adf530cceeeaaaa7897f83573ce0745.webp",
+    "description" : "2-Pc: Increases Break Effect by 16%. \n4-Pc: Increases the wearer's Break Effect by 16%. After the wearer inflicts Weakness Break on an enemy, regenerates 3 Energy.",
+    "group": "Thief of Shooting Meteor"
+  },
+  {
+    "id": "61114",
+    "name": "Thief's Meteor Boots",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/167d2804ceb28e0f33d94a60d3cd1d026adf530cceeeaaaa7897f83573ce0745.webp",
+    "description" : "2-Pc: Increases Break Effect by 16%. \n4-Pc: Increases the wearer's Break Effect by 16%. After the wearer inflicts Weakness Break on an enemy, regenerates 3 Energy.",
+    "group": "Thief of Shooting Meteor"
+  },
+  {
+    "id": "61121",
+    "name": "Wastelander's Breathing Mask",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/37b4a444ac1e2e81ae7d166d6b99cf2c534808480dc1b7ff381039333bff2fca.webp",
+    "description" : "2-Pc: Increases Imaginary DMG by 10%. \n4-Pc: When dealing DMG to debuffed enemy targets, the wearer has their CRIT Rate increased by 10%. And when they deal DMG to Imprisoned enemy targets, their CRIT DMG increases by 20%.",
+    "group": "Wastelander of Banditry Desert"
+  },
+  {
+    "id": "61122",
+    "name": "Wastelander's Desert Terminal",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/37b4a444ac1e2e81ae7d166d6b99cf2c534808480dc1b7ff381039333bff2fca.webp",
+    "description" : "2-Pc: Increases Imaginary DMG by 10%. \n4-Pc: When dealing DMG to debuffed enemy targets, the wearer has their CRIT Rate increased by 10%. And when they deal DMG to Imprisoned enemy targets, their CRIT DMG increases by 20%.",
+    "group": "Wastelander of Banditry Desert"
+  },
+  {
+    "id": "61123",
+    "name": "Wastelander's Friar Robe",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/37b4a444ac1e2e81ae7d166d6b99cf2c534808480dc1b7ff381039333bff2fca.webp",
+    "description" : "2-Pc: Increases Imaginary DMG by 10%. \n4-Pc: When dealing DMG to debuffed enemy targets, the wearer has their CRIT Rate increased by 10%. And when they deal DMG to Imprisoned enemy targets, their CRIT DMG increases by 20%.",
+    "group": "Wastelander of Banditry Desert"
+  },
+  {
+    "id": "61124",
+    "name": "Wastelander's Powered Greaves",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/37b4a444ac1e2e81ae7d166d6b99cf2c534808480dc1b7ff381039333bff2fca.webp",
+    "description" : "2-Pc: Increases Imaginary DMG by 10%. \n4-Pc: When dealing DMG to debuffed enemy targets, the wearer has their CRIT Rate increased by 10%. And when they deal DMG to Imprisoned enemy targets, their CRIT DMG increases by 20%.",
+    "group": "Wastelander of Banditry Desert"
+  },
+  {
+    "id": "61131",
+    "name": "Disciple's Prosthetic Eye",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/464ebde376f99b43e825bf68497794dbff531e112dcf545e87e96032e43dad12.webp",
+    "description" : "2-Pc: Increases Max HP by 12%. \n4-Pc: When the wearer is hit or has their HP consumed by an ally or themselves, their CRIT Rate increases by 8% for 2 turn(s) and up to 2 stacks.",
+    "group": "Longevous Disciple"
+  },
+  {
+    "id": "61132",
+    "name": "Disciple's Ingenium Hand",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/464ebde376f99b43e825bf68497794dbff531e112dcf545e87e96032e43dad12.webp",
+    "description" : "2-Pc: Increases Max HP by 12%. \n4-Pc: When the wearer is hit or has their HP consumed by an ally or themselves, their CRIT Rate increases by 8% for 2 turn(s) and up to 2 stacks.",
+    "group": "Longevous Disciple"
+  },
+  {
+    "id": "61133",
+    "name": "Disciple's Dewy Feather Garb",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/464ebde376f99b43e825bf68497794dbff531e112dcf545e87e96032e43dad12.webp",
+    "description" : "2-Pc: Increases Max HP by 12%. \n4-Pc: When the wearer is hit or has their HP consumed by an ally or themselves, their CRIT Rate increases by 8% for 2 turn(s) and up to 2 stacks.",
+    "group": "Longevous Disciple"
+  },
+  {
+    "id": "61134",
+    "name": "Disciple's Celestial Silk Sandals",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/464ebde376f99b43e825bf68497794dbff531e112dcf545e87e96032e43dad12.webp",
+    "description" : "2-Pc: Increases Max HP by 12%. \n4-Pc: When the wearer is hit or has their HP consumed by an ally or themselves, their CRIT Rate increases by 8% for 2 turn(s) and up to 2 stacks.",
+    "group": "Longevous Disciple"
+  },
+  {
+    "id": "61141",
+    "name": "Messenger's Holovisor",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/a70e3398a4e6a8ed09452944e355ce5813431a4ff252f6d0ccc19965d5482f9e.webp",
+    "description" : "2-Pc: Increases SPD by 6%. \n4-Pc: When the wearer uses their Ultimate on an ally, SPD for all allies increases by 12% for 1 turn(s). This effect cannot be stacked.",
+    "group": "Messenger Traversing Hackerspace"
+  },
+  {
+    "id": "61142",
+    "name": "Messenger's Transformative Arm",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/a70e3398a4e6a8ed09452944e355ce5813431a4ff252f6d0ccc19965d5482f9e.webp",
+    "description" : "2-Pc: Increases SPD by 6%. \n4-Pc: When the wearer uses their Ultimate on an ally, SPD for all allies increases by 12% for 1 turn(s). This effect cannot be stacked.",
+    "group": "Messenger Traversing Hackerspace"
+  },
+  {
+    "id": "61143",
+    "name": "Messenger's Secret Satchel",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/a70e3398a4e6a8ed09452944e355ce5813431a4ff252f6d0ccc19965d5482f9e.webp",
+    "description" : "2-Pc: Increases SPD by 6%. \n4-Pc: When the wearer uses their Ultimate on an ally, SPD for all allies increases by 12% for 1 turn(s). This effect cannot be stacked.",
+    "group": "Messenger Traversing Hackerspace"
+  },
+  {
+    "id": "61144",
+    "name": "Messenger's Par-kool Sneakers",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/a70e3398a4e6a8ed09452944e355ce5813431a4ff252f6d0ccc19965d5482f9e.webp",
+    "description" : "2-Pc: Increases SPD by 6%. \n4-Pc: When the wearer uses their Ultimate on an ally, SPD for all allies increases by 12% for 1 turn(s). This effect cannot be stacked.",
+    "group": "Messenger Traversing Hackerspace"
+  },
+  {
+    "id": "61151",
+    "name": "Grand Duke's Crown of Netherflame",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/5f23334ada152a0b4f3942ef8cf645e67bf5c96fe27f211926406e96d7cba013.webp",
+    "description" : "2-Pc: Increases the DMG dealt by follow-up attack by 20%. \n4-Pc: When the wearer uses a follow-up attack, increases the wearer's ATK by 6% for every time the follow-up attack deals DMG. This effect can stack up to 8 time(s) and lasts for 3 turn(s). This effect is removed the next time the wearer uses a follow-up attack.",
+    "group": "The Ashblazing Grand Duke"
+  },
+  {
+    "id": "61152",
+    "name": "Grand Duke's Gloves of Fieryfur",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/5f23334ada152a0b4f3942ef8cf645e67bf5c96fe27f211926406e96d7cba013.webp",
+    "description" : "2-Pc: Increases the DMG dealt by follow-up attack by 20%. \n4-Pc: When the wearer uses a follow-up attack, increases the wearer's ATK by 6% for every time the follow-up attack deals DMG. This effect can stack up to 8 time(s) and lasts for 3 turn(s). This effect is removed the next time the wearer uses a follow-up attack.",
+    "group": "The Ashblazing Grand Duke"
+  },
+  {
+    "id": "61153",
+    "name": "Grand Duke's Robe of Grace",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/5f23334ada152a0b4f3942ef8cf645e67bf5c96fe27f211926406e96d7cba013.webp",
+    "description" : "2-Pc: Increases the DMG dealt by follow-up attack by 20%. \n4-Pc: When the wearer uses a follow-up attack, increases the wearer's ATK by 6% for every time the follow-up attack deals DMG. This effect can stack up to 8 time(s) and lasts for 3 turn(s). This effect is removed the next time the wearer uses a follow-up attack.",
+    "group": "The Ashblazing Grand Duke"
+  },
+  {
+    "id": "61154",
+    "name": "Grand Duke's Ceremonial Boots",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/5f23334ada152a0b4f3942ef8cf645e67bf5c96fe27f211926406e96d7cba013.webp",
+    "description" : "2-Pc: Increases the DMG dealt by follow-up attack by 20%. \n4-Pc: When the wearer uses a follow-up attack, increases the wearer's ATK by 6% for every time the follow-up attack deals DMG. This effect can stack up to 8 time(s) and lasts for 3 turn(s). This effect is removed the next time the wearer uses a follow-up attack.",
+    "group": "The Ashblazing Grand Duke"
+  },
+  {
+    "id": "61161",
+    "name": "Prisoner's Sealed Muzzle",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/b96878a09884e37958a32f7f404b82eeb726239d2f91e7720bd5ec70ae85c780.webp",
+    "description" : "2-Pc: Increases ATK by 12%. \n4-Pc: For every DoT the enemy target is afflicted with, the wearer will ignore 6% of its DEF when dealing DMG to it. This effect is valid for a max of 3 DoTs.",
+    "group": "Prisoner in Deep Confinement"
+  },
+  {
+    "id": "61162",
+    "name": "Prisoner's Leadstone Shackles",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/b96878a09884e37958a32f7f404b82eeb726239d2f91e7720bd5ec70ae85c780.webp",
+    "description" : "2-Pc: Increases ATK by 12%. \n4-Pc: For every DoT the enemy target is afflicted with, the wearer will ignore 6% of its DEF when dealing DMG to it. This effect is valid for a max of 3 DoTs.",
+    "group": "Prisoner in Deep Confinement"
+  },
+  {
+    "id": "61163",
+    "name": "Prisoner's Repressive Straitjacket",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/b96878a09884e37958a32f7f404b82eeb726239d2f91e7720bd5ec70ae85c780.webp",
+    "description" : "2-Pc: Increases ATK by 12%. \n4-Pc: For every DoT the enemy target is afflicted with, the wearer will ignore 6% of its DEF when dealing DMG to it. This effect is valid for a max of 3 DoTs.",
+    "group": "Prisoner in Deep Confinement"
+  },
+  {
+    "id": "61164",
+    "name": "Prisoner's Restrictive Fetters",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/b96878a09884e37958a32f7f404b82eeb726239d2f91e7720bd5ec70ae85c780.webp",
+    "description" : "2-Pc: Increases ATK by 12%. \n4-Pc: For every DoT the enemy target is afflicted with, the wearer will ignore 6% of its DEF when dealing DMG to it. This effect is valid for a max of 3 DoTs.",
+    "group": "Prisoner in Deep Confinement"
+  },
+  {
+    "id": "61171",
+    "name": "Pioneer's Heatproof Shell",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/30759bca77283eb206637564bdbeca0203649360e63338323026e88c2d4aa286.webp",
+    "description" : "2-Pc: Increases DMG dealt to enemies with debuffs by 12%. \n4-Pc: Increases CRIT Rate by 4%. The wearer deals 8%/12% increased CRIT DMG to enemies with at least 2/3 debuffs. After the wearer inflicts a debuff on enemy targets, the aforementioned effects increase by 100%, lasting for 1 turn(s).",
+    "group": "Pioneer Diver of Dead Waters"
+  },
+  {
+    "id": "61172",
+    "name": "Pioneer's Lacuna Compass",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/30759bca77283eb206637564bdbeca0203649360e63338323026e88c2d4aa286.webp",
+    "description" : "2-Pc: Increases DMG dealt to enemies with debuffs by 12%. \n4-Pc: Increases CRIT Rate by 4%. The wearer deals 8%/12% increased CRIT DMG to enemies with at least 2/3 debuffs. After the wearer inflicts a debuff on enemy targets, the aforementioned effects increase by 100%, lasting for 1 turn(s).",
+    "group": "Pioneer Diver of Dead Waters"
+  },
+  {
+    "id": "61173",
+    "name": "Pioneer's Sealed Lead Apron",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/30759bca77283eb206637564bdbeca0203649360e63338323026e88c2d4aa286.webp",
+    "description" : "2-Pc: Increases DMG dealt to enemies with debuffs by 12%. \n4-Pc: Increases CRIT Rate by 4%. The wearer deals 8%/12% increased CRIT DMG to enemies with at least 2/3 debuffs. After the wearer inflicts a debuff on enemy targets, the aforementioned effects increase by 100%, lasting for 1 turn(s).",
+    "group": "Pioneer Diver of Dead Waters"
+  },
+  {
+    "id": "61174",
+    "name": "Pioneer's Starfaring Anchor",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/30759bca77283eb206637564bdbeca0203649360e63338323026e88c2d4aa286.webp",
+    "description" : "2-Pc: Increases DMG dealt to enemies with debuffs by 12%. \n4-Pc: Increases CRIT Rate by 4%. The wearer deals 8%/12% increased CRIT DMG to enemies with at least 2/3 debuffs. After the wearer inflicts a debuff on enemy targets, the aforementioned effects increase by 100%, lasting for 1 turn(s).",
+    "group": "Pioneer Diver of Dead Waters"
+  },
+  {
+    "id": "61181",
+    "name": "Watchmaker's Telescoping Lens",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/e665540524d010fd7d25bcc511e49ea5ed8a36dbbeab700e92f631a21dea4b80.webp",
+    "description" : "2-Pc: Increases Break Effect by 16%. \n4-Pc: When the wearer uses their Ultimate on an ally, all allies' Break Effect increases by 30% for 2 turn(s). This effect cannot be stacked.",
+    "group": "Watchmaker, Master of Dream Machinations"
+  },
+  {
+    "id": "61182",
+    "name": "Watchmaker's Fortuitous Wristwatch",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/e665540524d010fd7d25bcc511e49ea5ed8a36dbbeab700e92f631a21dea4b80.webp",
+    "description" : "2-Pc: Increases Break Effect by 16%. \n4-Pc: When the wearer uses their Ultimate on an ally, all allies' Break Effect increases by 30% for 2 turn(s). This effect cannot be stacked.",
+    "group": "Watchmaker, Master of Dream Machinations"
+  },
+  {
+    "id": "61183",
+    "name": "Watchmaker's Illusory Formal Suit",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/e665540524d010fd7d25bcc511e49ea5ed8a36dbbeab700e92f631a21dea4b80.webp",
+    "description" : "2-Pc: Increases Break Effect by 16%. \n4-Pc: When the wearer uses their Ultimate on an ally, all allies' Break Effect increases by 30% for 2 turn(s). This effect cannot be stacked.",
+    "group": "Watchmaker, Master of Dream Machinations"
+  },
+  {
+    "id": "61184",
+    "name": "Watchmaker's Dream-Concealing Dress Shoes",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/e665540524d010fd7d25bcc511e49ea5ed8a36dbbeab700e92f631a21dea4b80.webp",
+    "description" : "2-Pc: Increases Break Effect by 16%. \n4-Pc: When the wearer uses their Ultimate on an ally, all allies' Break Effect increases by 30% for 2 turn(s). This effect cannot be stacked.",
+    "group": "Watchmaker, Master of Dream Machinations"
+  },
+  {
+    "id": "61191",
+    "name": "Iron Cavalry's Homing Helm",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/8555696a7a48506c0ae76e8b2616d89773a5e548bff9cfc795481aafab52dddd.webp",
+    "description" : "2-Pc: Increases Break Effect by 16%. \n4-Pc: If the wearer's Break Effect is 150% or higher, the Break DMG dealt to the enemy target ignores 10% of their DEF. If the wearer's Break Effect is 250% or higher, the Super Break DMG dealt to the enemy target additionally ignores 15% of their DEF.",
+    "group": "Iron Cavalry Against the Scourge"
+  },
+  {
+    "id": "61192",
+    "name": "Iron Cavalry's Crushing Wristguard",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/8555696a7a48506c0ae76e8b2616d89773a5e548bff9cfc795481aafab52dddd.webp",
+    "description" : "2-Pc: Increases Break Effect by 16%. \n4-Pc: If the wearer's Break Effect is 150% or higher, the Break DMG dealt to the enemy target ignores 10% of their DEF. If the wearer's Break Effect is 250% or higher, the Super Break DMG dealt to the enemy target additionally ignores 15% of their DEF.",
+    "group": "Iron Cavalry Against the Scourge"
+  },
+  {
+    "id": "61193",
+    "name": "Iron Cavalry's Silvery Armor",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/8555696a7a48506c0ae76e8b2616d89773a5e548bff9cfc795481aafab52dddd.webp",
+    "description" : "2-Pc: Increases Break Effect by 16%. \n4-Pc: If the wearer's Break Effect is 150% or higher, the Break DMG dealt to the enemy target ignores 10% of their DEF. If the wearer's Break Effect is 250% or higher, the Super Break DMG dealt to the enemy target additionally ignores 15% of their DEF.",
+    "group": "Iron Cavalry Against the Scourge"
+  },
+  {
+    "id": "61194",
+    "name": "Iron Cavalry's Skywalk Greaves",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/8555696a7a48506c0ae76e8b2616d89773a5e548bff9cfc795481aafab52dddd.webp",
+    "description" : "2-Pc: Increases Break Effect by 16%. \n4-Pc: If the wearer's Break Effect is 150% or higher, the Break DMG dealt to the enemy target ignores 10% of their DEF. If the wearer's Break Effect is 250% or higher, the Super Break DMG dealt to the enemy target additionally ignores 15% of their DEF.",
+    "group": "Iron Cavalry Against the Scourge"
+  },
+  {
+    "id": "61201",
+    "name": "Valorous Mask of Northern Skies",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/31f26c4ad8d4cca252d870623942cd00b13e57c5e0cf5ebd1aaf02835e0bb6ca.webp",
+    "description" : "2-Pc: Increases ATK by 12%. \n4-Pc: Increases the wearer's CRIT Rate by 6%. After the wearer uses a follow-up attack, increases DMG dealt by Ultimate by 36%, lasting for 1 turn(s).",
+    "group": "The Wind-Soaring Valorous"
+  },
+  {
+    "id": "61202",
+    "name": "Valorous Bracelet of Grappling Hooks",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/31f26c4ad8d4cca252d870623942cd00b13e57c5e0cf5ebd1aaf02835e0bb6ca.webp",
+    "description" : "2-Pc: Increases ATK by 12%. \n4-Pc: Increases the wearer's CRIT Rate by 6%. After the wearer uses a follow-up attack, increases DMG dealt by Ultimate by 36%, lasting for 1 turn(s).",
+    "group": "The Wind-Soaring Valorous"
+  },
+  {
+    "id": "61203",
+    "name": "Valorous Plate of Soaring Flight",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/31f26c4ad8d4cca252d870623942cd00b13e57c5e0cf5ebd1aaf02835e0bb6ca.webp",
+    "description" : "2-Pc: Increases ATK by 12%. \n4-Pc: Increases the wearer's CRIT Rate by 6%. After the wearer uses a follow-up attack, increases DMG dealt by Ultimate by 36%, lasting for 1 turn(s).",
+    "group": "The Wind-Soaring Valorous"
+  },
+  {
+    "id": "61204",
+    "name": "Valorous Greaves of Pursuing Hunt",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/31f26c4ad8d4cca252d870623942cd00b13e57c5e0cf5ebd1aaf02835e0bb6ca.webp",
+    "description" : "2-Pc: Increases ATK by 12%. \n4-Pc: Increases the wearer's CRIT Rate by 6%. After the wearer uses a follow-up attack, increases DMG dealt by Ultimate by 36%, lasting for 1 turn(s).",
+    "group": "The Wind-Soaring Valorous"
+  },
+  {
+    "id": "61211",
+    "name": "Sacerdos' Melodic Earrings",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/4be010d0c22a3d6b5fefaf35af3718f3e1b281e1974953928195c9d1bd77a520.webp",
+    "description" : "2-Pc: Increases SPD by 6%. \n4-Pc: When using Skill or Ultimate on one ally target, increases the ability target's CRIT DMG by 18%, lasting for 2 turn(s). This effect can stack up to 2 time(s).",
+    "group": "Sacerdos' Relived Ordeal"
+  },
+  {
+    "id": "61212",
+    "name": "Sacerdos' Welcoming Gloves",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/4be010d0c22a3d6b5fefaf35af3718f3e1b281e1974953928195c9d1bd77a520.webp",
+    "description" : "2-Pc: Increases SPD by 6%. \n4-Pc: When using Skill or Ultimate on one ally target, increases the ability target's CRIT DMG by 18%, lasting for 2 turn(s). This effect can stack up to 2 time(s).",
+    "group": "Sacerdos' Relived Ordeal"
+  },
+  {
+    "id": "61213",
+    "name": "Sacerdos' Ceremonial Garb",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/4be010d0c22a3d6b5fefaf35af3718f3e1b281e1974953928195c9d1bd77a520.webp",
+    "description" : "2-Pc: Increases SPD by 6%. \n4-Pc: When using Skill or Ultimate on one ally target, increases the ability target's CRIT DMG by 18%, lasting for 2 turn(s). This effect can stack up to 2 time(s).",
+    "group": "Sacerdos' Relived Ordeal"
+  },
+  {
+    "id": "61214",
+    "name": "Sacerdos' Arduous Boots",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/4be010d0c22a3d6b5fefaf35af3718f3e1b281e1974953928195c9d1bd77a520.webp",
+    "description" : "2-Pc: Increases SPD by 6%. \n4-Pc: When using Skill or Ultimate on one ally target, increases the ability target's CRIT DMG by 18%, lasting for 2 turn(s). This effect can stack up to 2 time(s).",
+    "group": "Sacerdos' Relived Ordeal"
+  },
+  {
+    "id": "61221",
+    "name": "Scholar's Silver-Rimmed Monocle",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/64c017eb10bf12c2f8aa2dd75172d8ee4dd400e503ea59e81bb7cb40aec03d2f.webp",
+    "description" : "2-Pc: Increases CRIT Rate by 8%. \n4-Pc: Increases DMG dealt by Skill and Ultimate by 20%. After using Ultimate, additionally increases the DMG dealt by the next Skill by 25%.",
+    "group": "Scholar Lost in Erudition"
+  },
+  {
+    "id": "61222",
+    "name": "Scholar's Tweed Jacket",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/64c017eb10bf12c2f8aa2dd75172d8ee4dd400e503ea59e81bb7cb40aec03d2f.webp",
+    "description" : "2-Pc: Increases CRIT Rate by 8%. \n4-Pc: Increases DMG dealt by Skill and Ultimate by 20%. After using Ultimate, additionally increases the DMG dealt by the next Skill by 25%.",
+    "group": "Scholar Lost in Erudition"
+  },
+  {
+    "id": "61223",
+    "name": "Scholar's Auxiliary Knuckle",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/64c017eb10bf12c2f8aa2dd75172d8ee4dd400e503ea59e81bb7cb40aec03d2f.webp",
+    "description" : "2-Pc: Increases CRIT Rate by 8%. \n4-Pc: Increases DMG dealt by Skill and Ultimate by 20%. After using Ultimate, additionally increases the DMG dealt by the next Skill by 25%.",
+    "group": "Scholar Lost in Erudition"
+  },
+  {
+    "id": "61224",
+    "name": "Scholar's Felt Snowboots",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/64c017eb10bf12c2f8aa2dd75172d8ee4dd400e503ea59e81bb7cb40aec03d2f.webp",
+    "description" : "2-Pc: Increases CRIT Rate by 8%. \n4-Pc: Increases DMG dealt by Skill and Ultimate by 20%. After using Ultimate, additionally increases the DMG dealt by the next Skill by 25%.",
+    "group": "Scholar Lost in Erudition"
+  },
+  {
+    "id": "61231",
+    "name": "Hero's Wreath of Championship",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/ac1f35238b1b3d81afc152cb98c5db5b395180db3e01204a21a736a7eb5cc0cf.webp",
+    "description" : "2-Pc: Increases ATK by 12%. \n4-Pc: While the wearer's memosprite is on the field, increases the wearer's SPD by 6%. When the wearer's memosprite attacks, increases the wearer's and memosprite's CRIT DMG by 30%, lasting for 2 turn(s).",
+    "group": "Hero of Triumphant Song"
+  },
+  {
+    "id": "61232",
+    "name": "Hero's Gilded Bracers",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/ac1f35238b1b3d81afc152cb98c5db5b395180db3e01204a21a736a7eb5cc0cf.webp",
+    "description" : "2-Pc: Increases ATK by 12%. \n4-Pc: While the wearer's memosprite is on the field, increases the wearer's SPD by 6%. When the wearer's memosprite attacks, increases the wearer's and memosprite's CRIT DMG by 30%, lasting for 2 turn(s).",
+    "group": "Hero of Triumphant Song"
+  },
+  {
+    "id": "61233",
+    "name": "Hero's Gallant Golden Armor",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/ac1f35238b1b3d81afc152cb98c5db5b395180db3e01204a21a736a7eb5cc0cf.webp",
+    "description" : "2-Pc: Increases ATK by 12%. \n4-Pc: While the wearer's memosprite is on the field, increases the wearer's SPD by 6%. When the wearer's memosprite attacks, increases the wearer's and memosprite's CRIT DMG by 30%, lasting for 2 turn(s).",
+    "group": "Hero of Triumphant Song"
+  },
+  {
+    "id": "61234",
+    "name": "Hero's Firechasing Shinguard",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/ac1f35238b1b3d81afc152cb98c5db5b395180db3e01204a21a736a7eb5cc0cf.webp",
+    "description" : "2-Pc: Increases ATK by 12%. \n4-Pc: While the wearer's memosprite is on the field, increases the wearer's SPD by 6%. When the wearer's memosprite attacks, increases the wearer's and memosprite's CRIT DMG by 30%, lasting for 2 turn(s).",
+    "group": "Hero of Triumphant Song"
+  },
+  {
+    "id": "61241",
+    "name": "Poet's Dill Wreath",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/9e4fa5462b9020100e251443dc967280b667b1ef9345fe5c973af3b6c23d2cc8.webp",
+    "description" : "2-Pc: Increases Quantum DMG by 10%. \n4-Pc: Decreases the wearer's SPD by 8%. Before entering battle, if the wearer's SPD is lower than 110/95, increases the wearer's CRIT Rate by 20%/32%. This effect applies to the wearer's memosprite at the same time.",
+    "group": "Poet of Mourning Collapse"
+  },
+  {
+    "id": "61242",
+    "name": "Poet's Gilded Bracelet",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/9e4fa5462b9020100e251443dc967280b667b1ef9345fe5c973af3b6c23d2cc8.webp",
+    "description" : "2-Pc: Increases Quantum DMG by 10%. \n4-Pc: Decreases the wearer's SPD by 8%. Before entering battle, if the wearer's SPD is lower than 110/95, increases the wearer's CRIT Rate by 20%/32%. This effect applies to the wearer's memosprite at the same time.",
+    "group": "Poet of Mourning Collapse"
+  },
+  {
+    "id": "61243",
+    "name": "Poet's Star-Studded Skirt",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/9e4fa5462b9020100e251443dc967280b667b1ef9345fe5c973af3b6c23d2cc8.webp",
+    "description" : "2-Pc: Increases Quantum DMG by 10%. \n4-Pc: Decreases the wearer's SPD by 8%. Before entering battle, if the wearer's SPD is lower than 110/95, increases the wearer's CRIT Rate by 20%/32%. This effect applies to the wearer's memosprite at the same time.",
+    "group": "Poet of Mourning Collapse"
+  },
+  {
+    "id": "61244",
+    "name": "Poet's Silver-Studded Shoes",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/9e4fa5462b9020100e251443dc967280b667b1ef9345fe5c973af3b6c23d2cc8.webp",
+    "description" : "2-Pc: Increases Quantum DMG by 10%. \n4-Pc: Decreases the wearer's SPD by 8%. Before entering battle, if the wearer's SPD is lower than 110/95, increases the wearer's CRIT Rate by 20%/32%. This effect applies to the wearer's memosprite at the same time.",
+    "group": "Poet of Mourning Collapse"
+  },
+  {
+    "id": "63015",
+    "name": "Herta's Space Station",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/99912cd3a07b1f91bb5e9162fbbe62ad861d2159d41e22201263d03cf5e7ea2b.webp",
+    "description" : "2-Pc: Increases the wearer's ATK by 12%. When the wearer's SPD reaches 120 or higher, the wearer's ATK increases by an extra 12%",
+    "group": "Space Sealing Station"
+  },
+  {
+    "id": "63016",
+    "name": "Herta's Wandering Trek",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/99912cd3a07b1f91bb5e9162fbbe62ad861d2159d41e22201263d03cf5e7ea2b.webp",
+    "description" : "2-Pc: Increases the wearer's ATK by 12%. When the wearer's SPD reaches 120 or higher, the wearer's ATK increases by an extra 12%",
+    "group": "Space Sealing Station"
+  },
+  {
+    "id": "63025",
+    "name": "The Xianzhou Luofu's Celestial Ark",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/71089e4f257d91d2bc4283fcaeb4fd7f28efd09cb709f39b23fbb23e6d29624b.webp",
+    "description" : "2-Pc: Increases the wearer's Max HP by 12%. When the wearer's SPD reaches 120 or higher, all allies' ATK increases by 8%.",
+    "group": "Fleet of the Ageless"
+  },
+  {
+    "id": "63026",
+    "name": "The Xianzhou Luofu's Ambrosial Arbor Vines",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/71089e4f257d91d2bc4283fcaeb4fd7f28efd09cb709f39b23fbb23e6d29624b.webp",
+    "description" : "2-Pc: Increases the wearer's Max HP by 12%. When the wearer's SPD reaches 120 or higher, all allies' ATK increases by 8%.",
+    "group": "Fleet of the Ageless"
+  },
+  {
+    "id": "63035",
+    "name": "The IPC's Mega HQ",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/a0960d5af6cf1132823fd310bb121f93ef987f2b763835967ce1f89a200b1af1.webp",
+    "description" : "2-Pc: Increases the wearer's Effect Hit Rate by 10%. Meanwhile, the wearer's ATK increases by an amount that is equal to 25% of the current Effect Hit Rate, up to a maximum of 25%.",
+    "group": "Pan-Cosmic Commercial Enterprise"
+  },
+  {
+    "id": "63036",
+    "name": "The IPC's Trade Route",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/a0960d5af6cf1132823fd310bb121f93ef987f2b763835967ce1f89a200b1af1.webp",
+    "description" : "2-Pc: Increases the wearer's Effect Hit Rate by 10%. Meanwhile, the wearer's ATK increases by an amount that is equal to 25% of the current Effect Hit Rate, up to a maximum of 25%.",
+    "group": "Pan-Cosmic Commercial Enterprise"
+  },
+  {
+    "id": "63045",
+    "name": "Belobog's Fortress of Preservation",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/ccf3625e8d598d1cc45f06c00997fc04bdcfc0ed694bc1e096ec6fea3d9c0e10.webp",
+    "description" : "2-Pc: Increases the wearer's DEF by 15%. When the wearer's Effect Hit Rate is 50% or higher, the wearer gains an extra 15% DEF.",
+    "group": "Belobog of the Architects"
+  },
+  {
+    "id": "63046",
+    "name": "Belobog's Iron Defense",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/ccf3625e8d598d1cc45f06c00997fc04bdcfc0ed694bc1e096ec6fea3d9c0e10.webp",
+    "description" : "2-Pc: Increases the wearer's DEF by 15%. When the wearer's Effect Hit Rate is 50% or higher, the wearer gains an extra 15% DEF.",
+    "group": "Belobog of the Architects"
+  },
+  {
+    "id": "63055",
+    "name": "Planet Screwllum's Mechanical Sun",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/6a531031eac68aa3ba68a5b0946ff833d5bdfb76fecaee9552bb1901b3ed36dd.webp",
+    "description" : "2-Pc: Increases the wearer's CRIT DMG by 16%. When the wearer's current CRIT DMG reaches 120% or higher, after entering battle, the wearer's CRIT Rate increases by 60% until the end of their first attack.",
+    "group": "Celestial Differentiator"
+  },
+  {
+    "id": "63056",
+    "name": "Planet Screwllum's Ring System",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/6a531031eac68aa3ba68a5b0946ff833d5bdfb76fecaee9552bb1901b3ed36dd.webp",
+    "description" : "2-Pc: Increases the wearer's CRIT DMG by 16%. When the wearer's current CRIT DMG reaches 120% or higher, after entering battle, the wearer's CRIT Rate increases by 60% until the end of their first attack.",
+    "group": "Celestial Differentiator"
+  },
+  {
+    "id": "63065",
+    "name": "Salsotto's Moving City",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/a1ff8e89beab438d0e28880e8c7dcc50529b31baefcd50f674ce10b62d06c6e3.webp",
+    "description" : "2-Pc: Increases the wearer's CRIT Rate by 8%. When the wearer's current CRIT Rate reaches 50% or higher, the DMG dealt by the wearer's Ultimate and follow-up attack increases by 15%.",
+    "group": "Inert Salsotto"
+  },
+  {
+    "id": "63066",
+    "name": "Salsotto's Terminator Line",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/a1ff8e89beab438d0e28880e8c7dcc50529b31baefcd50f674ce10b62d06c6e3.webp",
+    "description" : "2-Pc: Increases the wearer's CRIT Rate by 8%. When the wearer's current CRIT Rate reaches 50% or higher, the DMG dealt by the wearer's Ultimate and follow-up attack increases by 15%.",
+    "group": "Inert Salsotto"
+  },
+  {
+    "id": "63075",
+    "name": "Talia's Nailscrap Town",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/1101a5e1255ad695ea565980c13708e326b20847d8adb1294c97cba00d26216f.webp",
+    "description" : "2-Pc: Increases the wearer's Break Effect by 16%. When the wearer's SPD reaches 145 or higher, the wearer's Break Effect increases by an extra 20%.",
+    "group": "Talia: Kingdom of Banditry"
+  },
+  {
+    "id": "63076",
+    "name": "Talia's Exposed Electric Wire",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/1101a5e1255ad695ea565980c13708e326b20847d8adb1294c97cba00d26216f.webp",
+    "description" : "2-Pc: Increases the wearer's Break Effect by 16%. When the wearer's SPD reaches 145 or higher, the wearer's Break Effect increases by an extra 20%.",
+    "group": "Talia: Kingdom of Banditry"
+  },
+  {
+    "id": "63085",
+    "name": "Vonwacq's Island of Birth",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/608d379165c464ce1b001a1378bc47cab4909e8b295bc08a80279d2610e7d50b.webp",
+    "description" : "2-Pc: Increases the wearer's Energy Regeneration Rate by 5%. When the wearer's SPD reaches 120 or higher, the wearer's action is Advanced Forward by 40% immediately upon entering battle.",
+    "group": "Sprightly Vonwacq"
+  },
+  {
+    "id": "63086",
+    "name": "Vonwacq's Islandic Coast",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/608d379165c464ce1b001a1378bc47cab4909e8b295bc08a80279d2610e7d50b.webp",
+    "description" : "2-Pc: Increases the wearer's Energy Regeneration Rate by 5%. When the wearer's SPD reaches 120 or higher, the wearer's action is Advanced Forward by 40% immediately upon entering battle.",
+    "group": "Sprightly Vonwacq"
+  },
+  {
+    "id": "63095",
+    "name": "Taikiyan Laser Stadium",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/c92449d218f61e942b89fe12b1ef326a58bdea7dac6f733548e8f9b9edd35241.webp",
+    "description" : "2-Pc: Increases the wearer's CRIT Rate by 8%. When the wearer's current CRIT Rate reaches 70% or higher, DMG dealt by Basic ATK and Skill increases by 20%.",
+    "group": "Rutilant Arena"
+  },
+  {
+    "id": "63096",
+    "name": "Taikiyan's Arclight Race Track",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/c92449d218f61e942b89fe12b1ef326a58bdea7dac6f733548e8f9b9edd35241.webp",
+    "description" : "2-Pc: Increases the wearer's CRIT Rate by 8%. When the wearer's current CRIT Rate reaches 70% or higher, DMG dealt by Basic ATK and Skill increases by 20%.",
+    "group": "Rutilant Arena"
+  },
+  {
+    "id": "63105",
+    "name": "Insumousu's Whalefall Ship",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/29da902d09f455c932598d18f5e8c024a0f24ebfb6f4e471f91f0a2fe190cb4f.webp",
+    "description" : "2-Pc: Increases the wearer's Effect RES by 10%. When the wearer's Effect RES is at 30% or higher, all allies' CRIT DMG increases by 10%.",
+    "group": "Broken Keel"
+  },
+  {
+    "id": "63106",
+    "name": "Insumousu's Frayed Hawser",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/29da902d09f455c932598d18f5e8c024a0f24ebfb6f4e471f91f0a2fe190cb4f.webp",
+    "description" : "2-Pc: Increases the wearer's Effect RES by 10%. When the wearer's Effect RES is at 30% or higher, all allies' CRIT DMG increases by 10%.",
+    "group": "Broken Keel"
+  },
+  {
+    "id": "63115",
+    "name": "Glamoth's Iron Cavalry Regiment",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/a51572d5673c6f3c9b2a22c51b8bc691de64e1b7660e6d7c331967f558f3c273.webp",
+    "description" : "2-Pc: Increases the wearer's ATK by 12%. When the wearer's SPD is equal to or higher than 135/160, the wearer deals 12%/18% more DMG.",
+    "group": "Firmament Frontline: Glamoth"
+  },
+  {
+    "id": "63116",
+    "name": "Glamoth's Silent Tombstone",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/a51572d5673c6f3c9b2a22c51b8bc691de64e1b7660e6d7c331967f558f3c273.webp",
+    "description" : "2-Pc: Increases the wearer's ATK by 12%. When the wearer's SPD is equal to or higher than 135/160, the wearer deals 12%/18% more DMG.",
+    "group": "Firmament Frontline: Glamoth"
+  },
+  {
+    "id": "63125",
+    "name": "Penacony's Grand Hotel",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/11393ad3ab73e17fc64cbd8fca0bf79a5d94f795d1395d9dc1f801e377b812ff.webp",
+    "description" : "2-Pc: Increases wearer's Energy Regeneration Rate by 5%. Increases DMG by 10% for all other allies that are of the same Type as the wearer.",
+    "group": "Penacony, Land of the Dreams"
+  },
+  {
+    "id": "63126",
+    "name": "Penacony's Dream-Seeking Tracks",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/11393ad3ab73e17fc64cbd8fca0bf79a5d94f795d1395d9dc1f801e377b812ff.webp",
+    "description" : "2-Pc: Increases wearer's Energy Regeneration Rate by 5%. Increases DMG by 10% for all other allies that are of the same Type as the wearer.",
+    "group": "Penacony, Land of the Dreams"
+  },
+  {
+    "id": "63135",
+    "name": "Sigonia's Gaiathra Berth",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/8060c5d2bebc6e384f294fbdf9378d664b8fbbda7b2845ed45cb9db904cbf891.webp",
+    "description" : "2-Pc: Increases the wearer's CRIT Rate by 4%. When an enemy target gets defeated, the wearer's CRIT DMG increases by 4%, stacking up to 10 time(s).",
+    "group": "Sigonia, the Unclaimed Desolation"
+  },
+  {
+    "id": "63136",
+    "name": "Sigonia's Knot of Cyclicality",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/8060c5d2bebc6e384f294fbdf9378d664b8fbbda7b2845ed45cb9db904cbf891.webp",
+    "description" : "2-Pc: Increases the wearer's CRIT Rate by 4%. When an enemy target gets defeated, the wearer's CRIT DMG increases by 4%, stacking up to 10 time(s).",
+    "group": "Sigonia, the Unclaimed Desolation"
+  },
+  {
+    "id": "63145",
+    "name": "Izumo's Magatsu no Morokami",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/62671982ae2153e565dcf1d56619927bef1492ab24d46703fec7c218d004f77a.webp",
+    "description" : "2-Pc: Increases the wearer's ATK by 12%. When entering battle, if at least one teammate follows the same Path as the wearer, then the wearer's CRIT Rate increases by 12%.",
+    "group": "Izumo Gensei and Takama Divine Realm"
+  },
+  {
+    "id": "63146",
+    "name": "Izumo's Blades of Origin and End",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/62671982ae2153e565dcf1d56619927bef1492ab24d46703fec7c218d004f77a.webp",
+    "description" : "2-Pc: Increases the wearer's ATK by 12%. When entering battle, if at least one teammate follows the same Path as the wearer, then the wearer's CRIT Rate increases by 12%.",
+    "group": "Izumo Gensei and Takama Divine Realm"
+  },
+  {
+    "id": "63155",
+    "name": "Duran's Tent of Golden Sky",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/08c0b8e33ce81fb3e61c799f0414409cc840f44d16c531f583b824d3279b3438.webp",
+    "description" : "2-Pc: When an ally uses a follow-up attack, the wearer gains 1 stack of Merit, stacking up to 5 time(s). Each stack of Merit increases the DMG dealt by the wearer's follow-up attacks by 5%. When there are 5 stacks, additionally increases the wearer's CRIT DMG by 25%.",
+    "group": "Duran, Dynasty of Running Wolves"
+  },
+  {
+    "id": "63156",
+    "name": "Duran's Mechabeast Bridle",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/08c0b8e33ce81fb3e61c799f0414409cc840f44d16c531f583b824d3279b3438.webp",
+    "description" : "2-Pc: When an ally uses a follow-up attack, the wearer gains 1 stack of Merit, stacking up to 5 time(s). Each stack of Merit increases the DMG dealt by the wearer's follow-up attacks by 5%. When there are 5 stacks, additionally increases the wearer's CRIT DMG by 25%.",
+    "group": "Duran, Dynasty of Running Wolves"
+  },
+  {
+    "id": "63165",
+    "name": "Forge's Lotus Lantern Wick",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/9174d9c7e5b5f79d0b0a654340f9e6d9bc36676975acc6c67867838542292bbb.webp",
+    "description" : "2-Pc: Increases the wearer's SPD by 6%. When the wearer hits an enemy target that has Fire Weakness, the wearer's Break Effect increases by 40%, lasting for 1 turn(s).",
+    "group": "Forge of the Kalpagni Lantern"
+  },
+  {
+    "id": "63166",
+    "name": "Forge's Heavenly Flamewheel Silk",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/9174d9c7e5b5f79d0b0a654340f9e6d9bc36676975acc6c67867838542292bbb.webp",
+    "description" : "2-Pc: Increases the wearer's SPD by 6%. When the wearer hits an enemy target that has Fire Weakness, the wearer's Break Effect increases by 40%, lasting for 1 turn(s).",
+    "group": "Forge of the Kalpagni Lantern"
+  },
+  {
+    "id": "63175",
+    "name": "Lushaka's Waterscape",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/db674fd0f1b97c0f64587340330da41ac1b55330822443c6452be5f5c072ab21.webp",
+    "description" : "2-Pc: Increases the wearer's Energy Regeneration Rate by 5%. If the wearer is not the first character in the team lineup, then increases the ATK of the first character in the team lineup by 12%.",
+    "group": "Lushaka, the Sunken Seas"
+  },
+  {
+    "id": "63176",
+    "name": "Lushaka's Twinlanes",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/db674fd0f1b97c0f64587340330da41ac1b55330822443c6452be5f5c072ab21.webp",
+    "description" : "2-Pc: Increases the wearer's Energy Regeneration Rate by 5%. If the wearer is not the first character in the team lineup, then increases the ATK of the first character in the team lineup by 12%.",
+    "group": "Lushaka, the Sunken Seas"
+  },
+  {
+    "id": "63185",
+    "name": "BananAmusement Park's BananAxis Plaza",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/0c0574252d0c6ee5d929dbf72867de3b17b00c4fa19be6848aa792c80402fcbe.webp",
+    "description" : "2-Pc: Increases the wearer's CRIT DMG by 16%. When a target summoned by the wearer is on the field, CRIT DMG additionally increases by 32%.",
+    "group": "The Wondrous BananAmusement Park"
+  },
+  {
+    "id": "63186",
+    "name": "BananAmusement Park's Memetic Cables",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/0c0574252d0c6ee5d929dbf72867de3b17b00c4fa19be6848aa792c80402fcbe.webp",
+    "description" : "2-Pc: Increases the wearer's CRIT DMG by 16%. When a target summoned by the wearer is on the field, CRIT DMG additionally increases by 32%.",
+    "group": "The Wondrous BananAmusement Park"
+  },
+  {
+    "id": "63195",
+    "name": "Aidonia's Deceased Gravestones",
+    "type": "Cầu",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71042.webp",
+    "description" : "2-Pc: Increases the wearer's Max HP by 12%. When the wearer's Max HP is 5000 or higher, increases the wearer's and their memosprite's CRIT DMG by 28%.",
+    "group": "Bone Collection's Serene Demesne"
+  },
+  {
+    "id": "63196",
+    "name": "Aidonia's Deathward Bone Chains",
+    "type": "Dây",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71042.webp",
+    "description" : "2-Pc: Increases the wearer's Max HP by 12%. When the wearer's Max HP is 5000 or higher, increases the wearer's and their memosprite's CRIT DMG by 28%.",
+    "group": "Bone Collection's Serene Demesne"
+  },
+  {
+    "id": "63205",
+    "name": "Grove of Epiphany's Pondering Colossus",
+    "type": "Cầu",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71043.webp",
+    "description" : "2-Pc: The wearer's SPD increases by 6%. When the wearer's SPD is 135/180 or more, the wearer and their memosprite's Outgoing Healing increases by 12%/20%.",
+    "group": "Giant Tree of Rapt Brooding"
+  },
+  {
+    "id": "63206",
+    "name": "Grove of Epiphany's Interwoven Veins",
+    "type": "Dây",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71043.webp",
+    "description" : "2-Pc: The wearer's SPD increases by 6%. When the wearer's SPD is 135/180 or more, the wearer and their memosprite's Outgoing Healing increases by 12%/20%.",
+    "group": "Giant Tree of Rapt Brooding"
+  }
+]

@@ -1,0 +1,1090 @@
+[
+  {
+    "id": "61011",
+    "name": "Chiếc Trâm Của Lãng Khách",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/3874c777f4c1395074693991f924ff730ae62ae4dc3778eed56d4cc473ae05c9.webp",
+    "description" : "2pc: Tăng Lượng Trị Liệu 10%. \n4pc: Khi bắt đầu chiến đấu sẽ hồi ngay cho phe ta 1 điểm Chiến Kỹ.",
+    "group": "Lãng Khách Âm Thầm"
+  },
+  {
+    "id": "61012",
+    "name": "Giáp Tay Rồng Của Lãng Khách",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/3874c777f4c1395074693991f924ff730ae62ae4dc3778eed56d4cc473ae05c9.webp",
+    "description" : "2pc: Tăng Lượng Trị Liệu 10%. \n4pc: Khi bắt đầu chiến đấu sẽ hồi ngay cho phe ta 1 điểm Chiến Kỹ.",
+    "group": "Lãng Khách Âm Thầm"
+  },
+  {
+    "id": "61013",
+    "name": "Áo Khoác Rách Của Lãng Khách",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/3874c777f4c1395074693991f924ff730ae62ae4dc3778eed56d4cc473ae05c9.webp",
+    "description" : "2pc: Tăng Lượng Trị Liệu 10%. \n4pc: Khi bắt đầu chiến đấu sẽ hồi ngay cho phe ta 1 điểm Chiến Kỹ.",
+    "group": "Lãng Khách Âm Thầm"
+  },
+  {
+    "id": "61014",
+    "name": "Đôi Giày Ảm Đạm Của Lãng Khách",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/3874c777f4c1395074693991f924ff730ae62ae4dc3778eed56d4cc473ae05c9.webp",
+    "description" : "2pc: Tăng Lượng Trị Liệu 10%. \n4pc: Khi bắt đầu chiến đấu sẽ hồi ngay cho phe ta 1 điểm Chiến Kỹ.",
+    "group": "Lãng Khách Âm Thầm"
+  },
+  {
+    "id": "61021",
+    "name": "Mũ Bông Lúa Của Thiện Xạ",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/05a1a74a9070b44c2e4a11b31d4fa97ba27d43cd6db72a0f8ff9cb713b7392a2.webp",
+    "description" : "2pc: Tăng Tấn Công 12%. \n4pc: Tăng 6% tốc độ của người trang bị, sát thương Tấn Công Thường gây ra tăng 10%.",
+    "group": "Thiện Xạ Bông Lúa"
+  },
+  {
+    "id": "61022",
+    "name": "Găng Tay Da Thô Của Thiện Xạ",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/05a1a74a9070b44c2e4a11b31d4fa97ba27d43cd6db72a0f8ff9cb713b7392a2.webp",
+    "description" : "2pc: Tăng Tấn Công 12%. \n4pc: Tăng 6% tốc độ của người trang bị, sát thương Tấn Công Thường gây ra tăng 10%.",
+    "group": "Thiện Xạ Bông Lúa"
+  },
+  {
+    "id": "61023",
+    "name": "Áo Choàng Săn Gió Của Thiện Xạ",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/05a1a74a9070b44c2e4a11b31d4fa97ba27d43cd6db72a0f8ff9cb713b7392a2.webp",
+    "description" : "2pc: Tăng Tấn Công 12%. \n4pc: Tăng 6% tốc độ của người trang bị, sát thương Tấn Công Thường gây ra tăng 10%.",
+    "group": "Thiện Xạ Bông Lúa"
+  },
+  {
+    "id": "61024",
+    "name": "Giày Bốt Đinh Tán Của Thiện Xạ",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/05a1a74a9070b44c2e4a11b31d4fa97ba27d43cd6db72a0f8ff9cb713b7392a2.webp",
+    "description" : "2pc: Tăng Tấn Công 12%. \n4pc: Tăng 6% tốc độ của người trang bị, sát thương Tấn Công Thường gây ra tăng 10%.B",
+    "group": "Thiện Xạ Bông Lúa"
+  },
+  {
+    "id": "61031",
+    "name": "Mũ Khoan Dung Thánh Kỵ Sĩ",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/e4bcfca0bb74305ef9109f0ef26967d0c40adfec8bebf67836a9a8b070c99e29.webp",
+    "description" : "2pc: Tăng Phòng Thủ 15%. \n4pc: Tăng 20% Khiên mà người trang bị cung cấp.",
+    "group": "Thánh Kỵ Sĩ Giáo Hoàng Tịnh Đình"
+  },
+  {
+    "id": "61032",
+    "name": "Nhẫn Thề Nguyền Thánh Kỵ Sĩ",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/e4bcfca0bb74305ef9109f0ef26967d0c40adfec8bebf67836a9a8b070c99e29.webp",
+    "description" : "2pc: Tăng Phòng Thủ 15%. \n4pc: Tăng 20% Khiên mà người trang bị cung cấp.",
+    "group": "Thánh Kỵ Sĩ Giáo Hoàng Tịnh Đình"
+  },
+  {
+    "id": "61033",
+    "name": "Giáp Trang Nghiêm Thánh Kỵ Sĩ",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/e4bcfca0bb74305ef9109f0ef26967d0c40adfec8bebf67836a9a8b070c99e29.webp",
+    "description" : "2pc: Tăng Phòng Thủ 15%. \n4pc: Tăng 20% Khiên mà người trang bị cung cấp.",
+    "group": "Thánh Kỵ Sĩ Giáo Hoàng Tịnh Đình"
+  },
+  {
+    "id": "61034",
+    "name": "Giày Sắt Thánh Kỵ Sĩ",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/e4bcfca0bb74305ef9109f0ef26967d0c40adfec8bebf67836a9a8b070c99e29.webp",
+    "description" : "2pc: Tăng Phòng Thủ 15%. \n4pc: Tăng 20% Khiên mà người trang bị cung cấp.",
+    "group": "Thánh Kỵ Sĩ Giáo Hoàng Tịnh Đình"
+  },
+  {
+    "id": "61041",
+    "name": "Mũ Artaius Thợ Săn",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/33fe6b9916b0396a59627d6448c6192a1170664ed54d40bf0e4166051fe5ee67.webp",
+    "description" : "2pc: Tăng Sát Thương Băng 10%. \n4pc: Khi người trang bị thi triển Tuyệt Kỹ, Sát Thương Bạo Kích tăng 25%, duy trì 2 hiệp.",
+    "group": "Thợ Săn Tuyết Phủ"
+  },
+  {
+    "id": "61042",
+    "name": "Găng Tay Thằn Lằn Của Thợ Săn",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/33fe6b9916b0396a59627d6448c6192a1170664ed54d40bf0e4166051fe5ee67.webp",
+    "description" : "2pc: Tăng Sát Thương Băng 10%. \n4pc: Khi người trang bị thi triển Tuyệt Kỹ, Sát Thương Bạo Kích tăng 25%, duy trì 2 hiệp.",
+    "group": "Thợ Săn Tuyết Phủ"
+  },
+  {
+    "id": "61043",
+    "name": "Áo Choàng Rồng Băng Của Thợ Săn",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/33fe6b9916b0396a59627d6448c6192a1170664ed54d40bf0e4166051fe5ee67.webp",
+    "description" : "2pc: Tăng Sát Thương Băng 10%. \n4pc: Khi người trang bị thi triển Tuyệt Kỹ, Sát Thương Bạo Kích tăng 25%, duy trì 2 hiệp.",
+    "group": "Thợ Săn Tuyết Phủ"
+  },
+  {
+    "id": "61044",
+    "name": "Ủng Phủ Da Nai Của Thợ Săn",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/33fe6b9916b0396a59627d6448c6192a1170664ed54d40bf0e4166051fe5ee67.webp",
+    "description" : "2pc: Tăng Sát Thương Băng 10%. \n4pc: Khi người trang bị thi triển Tuyệt Kỹ, Sát Thương Bạo Kích tăng 25%, duy trì 2 hiệp.",
+    "group": "Thợ Săn Tuyết Phủ"
+  },
+  {
+    "id": "61051",
+    "name": "Mũ Bảo Hộ Của Quyền Vương",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/bc73556e673c4bd633889622bc419b6d74ed902dba459a9578e7890ebab01918.webp",
+    "description" : "2pc: Sát Thương Vật Lý tăng 10%. \n4pc: Sau khi người trang bị tấn công hoặc bị tấn công, tấn công của người trang bị trong trận này tăng 5%, tối đa cộng dồn 5 tầng.",
+    "group": "Quyền Vương Đường Phố"
+  },
+  {
+    "id": "61052",
+    "name": "Găng Tay Pháo Của Quyền Vương",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/bc73556e673c4bd633889622bc419b6d74ed902dba459a9578e7890ebab01918.webp",
+    "description" : "2pc: Sát Thương Vật Lý tăng 10%. \n4pc: Sau khi người trang bị tấn công hoặc bị tấn công, tấn công của người trang bị trong trận này tăng 5%, tối đa cộng dồn 5 tầng.",
+    "group": "Quyền Vương Đường Phố"
+  },
+  {
+    "id": "61053",
+    "name": "Bảo Hộ Ngực Của Quyền Vương",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/bc73556e673c4bd633889622bc419b6d74ed902dba459a9578e7890ebab01918.webp",
+    "description" : "2pc: Sát Thương Vật Lý tăng 10%. \n4pc: Sau khi người trang bị tấn công hoặc bị tấn công, tấn công của người trang bị trong trận này tăng 5%, tối đa cộng dồn 5 tầng.",
+    "group": "Quyền Vương Đường Phố"
+  },
+  {
+    "id": "61054",
+    "name": "Giày Bước Nhảy Của Quyền Vương",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/bc73556e673c4bd633889622bc419b6d74ed902dba459a9578e7890ebab01918.webp",
+    "description" : "2pc: Sát Thương Vật Lý tăng 10%. \n4pc: Sau khi người trang bị tấn công hoặc bị tấn công, tấn công của người trang bị trong trận này tăng 5%, tối đa cộng dồn 5 tầng.",
+    "group": "Quyền Vương Đường Phố"
+  },
+  {
+    "id": "61061",
+    "name": "Mũ Giáp Gang Của Thiết Vệ",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/29593d227d0f085df2ad7460102cab22e3999452452b7011d8e0e14275152458.webp",
+    "description" : "2pc: Sát thương phải chịu giảm 8%. \nKhi bắt đầu hiệp, nếu người trang bị có phần trăm HP hiện tại thấp hơn hoặc bằng 50%, sẽ hồi HP bằng 8% Giới Hạn HP của bản thân, và hồi 5 điểm Năng Lượng.",
+    "group": "Thiết Vệ Bão Tuyết"
+  },
+  {
+    "id": "61062",
+    "name": "Giáp Tay Vảy Bạc Của Thiết Vệ",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/29593d227d0f085df2ad7460102cab22e3999452452b7011d8e0e14275152458.webp",
+    "description" : "2pc: Sát thương phải chịu giảm 8%. \nKhi bắt đầu hiệp, nếu người trang bị có phần trăm HP hiện tại thấp hơn hoặc bằng 50%, sẽ hồi HP bằng 8% Giới Hạn HP của bản thân, và hồi 5 điểm Năng Lượng.",
+    "group": "Thiết Vệ Bão Tuyết"
+  },
+  {
+    "id": "61063",
+    "name": "Quân Phục Cũ Của Thiết Vệ",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/29593d227d0f085df2ad7460102cab22e3999452452b7011d8e0e14275152458.webp",
+    "description" : "2pc: Sát thương phải chịu giảm 8%. \nKhi bắt đầu hiệp, nếu người trang bị có phần trăm HP hiện tại thấp hơn hoặc bằng 50%, sẽ hồi HP bằng 8% Giới Hạn HP của bản thân, và hồi 5 điểm Năng Lượng.",
+    "group": "Thiết Vệ Bão Tuyết"
+  },
+  {
+    "id": "61064",
+    "name": "Giáp Chân Bạc Của Thiết Vệ",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/29593d227d0f085df2ad7460102cab22e3999452452b7011d8e0e14275152458.webp",
+    "description" : "2pc: Sát thương phải chịu giảm 8%. \nKhi bắt đầu hiệp, nếu người trang bị có phần trăm HP hiện tại thấp hơn hoặc bằng 50%, sẽ hồi HP bằng 8% Giới Hạn HP của bản thân, và hồi 5 điểm Năng Lượng.",
+    "group": "Thiết Vệ Bão Tuyết"
+  },
+  {
+    "id": "61071",
+    "name": "Kính Đen Của Thợ Rèn Lửa",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/834d481fce926aa859ed52070c162fd509eb22c848024feb8e102bc47e2ed2e9.webp",
+    "description" : "2pc: Tăng Sát Thương Hỏa 10%. \n4pc: Khiến sát thương Chiến Kỹ gây ra của người trang bị tăng 12%, đồng thời tăng 12% Sát Thương Hỏa của lần tấn công kế tiếp sau khi thi triển Tuyệt Kỹ.",
+    "group": "Thợ Rèn Lửa Dung Nham"
+  },
+  {
+    "id": "61072",
+    "name": "Nhẫn Bắt Lửa Của Thợ Rèn Lửa",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/834d481fce926aa859ed52070c162fd509eb22c848024feb8e102bc47e2ed2e9.webp",
+    "description" : "2pc: Tăng Sát Thương Hỏa 10%. \n4pc: Khiến sát thương Chiến Kỹ gây ra của người trang bị tăng 12%, đồng thời tăng 12% Sát Thương Hỏa của lần tấn công kế tiếp sau khi thi triển Tuyệt Kỹ.",
+    "group": "Thợ Rèn Lửa Dung Nham"
+  },
+  {
+    "id": "61073",
+    "name": "Tạp Dề Chống Cháy Của Thợ Rèn Lửa",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/834d481fce926aa859ed52070c162fd509eb22c848024feb8e102bc47e2ed2e9.webp",
+    "description" : "2pc: Tăng Sát Thương Hỏa 10%. \n4pc: Khiến sát thương Chiến Kỹ gây ra của người trang bị tăng 12%, đồng thời tăng 12% Sát Thương Hỏa của lần tấn công kế tiếp sau khi thi triển Tuyệt Kỹ.",
+    "group": "Thợ Rèn Lửa Dung Nham"
+  },
+  {
+    "id": "61074",
+    "name": "Chân Hợp Kim Của Thợ Rèn Lửa",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/834d481fce926aa859ed52070c162fd509eb22c848024feb8e102bc47e2ed2e9.webp",
+    "description" : "2pc: Tăng Sát Thương Hỏa 10%. \n4pc: Khiến sát thương Chiến Kỹ gây ra của người trang bị tăng 12%, đồng thời tăng 12% Sát Thương Hỏa của lần tấn công kế tiếp sau khi thi triển Tuyệt Kỹ.",
+    "group": "Thợ Rèn Lửa Dung Nham"
+  },
+  {
+    "id": "61081",
+    "name": "Cảm Biến Từ Xa Của Thiên Tài",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/d7fad9ed358027eb91bcf72cc3e8d679542407cb2f819f4472a998daaa66cb08.webp",
+    "description" : "2pc: Tăng Sát Thương Lượng Tử 10%. \n4pc: Khi người trang bị gây sát thương lên mục tiêu địch, sẽ bỏ qua 10% Phòng Thủ của địch. Nếu mục tiêu có Điểm Yếu Lượng Tử, sẽ bỏ qua thêm 10% Phòng Thủ của địch.",
+    "group": "Thiên Tài Xuất Chúng"
+  },
+  {
+    "id": "61082",
+    "name": "Tay Bắt Biến Tần Của Thiên Tài",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/d7fad9ed358027eb91bcf72cc3e8d679542407cb2f819f4472a998daaa66cb08.webp",
+    "description" : "2pc: Tăng Sát Thương Lượng Tử 10%. \n4pc: Khi người trang bị gây sát thương lên mục tiêu địch, sẽ bỏ qua 10% Phòng Thủ của địch. Nếu mục tiêu có Điểm Yếu Lượng Tử, sẽ bỏ qua thêm 10% Phòng Thủ của địch.",
+    "group": "Thiên Tài Xuất Chúng"
+  },
+  {
+    "id": "61083",
+    "name": "Xâm Nhập Trường Siêu Dữ Liệu Thiên Tài",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/d7fad9ed358027eb91bcf72cc3e8d679542407cb2f819f4472a998daaa66cb08.webp",
+    "description" : "2pc: Tăng Sát Thương Lượng Tử 10%. \n4pc: Khi người trang bị gây sát thương lên mục tiêu địch, sẽ bỏ qua 10% Phòng Thủ của địch. Nếu mục tiêu có Điểm Yếu Lượng Tử, sẽ bỏ qua thêm 10% Phòng Thủ của địch.",
+    "group": "Thiên Tài Xuất Chúng"
+  },
+  {
+    "id": "61084",
+    "name": "Bước Đi Lực Hút Của Thiên Tài",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/d7fad9ed358027eb91bcf72cc3e8d679542407cb2f819f4472a998daaa66cb08.webp",
+    "description" : "2pc: Tăng Sát Thương Lượng Tử 10%. \n4pc: Khi người trang bị gây sát thương lên mục tiêu địch, sẽ bỏ qua 10% Phòng Thủ của địch. Nếu mục tiêu có Điểm Yếu Lượng Tử, sẽ bỏ qua thêm 10% Phòng Thủ của địch.",
+    "group": "Thiên Tài Xuất Chúng"
+  },
+  {
+    "id": "61091",
+    "name": "Kính Mát Phân Cực Của Ban Nhạc",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/69c44f2a48a9a64c38ff7d33ce1023d3d4cc372a79c0bde27cd8b228c38e5770.webp",
+    "description" : "2pc: Tăng Sát Thương Lôi 10%. \n4pc: Khi người trang bị thi triển Chiến Kỹ, tấn công của người đó tăng 20%, duy trì 1 hiệp.",
+    "group": "Ban Nhạc Sizzling Thunder"
+  },
+  {
+    "id": "61092",
+    "name": "Vòng Tay Lưu Diễn Của Ban Nhạc",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/69c44f2a48a9a64c38ff7d33ce1023d3d4cc372a79c0bde27cd8b228c38e5770.webp",
+    "description" : "2pc: Tăng Sát Thương Lôi 10%. \n4pc: Khi người trang bị thi triển Chiến Kỹ, tấn công của người đó tăng 20%, duy trì 1 hiệp.",
+    "group": "Ban Nhạc Sizzling Thunder"
+  },
+  {
+    "id": "61093",
+    "name": "Chiếc Áo Da Của Ban Nhạc",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/69c44f2a48a9a64c38ff7d33ce1023d3d4cc372a79c0bde27cd8b228c38e5770.webp",
+    "description" : "2pc: Tăng Sát Thương Lôi 10%. \n4pc: Khi người trang bị thi triển Chiến Kỹ, tấn công của người đó tăng 20%, duy trì 1 hiệp.",
+    "group": "Ban Nhạc Sizzling Thunder"
+  },
+  {
+    "id": "61094",
+    "name": "Bốt Gắn Đinh Của Ban Nhạc",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/69c44f2a48a9a64c38ff7d33ce1023d3d4cc372a79c0bde27cd8b228c38e5770.webp",
+    "description" : "2pc: Tăng Sát Thương Lôi 10%. \n4pc: Khi người trang bị thi triển Chiến Kỹ, tấn công của người đó tăng 20%, duy trì 1 hiệp.",
+    "group": "Ban Nhạc Sizzling Thunder"
+  },
+  {
+    "id": "61101",
+    "name": "Mũ Sắt Mỏ Ưng",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/b50d07cce8940db6b1a495d7918f6bf33e5345c5f4513cb2ce8bedf1e1749b78.webp",
+    "description" : "2pc: Tăng Sát Thương Phong 10%. \n4pc: Sau khi người trang bị thi triển Tuyệt Kỹ, khiến Hành Động của người đó ưu tiên 25%.",
+    "group": "Chim Ưng Ranh Giới Ngày Đêm"
+  },
+  {
+    "id": "61102",
+    "name": "Nhẫn Ưng Kích",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/b50d07cce8940db6b1a495d7918f6bf33e5345c5f4513cb2ce8bedf1e1749b78.webp",
+    "description" : "2pc: Tăng Sát Thương Phong 10%. \n4pc: Sau khi người trang bị thi triển Tuyệt Kỹ, khiến Hành Động của người đó ưu tiên 25%.",
+    "group": "Chim Ưng Ranh Giới Ngày Đêm"
+  },
+  {
+    "id": "61103",
+    "name": "Dây Cương Chim Ưng",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/b50d07cce8940db6b1a495d7918f6bf33e5345c5f4513cb2ce8bedf1e1749b78.webp",
+    "description" : "2pc: Tăng Sát Thương Phong 10%. \n4pc: Sau khi người trang bị thi triển Tuyệt Kỹ, khiến Hành Động của người đó ưu tiên 25%.",
+    "group": "Chim Ưng Ranh Giới Ngày Đêm"
+  },
+  {
+    "id": "61104",
+    "name": "Băng Nhung Chim Ưng",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/b50d07cce8940db6b1a495d7918f6bf33e5345c5f4513cb2ce8bedf1e1749b78.webp",
+    "description" : "2pc: Tăng Sát Thương Phong 10%. \n4pc: Sau khi người trang bị thi triển Tuyệt Kỹ, khiến Hành Động của người đó ưu tiên 25%.",
+    "group": "Chim Ưng Ranh Giới Ngày Đêm"
+  },
+  {
+    "id": "61111",
+    "name": "Mặt Nạ Ngàn Người Của Kẻ Trộm",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/167d2804ceb28e0f33d94a60d3cd1d026adf530cceeeaaaa7897f83573ce0745.webp",
+    "description" : "2pc: Tăng Tấn Công Kích Phá 16%. \n4pc: Tăng 16% Tấn Công Kích Phá của người trang bị. Sau khi người trang bị phá vỡ điểm yếu của kẻ địch, sẽ hồi 3 điểm Năng Lượng.",
+    "group": "Kẻ Cướp Vệt Sao Băng"
+  },
+  {
+    "id": "61112",
+    "name": "Găng Tay Hoa Văn Của Kẻ Trộm",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/167d2804ceb28e0f33d94a60d3cd1d026adf530cceeeaaaa7897f83573ce0745.webp",
+    "description" : "2pc: Tăng Tấn Công Kích Phá 16%. \n4pc: Tăng 16% Tấn Công Kích Phá của người trang bị. Sau khi người trang bị phá vỡ điểm yếu của kẻ địch, sẽ hồi 3 điểm Năng Lượng.",
+    "group": "Kẻ Cướp Vệt Sao Băng"
+  },
+  {
+    "id": "61113",
+    "name": "Móc Neo Sắt Của Kẻ Trộm",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/167d2804ceb28e0f33d94a60d3cd1d026adf530cceeeaaaa7897f83573ce0745.webp",
+    "description" : "2pc: Tăng Tấn Công Kích Phá 16%. \n4pc: Tăng 16% Tấn Công Kích Phá của người trang bị. Sau khi người trang bị phá vỡ điểm yếu của kẻ địch, sẽ hồi 3 điểm Năng Lượng.",
+    "group": "Kẻ Cướp Vệt Sao Băng"
+  },
+  {
+    "id": "61114",
+    "name": "Ủng Sao Băng Của Kẻ Trộm",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/167d2804ceb28e0f33d94a60d3cd1d026adf530cceeeaaaa7897f83573ce0745.webp",
+    "description" : "2pc: Tăng Tấn Công Kích Phá 16%. \n4pc: Tăng 16% Tấn Công Kích Phá của người trang bị. Sau khi người trang bị phá vỡ điểm yếu của kẻ địch, sẽ hồi 3 điểm Năng Lượng.",
+    "group": "Kẻ Cướp Vệt Sao Băng"
+  },
+  {
+    "id": "61121",
+    "name": "Mặt Nạ Thở Của Kẻ Hoang Dã",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/37b4a444ac1e2e81ae7d166d6b99cf2c534808480dc1b7ff381039333bff2fca.webp",
+    "description" : "2pc: Tăng Sát Thương Số Ảo 10%. \n4pc: Khi người trang bị gây sát thương lên mục tiêu địch rơi vào Hiệu Ứng Xấu, Tỷ Lệ Bạo Kích tăng 10%, khi gây sát thương lên mục tiêu địch rơi vào trạng thái Giam Cầm, Sát Thương Bạo Kích tăng 20%.",
+    "group": "Kẻ Hoang Dã Sa Mạc"
+  },
+  {
+    "id": "61122",
+    "name": "Thiết Bị Hoang Mạc Của Kẻ Hoang Dã",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/37b4a444ac1e2e81ae7d166d6b99cf2c534808480dc1b7ff381039333bff2fca.webp",
+    "description" : "2pc: Tăng Sát Thương Số Ảo 10%. \n4pc: Khi người trang bị gây sát thương lên mục tiêu địch rơi vào Hiệu Ứng Xấu, Tỷ Lệ Bạo Kích tăng 10%, khi gây sát thương lên mục tiêu địch rơi vào trạng thái Giam Cầm, Sát Thương Bạo Kích tăng 20%.",
+    "group": "Kẻ Hoang Dã Sa Mạc"
+  },
+  {
+    "id": "61123",
+    "name": "Áo Tu Sĩ Của Kẻ Hoang Dã",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/37b4a444ac1e2e81ae7d166d6b99cf2c534808480dc1b7ff381039333bff2fca.webp",
+    "description" : "2pc: Tăng Sát Thương Số Ảo 10%. \n4pc: Khi người trang bị gây sát thương lên mục tiêu địch rơi vào Hiệu Ứng Xấu, Tỷ Lệ Bạo Kích tăng 10%, khi gây sát thương lên mục tiêu địch rơi vào trạng thái Giam Cầm, Sát Thương Bạo Kích tăng 20%.",
+    "group": "Kẻ Hoang Dã Sa Mạc"
+  },
+  {
+    "id": "61124",
+    "name": "Giáp Chân Động Lực Của Kẻ Hoang Dã",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/37b4a444ac1e2e81ae7d166d6b99cf2c534808480dc1b7ff381039333bff2fca.webp",
+    "description" : "2pc: Tăng Sát Thương Số Ảo 10%. \n4pc: Khi người trang bị gây sát thương lên mục tiêu địch rơi vào Hiệu Ứng Xấu, Tỷ Lệ Bạo Kích tăng 10%, khi gây sát thương lên mục tiêu địch rơi vào trạng thái Giam Cầm, Sát Thương Bạo Kích tăng 20%.",
+    "group": "Kẻ Hoang Dã Sa Mạc"
+  },
+  {
+    "id": "61131",
+    "name": "Mắt Giả Phục Minh Của Môn Đồ",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/464ebde376f99b43e825bf68497794dbff531e112dcf545e87e96032e43dad12.webp",
+    "description" : "2pc: Tăng Giới Hạn HP 12%. \n4pc: Sau khi người trang bị chịu tấn công hoặc bị mục tiêu phe ta tiêu hao HP, Tỷ Lệ Bạo Kích tăng 8%, duy trì 2 hiệp. Hiệu ứng này tối đa cộng dồn 2 tầng.",
+    "group": "Môn Đồ Trường Thọ"
+  },
+  {
+    "id": "61132",
+    "name": "Tay Robot Của Môn Đồ",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/464ebde376f99b43e825bf68497794dbff531e112dcf545e87e96032e43dad12.webp",
+    "description" : "2pc: Tăng Giới Hạn HP 12%. \n4pc: Sau khi người trang bị chịu tấn công hoặc bị mục tiêu phe ta tiêu hao HP, Tỷ Lệ Bạo Kích tăng 8%, duy trì 2 hiệp. Hiệu ứng này tối đa cộng dồn 2 tầng.",
+    "group": "Môn Đồ Trường Thọ"
+  },
+  {
+    "id": "61133",
+    "name": "Áo Lông Vũ Thừa Lộ Của Môn Đồ",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/464ebde376f99b43e825bf68497794dbff531e112dcf545e87e96032e43dad12.webp",
+    "description" : "2pc: Tăng Giới Hạn HP 12%. \n4pc: Sau khi người trang bị chịu tấn công hoặc bị mục tiêu phe ta tiêu hao HP, Tỷ Lệ Bạo Kích tăng 8%, duy trì 2 hiệp. Hiệu ứng này tối đa cộng dồn 2 tầng.",
+    "group": "Môn Đồ Trường Thọ"
+  },
+  {
+    "id": "61134",
+    "name": "Giày Lụa Thiên Nhân Của Môn Đồ",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/464ebde376f99b43e825bf68497794dbff531e112dcf545e87e96032e43dad12.webp",
+    "description" : "2pc: Tăng Giới Hạn HP 12%. \n4pc: Sau khi người trang bị chịu tấn công hoặc bị mục tiêu phe ta tiêu hao HP, Tỷ Lệ Bạo Kích tăng 8%, duy trì 2 hiệp. Hiệu ứng này tối đa cộng dồn 2 tầng.",
+    "group": "Môn Đồ Trường Thọ"
+  },
+  {
+    "id": "61141",
+    "name": "Kính Thông Tin Của Tín Sứ",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/a70e3398a4e6a8ed09452944e355ce5813431a4ff252f6d0ccc19965d5482f9e.webp",
+    "description" : "2pc: Tăng Tốc Độ 6%. \n4pc: Khi người trang bị thi triển Tuyệt Kỹ lên mục tiêu phe ta, tốc độ toàn phe ta tăng 12%, duy trì 1 hiệp, hiệu ứng này không thể cộng dồn.",
+    "group": "Tín Sứ Du Ngoạn Không Gian Hacker"
+  },
+  {
+    "id": "61142",
+    "name": "Cánh Tay Biến Hóa Của Tín Sứ",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/a70e3398a4e6a8ed09452944e355ce5813431a4ff252f6d0ccc19965d5482f9e.webp",
+    "description" : "2pc: Tăng Tốc Độ 6%. \n4pc: Khi người trang bị thi triển Tuyệt Kỹ lên mục tiêu phe ta, tốc độ toàn phe ta tăng 12%, duy trì 1 hiệp, hiệu ứng này không thể cộng dồn.",
+    "group": "Tín Sứ Du Ngoạn Không Gian Hacker"
+  },
+  {
+    "id": "61143",
+    "name": "Túi Mật Thư Của Tín Sứ",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/a70e3398a4e6a8ed09452944e355ce5813431a4ff252f6d0ccc19965d5482f9e.webp",
+    "description" : "2pc: Tăng Tốc Độ 6%. \n4pc: Khi người trang bị thi triển Tuyệt Kỹ lên mục tiêu phe ta, tốc độ toàn phe ta tăng 12%, duy trì 1 hiệp, hiệu ứng này không thể cộng dồn.",
+    "group": "Tín Sứ Du Ngoạn Không Gian Hacker"
+  },
+  {
+    "id": "61144",
+    "name": "Giày Thể Thao Cực Ngầu Của Tín Sứ",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/a70e3398a4e6a8ed09452944e355ce5813431a4ff252f6d0ccc19965d5482f9e.webp",
+    "description" : "2pc: Tăng Tốc Độ 6%. \n4pc: Khi người trang bị thi triển Tuyệt Kỹ lên mục tiêu phe ta, tốc độ toàn phe ta tăng 12%, duy trì 1 hiệp, hiệu ứng này không thể cộng dồn.",
+    "group": "Tín Sứ Du Ngoạn Không Gian Hacker"
+  },
+  {
+    "id": "61151",
+    "name": "Vương Miện Địa Ngục Đại Công Tước",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/5f23334ada152a0b4f3942ef8cf645e67bf5c96fe27f211926406e96d7cba013.webp",
+    "description" : "2pc: Sát thương Đòn Đánh Theo Sau gây ra tăng 20%. \n4pc: Khi người trang bị thi triển Đòn Đánh Theo Sau, mỗi lần gây sát thương sẽ tăng 6% tấn công của người trang bị dựa theo số lần Đòn Đánh Theo Sau gây sát thương, tối đa cộng dồn 8 lần, duy trì 3 hiệp. Hiệu ứng này sẽ bị xóa khi người trang bị thi triển Đòn Đánh Theo Sau tiếp theo.",
+    "group": "Đại Công Tước Tro Tàn"
+  },
+  {
+    "id": "61152",
+    "name": "Bao Tay Lửa Nhung Đại Công Tước",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/5f23334ada152a0b4f3942ef8cf645e67bf5c96fe27f211926406e96d7cba013.webp",
+    "description" : "2pc: Sát thương Đòn Đánh Theo Sau gây ra tăng 20%. \n4pc: Khi người trang bị thi triển Đòn Đánh Theo Sau, mỗi lần gây sát thương sẽ tăng 6% tấn công của người trang bị dựa theo số lần Đòn Đánh Theo Sau gây sát thương, tối đa cộng dồn 8 lần, duy trì 3 hiệp. Hiệu ứng này sẽ bị xóa khi người trang bị thi triển Đòn Đánh Theo Sau tiếp theo.",
+    "group": "Đại Công Tước Tro Tàn"
+  },
+  {
+    "id": "61153",
+    "name": "Áo Choàng Ân Sủng Đại Công Tước",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/5f23334ada152a0b4f3942ef8cf645e67bf5c96fe27f211926406e96d7cba013.webp",
+    "description" : "2pc: Sát thương Đòn Đánh Theo Sau gây ra tăng 20%. \n4pc: Khi người trang bị thi triển Đòn Đánh Theo Sau, mỗi lần gây sát thương sẽ tăng 6% tấn công của người trang bị dựa theo số lần Đòn Đánh Theo Sau gây sát thương, tối đa cộng dồn 8 lần, duy trì 3 hiệp. Hiệu ứng này sẽ bị xóa khi người trang bị thi triển Đòn Đánh Theo Sau tiếp theo.",
+    "group": "Đại Công Tước Tro Tàn"
+  },
+  {
+    "id": "61154",
+    "name": "Giày Bốt Thanh Lịch Đại Công Tước",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/5f23334ada152a0b4f3942ef8cf645e67bf5c96fe27f211926406e96d7cba013.webp",
+    "description" : "2pc: Sát thương Đòn Đánh Theo Sau gây ra tăng 20%. \n4pc: Khi người trang bị thi triển Đòn Đánh Theo Sau, mỗi lần gây sát thương sẽ tăng 6% tấn công của người trang bị dựa theo số lần Đòn Đánh Theo Sau gây sát thương, tối đa cộng dồn 8 lần, duy trì 3 hiệp. Hiệu ứng này sẽ bị xóa khi người trang bị thi triển Đòn Đánh Theo Sau tiếp theo.",
+    "group": "Đại Công Tước Tro Tàn"
+  },
+  {
+    "id": "61161",
+    "name": "Lồng Chụp Miệng Tù Nhân",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/b96878a09884e37958a32f7f404b82eeb726239d2f91e7720bd5ec70ae85c780.webp",
+    "description" : "2pc: Tấn Công tăng 12%. \n4pc: Mỗi khi kẻ địch nhận phải 1 hiệu ứng Sát Thương Duy Trì, thì sát thương người trang bị gây ra cho kẻ đó sẽ bỏ qua 6% Phòng Thủ của kẻ đó. Hiệu ứng này có hiệu lực với tối đa 3 hiệu ứng Sát Thương Duy Trì.",
+    "group": "Tù Nhân Ngục Tối"
+  },
+  {
+    "id": "61162",
+    "name": "Cùm Đá Tù Nhân",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/b96878a09884e37958a32f7f404b82eeb726239d2f91e7720bd5ec70ae85c780.webp",
+    "description" : "2pc: Tấn Công tăng 12%. \n4pc: Mỗi khi kẻ địch nhận phải 1 hiệu ứng Sát Thương Duy Trì, thì sát thương người trang bị gây ra cho kẻ đó sẽ bỏ qua 6% Phòng Thủ của kẻ đó. Hiệu ứng này có hiệu lực với tối đa 3 hiệu ứng Sát Thương Duy Trì.",
+    "group": "Tù Nhân Ngục Tối"
+  },
+  {
+    "id": "61163",
+    "name": "Dây Trói Tù Nhân",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/b96878a09884e37958a32f7f404b82eeb726239d2f91e7720bd5ec70ae85c780.webp",
+    "description" : "2pc: Tấn Công tăng 12%. \n4pc: Mỗi khi kẻ địch nhận phải 1 hiệu ứng Sát Thương Duy Trì, thì sát thương người trang bị gây ra cho kẻ đó sẽ bỏ qua 6% Phòng Thủ của kẻ đó. Hiệu ứng này có hiệu lực với tối đa 3 hiệu ứng Sát Thương Duy Trì.",
+    "group": "Tù Nhân Ngục Tối"
+  },
+  {
+    "id": "61164",
+    "name": "Gông Cùm Tù Nhân",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/b96878a09884e37958a32f7f404b82eeb726239d2f91e7720bd5ec70ae85c780.webp",
+    "description" : "2pc: Tấn Công tăng 12%. \n4pc: Mỗi khi kẻ địch nhận phải 1 hiệu ứng Sát Thương Duy Trì, thì sát thương người trang bị gây ra cho kẻ đó sẽ bỏ qua 6% Phòng Thủ của kẻ đó. Hiệu ứng này có hiệu lực với tối đa 3 hiệu ứng Sát Thương Duy Trì.",
+    "group": "Tù Nhân Ngục Tối"
+  },
+  {
+    "id": "61171",
+    "name": "Vỏ Cách Nhiệt Tiên Phong",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/30759bca77283eb206637564bdbeca0203649360e63338323026e88c2d4aa286.webp",
+    "description" : "2pc: Sát thương gây ra cho kẻ địch bị ảnh hưởng bởi Hiệu Ứng Xấu tăng 12%. \n4pc: Tăng 4% Tỷ Lệ Bạo Kích, tăng 8%/12% Sát Thương Bạo Kích mà người trang bị gây cho kẻ địch rơi vào không dưới 2/3 Hiệu Ứng Xấu. Sau khi người trang bị thi triển Hiệu Ứng Xấu lên kẻ địch, hiệu ứng nói trên tăng 100%, duy trì 1 hiệp.",
+    "group": "Tiên Phong Trong Nước Chết"
+  },
+  {
+    "id": "61172",
+    "name": "La Bàn Hư Không Tiên Phong",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/30759bca77283eb206637564bdbeca0203649360e63338323026e88c2d4aa286.webp",
+    "description" : "2pc: Sát thương gây ra cho kẻ địch bị ảnh hưởng bởi Hiệu Ứng Xấu tăng 12%. \n4pc: Tăng 4% Tỷ Lệ Bạo Kích, tăng 8%/12% Sát Thương Bạo Kích mà người trang bị gây cho kẻ địch rơi vào không dưới 2/3 Hiệu Ứng Xấu. Sau khi người trang bị thi triển Hiệu Ứng Xấu lên kẻ địch, hiệu ứng nói trên tăng 100%, duy trì 1 hiệp.",
+    "group": "Tiên Phong Trong Nước Chết"
+  },
+  {
+    "id": "61173",
+    "name": "Áo Chì Bọc Kín Tiên Phong",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/30759bca77283eb206637564bdbeca0203649360e63338323026e88c2d4aa286.webp",
+    "description" : "2pc: Sát thương gây ra cho kẻ địch bị ảnh hưởng bởi Hiệu Ứng Xấu tăng 12%. \n4pc: Tăng 4% Tỷ Lệ Bạo Kích, tăng 8%/12% Sát Thương Bạo Kích mà người trang bị gây cho kẻ địch rơi vào không dưới 2/3 Hiệu Ứng Xấu. Sau khi người trang bị thi triển Hiệu Ứng Xấu lên kẻ địch, hiệu ứng nói trên tăng 100%, duy trì 1 hiệp.",
+    "group": "Tiên Phong Trong Nước Chết"
+  },
+  {
+    "id": "61174",
+    "name": "Mỏ Neo Du Hành Tiên Phong",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/30759bca77283eb206637564bdbeca0203649360e63338323026e88c2d4aa286.webp",
+    "description" : "2pc: Sát thương gây ra cho kẻ địch bị ảnh hưởng bởi Hiệu Ứng Xấu tăng 12%. \n4pc: Tăng 4% Tỷ Lệ Bạo Kích, tăng 8%/12% Sát Thương Bạo Kích mà người trang bị gây cho kẻ địch rơi vào không dưới 2/3 Hiệu Ứng Xấu. Sau khi người trang bị thi triển Hiệu Ứng Xấu lên kẻ địch, hiệu ứng nói trên tăng 100%, duy trì 1 hiệp.",
+    "group": "Tiên Phong Trong Nước Chết"
+  },
+  {
+    "id": "61181",
+    "name": "Thấu Kính Của Thợ Đồng Hồ",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/e665540524d010fd7d25bcc511e49ea5ed8a36dbbeab700e92f631a21dea4b80.webp",
+    "description" : "2pc: Tấn Công Kích Phá tăng 16%. \n4pc: Khi người trang bị thi triển Tuyệt Kỹ lên mục tiêu phe ta, Tấn Công Kích Phá toàn phe ta tăng 30%, duy trì 2 hiệp, hiệu ứng này không thể cộng dồn.",
+    "group": "Thợ Đồng Hồ, Bậc Thầy Máy Móc"
+  },
+  {
+    "id": "61182",
+    "name": "Đồng Hồ May Mắn Thợ Đồng Hồ",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/e665540524d010fd7d25bcc511e49ea5ed8a36dbbeab700e92f631a21dea4b80.webp",
+    "description" : "2pc: Tấn Công Kích Phá tăng 16%. \n4pc: Khi người trang bị thi triển Tuyệt Kỹ lên mục tiêu phe ta, Tấn Công Kích Phá toàn phe ta tăng 30%, duy trì 2 hiệp, hiệu ứng này không thể cộng dồn.",
+    "group": "Thợ Đồng Hồ, Bậc Thầy Máy Móc"
+  },
+  {
+    "id": "61183",
+    "name": "Lễ Phục Hư Ảo Thợ Đồng Hồ",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/e665540524d010fd7d25bcc511e49ea5ed8a36dbbeab700e92f631a21dea4b80.webp",
+    "description" : "2pc: Tấn Công Kích Phá tăng 16%. \n4pc: Khi người trang bị thi triển Tuyệt Kỹ lên mục tiêu phe ta, Tấn Công Kích Phá toàn phe ta tăng 30%, duy trì 2 hiệp, hiệu ứng này không thể cộng dồn.",
+    "group": "Thợ Đồng Hồ, Bậc Thầy Máy Móc"
+  },
+  {
+    "id": "61184",
+    "name": "Giày Da Giấu Mộng Thợ Đồng Hồ",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/e665540524d010fd7d25bcc511e49ea5ed8a36dbbeab700e92f631a21dea4b80.webp",
+    "description" : "2pc: Tấn Công Kích Phá tăng 16%. \n4pc: Khi người trang bị thi triển Tuyệt Kỹ lên mục tiêu phe ta, Tấn Công Kích Phá toàn phe ta tăng 30%, duy trì 2 hiệp, hiệu ứng này không thể cộng dồn.",
+    "group": "Thợ Đồng Hồ, Bậc Thầy Máy Móc"
+  },
+  {
+    "id": "61191",
+    "name": "Chiến Khôi Tìm Địch Của Thiết Kỵ",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/8555696a7a48506c0ae76e8b2616d89773a5e548bff9cfc795481aafab52dddd.webp",
+    "description" : "2pc: Tấn Công Kích Phá tăng 16%. \n4pc: Khi Tấn Công Kích Phá của người trang bị lớn hơn hoặc bằng 150%, Sát Thương Phá Vỡ gây ra cho kẻ địch sẽ bỏ qua 10% Phòng Thủ của kẻ đó. Khi Tấn Công Kích Phá của người trang bị lớn hơn hoặc bằng 250%, Siêu Sát Thương Phá Vỡ gây ra cho kẻ địch sẽ bỏ qua thêm 15% Phòng Thủ của kẻ đó.",
+    "group": "Thiết Kỵ Diệt Trừ Tai Họa"
+  },
+  {
+    "id": "61192",
+    "name": "Giáp Tay Nghiền Nát Của Thiết Kỵ",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/8555696a7a48506c0ae76e8b2616d89773a5e548bff9cfc795481aafab52dddd.webp",
+    "description" : "2pc: Tấn Công Kích Phá tăng 16%. \n4pc: Khi Tấn Công Kích Phá của người trang bị lớn hơn hoặc bằng 150%, Sát Thương Phá Vỡ gây ra cho kẻ địch sẽ bỏ qua 10% Phòng Thủ của kẻ đó. Khi Tấn Công Kích Phá của người trang bị lớn hơn hoặc bằng 250%, Siêu Sát Thương Phá Vỡ gây ra cho kẻ địch sẽ bỏ qua thêm 15% Phòng Thủ của kẻ đó.",
+    "group": "Thiết Kỵ Diệt Trừ Tai Họa"
+  },
+  {
+    "id": "61193",
+    "name": "Giáp Ảnh Bạc Của Thiết Kỵ",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/8555696a7a48506c0ae76e8b2616d89773a5e548bff9cfc795481aafab52dddd.webp",
+    "description" : "2pc: Tấn Công Kích Phá tăng 16%. \n4pc: Khi Tấn Công Kích Phá của người trang bị lớn hơn hoặc bằng 150%, Sát Thương Phá Vỡ gây ra cho kẻ địch sẽ bỏ qua 10% Phòng Thủ của kẻ đó. Khi Tấn Công Kích Phá của người trang bị lớn hơn hoặc bằng 250%, Siêu Sát Thương Phá Vỡ gây ra cho kẻ địch sẽ bỏ qua thêm 15% Phòng Thủ của kẻ đó.",
+    "group": "Thiết Kỵ Diệt Trừ Tai Họa"
+  },
+  {
+    "id": "61194",
+    "name": "Giáp Chân Hành Không Của Thiết Kỵ",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/8555696a7a48506c0ae76e8b2616d89773a5e548bff9cfc795481aafab52dddd.webp",
+    "description" : "2pc: Tấn Công Kích Phá tăng 16%. \n4pc: Khi Tấn Công Kích Phá của người trang bị lớn hơn hoặc bằng 150%, Sát Thương Phá Vỡ gây ra cho kẻ địch sẽ bỏ qua 10% Phòng Thủ của kẻ đó. Khi Tấn Công Kích Phá của người trang bị lớn hơn hoặc bằng 250%, Siêu Sát Thương Phá Vỡ gây ra cho kẻ địch sẽ bỏ qua thêm 15% Phòng Thủ của kẻ đó.",
+    "group": "Thiết Kỵ Diệt Trừ Tai Họa"
+  },
+  {
+    "id": "61201",
+    "name": "Dũng Khí - Mặt Nạ Huyền Hiêu",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/31f26c4ad8d4cca252d870623942cd00b13e57c5e0cf5ebd1aaf02835e0bb6ca.webp",
+    "description" : "2pc: Tấn Công tăng 12%. \n4pc: Tăng 6% Tỷ Lệ Bạo Kích cho người trang bị. Khi người trang bị thi triển Đòn Đánh Theo Sau, khiến sát thương Tuyệt Kỹ gây ra tăng 36%, duy trì 1 hiệp.",
+    "group": "Dũng Khí Ngút Trời"
+  },
+  {
+    "id": "61202",
+    "name": "Dũng Khí - Giáp Tay Móc Câu",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/31f26c4ad8d4cca252d870623942cd00b13e57c5e0cf5ebd1aaf02835e0bb6ca.webp",
+    "description" : "2pc: Tấn Công tăng 12%. \n4pc: Tăng 6% Tỷ Lệ Bạo Kích cho người trang bị. Khi người trang bị thi triển Đòn Đánh Theo Sau, khiến sát thương Tuyệt Kỹ gây ra tăng 36%, duy trì 1 hiệp.",
+    "group": "Dũng Khí Ngút Trời"
+  },
+  {
+    "id": "61203",
+    "name": "Dũng Khí - Áo Giáp Bay Lượn",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/31f26c4ad8d4cca252d870623942cd00b13e57c5e0cf5ebd1aaf02835e0bb6ca.webp",
+    "description" : "2pc: Tấn Công tăng 12%. \n4pc: Tăng 6% Tỷ Lệ Bạo Kích cho người trang bị. Khi người trang bị thi triển Đòn Đánh Theo Sau, khiến sát thương Tuyệt Kỹ gây ra tăng 36%, duy trì 1 hiệp.",
+    "group": "Dũng Khí Ngút Trời"
+  },
+  {
+    "id": "61204",
+    "name": "Dũng Khí - Giáp Chân Săn Bắn",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/31f26c4ad8d4cca252d870623942cd00b13e57c5e0cf5ebd1aaf02835e0bb6ca.webp",
+    "description" : "2pc: Tấn Công tăng 12%. \n4pc: Tăng 6% Tỷ Lệ Bạo Kích cho người trang bị. Khi người trang bị thi triển Đòn Đánh Theo Sau, khiến sát thương Tuyệt Kỹ gây ra tăng 36%, duy trì 1 hiệp.",
+    "group": "Dũng Khí Ngút Trời"
+  },
+  {
+    "id": "61211",
+    "name": "Bông Tai Giai Điệu Của Linh Mục",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/4be010d0c22a3d6b5fefaf35af3718f3e1b281e1974953928195c9d1bd77a520.webp",
+    "description" : "2pc: Tốc Độ tăng 6%. \n4pc: Khi thi triển Chiến Kỹ hoặc Tuyệt Kỹ lên 1 mục tiêu phe ta, sẽ khiến Sát Thương Bạo Kích của mục tiêu kỹ năng tăng 18%, duy trì 2 hiệp, hiệu ứng này tối đa cộng dồn 2 lần.",
+    "group": "Lại Một Hành Trình Gian Khổ Của Linh Mục"
+  },
+  {
+    "id": "61212",
+    "name": "Găng Tay Chào Đón Của Linh Mục",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/4be010d0c22a3d6b5fefaf35af3718f3e1b281e1974953928195c9d1bd77a520.webp",
+    "description" : "2pc: Tốc Độ tăng 6%. \n4pc: Khi thi triển Chiến Kỹ hoặc Tuyệt Kỹ lên 1 mục tiêu phe ta, sẽ khiến Sát Thương Bạo Kích của mục tiêu kỹ năng tăng 18%, duy trì 2 hiệp, hiệu ứng này tối đa cộng dồn 2 lần.",
+    "group": "Lại Một Hành Trình Gian Khổ Của Linh Mục"
+  },
+  {
+    "id": "61213",
+    "name": "Bộ Lễ Phục Của Linh Mục",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/4be010d0c22a3d6b5fefaf35af3718f3e1b281e1974953928195c9d1bd77a520.webp",
+    "description" : "2pc: Tốc Độ tăng 6%. \n4pc: Khi thi triển Chiến Kỹ hoặc Tuyệt Kỹ lên 1 mục tiêu phe ta, sẽ khiến Sát Thương Bạo Kích của mục tiêu kỹ năng tăng 18%, duy trì 2 hiệp, hiệu ứng này tối đa cộng dồn 2 lần.",
+    "group": "Lại Một Hành Trình Gian Khổ Của Linh Mục"
+  },
+  {
+    "id": "61214",
+    "name": "Bốt Hành Trình Gian Khổ Của Linh Mục",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/4be010d0c22a3d6b5fefaf35af3718f3e1b281e1974953928195c9d1bd77a520.webp",
+    "description" : "2pc: Tốc Độ tăng 6%. \n4pc: Khi thi triển Chiến Kỹ hoặc Tuyệt Kỹ lên 1 mục tiêu phe ta, sẽ khiến Sát Thương Bạo Kích của mục tiêu kỹ năng tăng 18%, duy trì 2 hiệp, hiệu ứng này tối đa cộng dồn 2 lần.",
+    "group": "Lại Một Hành Trình Gian Khổ Của Linh Mục"
+  },
+  {
+    "id": "61221",
+    "name": "Kính Gọng Bạc Của Học Giả",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/64c017eb10bf12c2f8aa2dd75172d8ee4dd400e503ea59e81bb7cb40aec03d2f.webp",
+    "description" : "2pc: Tỷ Lệ Bạo Kích tăng 8%. \n4pc: Sát thương Chiến Kỹ và Tuyệt Kỹ gây ra tăng 20%, sau khi thi triển Tuyệt Kỹ, sát thương gây ra trong lần thi triển Chiến Kỹ kế tiếp tăng thêm 25%.",
+    "group": "Học Giả Lạc Lối Trong Biển Tri Thức"
+  },
+  {
+    "id": "61222",
+    "name": "Khớp Nối Phụ Trợ Của Học Giả",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/64c017eb10bf12c2f8aa2dd75172d8ee4dd400e503ea59e81bb7cb40aec03d2f.webp",
+    "description" : "2pc: Tỷ Lệ Bạo Kích tăng 8%. \n4pc: Sát thương Chiến Kỹ và Tuyệt Kỹ gây ra tăng 20%, sau khi thi triển Tuyệt Kỹ, sát thương gây ra trong lần thi triển Chiến Kỹ kế tiếp tăng thêm 25%.",
+    "group": "Học Giả Lạc Lối Trong Biển Tri Thức"
+  },
+  {
+    "id": "61223",
+    "name": "Áo Khoác Vải Tuýt Của Học Giả",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/64c017eb10bf12c2f8aa2dd75172d8ee4dd400e503ea59e81bb7cb40aec03d2f.webp",
+    "description" : "2pc: Tỷ Lệ Bạo Kích tăng 8%. \n4pc: Sát thương Chiến Kỹ và Tuyệt Kỹ gây ra tăng 20%, sau khi thi triển Tuyệt Kỹ, sát thương gây ra trong lần thi triển Chiến Kỹ kế tiếp tăng thêm 25%.",
+    "group": "Học Giả Lạc Lối Trong Biển Tri Thức"
+  },
+  {
+    "id": "61224",
+    "name": "Giày Tuyết Da Lộn Của Học Giả",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/64c017eb10bf12c2f8aa2dd75172d8ee4dd400e503ea59e81bb7cb40aec03d2f.webp",
+    "description" : "2pc: Tỷ Lệ Bạo Kích tăng 8%. \n4pc: Sát thương Chiến Kỹ và Tuyệt Kỹ gây ra tăng 20%, sau khi thi triển Tuyệt Kỹ, sát thương gây ra trong lần thi triển Chiến Kỹ kế tiếp tăng thêm 25%.",
+    "group": "Học Giả Lạc Lối Trong Biển Tri Thức"
+  },
+  {
+    "id": "61231",
+    "name": "Vòng Nguyệt Quế Quán Quân Anh Hùng",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/ac1f35238b1b3d81afc152cb98c5db5b395180db3e01204a21a736a7eb5cc0cf.webp",
+    "description" : "2pc: Tấn Công tăng 12%. \n4pc: Khi Linh Hồn Ký Ức của người trang bị trong trận, Tốc Độ của người trang bị tăng 6%, Khi Linh Hồn Ký Ức của người trang bị tấn công, Sát Thương Bạo Kích của Linh Hồn Ký Ức và người trang bị tăng 30%, duy trì 2 hiệp.",
+    "group": "Anh Hùng Ca Khúc Khải Hoàn"
+  },
+  {
+    "id": "61232",
+    "name": "Giáp Tay Vàng Của Anh Hùng",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/ac1f35238b1b3d81afc152cb98c5db5b395180db3e01204a21a736a7eb5cc0cf.webp",
+    "description" : "2pc: Tấn Công tăng 12%. \n4pc: Khi Linh Hồn Ký Ức của người trang bị trong trận, Tốc Độ của người trang bị tăng 6%, Khi Linh Hồn Ký Ức của người trang bị tấn công, Sát Thương Bạo Kích của Linh Hồn Ký Ức và người trang bị tăng 30%, duy trì 2 hiệp.",
+    "group": "Anh Hùng Ca Khúc Khải Hoàn"
+  },
+  {
+    "id": "61233",
+    "name": "Chiến Giáp Vàng Của Anh Hùng",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/ac1f35238b1b3d81afc152cb98c5db5b395180db3e01204a21a736a7eb5cc0cf.webp",
+    "description" : "2pc: Tấn Công tăng 12%. \n4pc: Khi Linh Hồn Ký Ức của người trang bị trong trận, Tốc Độ của người trang bị tăng 6%, Khi Linh Hồn Ký Ức của người trang bị tấn công, Sát Thương Bạo Kích của Linh Hồn Ký Ức và người trang bị tăng 30%, duy trì 2 hiệp.",
+    "group": "Anh Hùng Ca Khúc Khải Hoàn"
+  },
+  {
+    "id": "61234",
+    "name": "Giáp Chân Đuổi Lửa Của Anh Hùng",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/ac1f35238b1b3d81afc152cb98c5db5b395180db3e01204a21a736a7eb5cc0cf.webp",
+    "description" : "2pc: Tấn Công tăng 12%. \n4pc: Khi Linh Hồn Ký Ức của người trang bị trong trận, Tốc Độ của người trang bị tăng 6%, Khi Linh Hồn Ký Ức của người trang bị tấn công, Sát Thương Bạo Kích của Linh Hồn Ký Ức và người trang bị tăng 30%, duy trì 2 hiệp.",
+    "group": "Anh Hùng Ca Khúc Khải Hoàn"
+  },
+  {
+    "id": "61241",
+    "name": "Vòng Hoa Thì Là Của Nhà Thơ",
+    "type": "Nón",
+    "groupImage" : "https://cdn.starrailstation.com/assets/9e4fa5462b9020100e251443dc967280b667b1ef9345fe5c973af3b6c23d2cc8.webp",
+    "description" : "2pc: Sát Thương Lượng Tử tăng 10%. \n4pc: Khiến Tốc Độ của người trang bị giảm 8%. Trước khi vào chiến đấu, nếu Tốc Độ của người trang bị dưới 110/95, sẽ khiến Tỷ Lệ Bạo Kích của người trang bị tăng 20%/32%. Hiệu ứng này đồng thời có hiệu lực với Linh Hồn Ký Ức của người trang bị.",
+    "group": "Nhà Thơ Khúc Bi Ca Vong Quốc"
+  },
+  {
+    "id": "61242",
+    "name": "Vòng Tay Vàng Của Nhà Thơ",
+    "type": "Tay",
+    "groupImage" : "https://cdn.starrailstation.com/assets/9e4fa5462b9020100e251443dc967280b667b1ef9345fe5c973af3b6c23d2cc8.webp",
+    "description" : "2pc: Sát Thương Lượng Tử tăng 10%. \n4pc: Khiến Tốc Độ của người trang bị giảm 8%. Trước khi vào chiến đấu, nếu Tốc Độ của người trang bị dưới 110/95, sẽ khiến Tỷ Lệ Bạo Kích của người trang bị tăng 20%/32%. Hiệu ứng này đồng thời có hiệu lực với Linh Hồn Ký Ức của người trang bị.",
+    "group": "Nhà Thơ Khúc Bi Ca Vong Quốc"
+  },
+  {
+    "id": "61243",
+    "name": "Chiếc Váy Điểm Sao Của Nhà Thơ",
+    "type": "Áo",
+    "groupImage" : "https://cdn.starrailstation.com/assets/9e4fa5462b9020100e251443dc967280b667b1ef9345fe5c973af3b6c23d2cc8.webp",
+    "description" : "2pc: Sát Thương Lượng Tử tăng 10%. \n4pc: Khiến Tốc Độ của người trang bị giảm 8%. Trước khi vào chiến đấu, nếu Tốc Độ của người trang bị dưới 110/95, sẽ khiến Tỷ Lệ Bạo Kích của người trang bị tăng 20%/32%. Hiệu ứng này đồng thời có hiệu lực với Linh Hồn Ký Ức của người trang bị.",
+    "group": "Nhà Thơ Khúc Bi Ca Vong Quốc"
+  },
+  {
+    "id": "61244",
+    "name": "Đôi Giày Đinh Bạc Của Nhà Thơ",
+    "type": "Giày",
+    "groupImage" : "https://cdn.starrailstation.com/assets/9e4fa5462b9020100e251443dc967280b667b1ef9345fe5c973af3b6c23d2cc8.webp",
+    "description" : "2pc: Sát Thương Lượng Tử tăng 10%. \n4pc: Khiến Tốc Độ của người trang bị giảm 8%. Trước khi vào chiến đấu, nếu Tốc Độ của người trang bị dưới 110/95, sẽ khiến Tỷ Lệ Bạo Kích của người trang bị tăng 20%/32%. Hiệu ứng này đồng thời có hiệu lực với Linh Hồn Ký Ức của người trang bị.",
+    "group": "Nhà Thơ Khúc Bi Ca Vong Quốc"
+  },
+  {
+    "id": "63015",
+    "name": "Điểm Trạm Không Gian Herta",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/99912cd3a07b1f91bb5e9162fbbe62ad861d2159d41e22201263d03cf5e7ea2b.webp",
+    "description" : "2pc: Tăng 12% Tấn Công của người trang bị. Khi tốc độ của người trang bị từ 120 trở lên, Tấn Công tăng thêm 12%.",
+    "group": "Trạm Phong Ấn Không Gian"
+  },
+  {
+    "id": "63016",
+    "name": "Chuyến Đi Của Herta",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/99912cd3a07b1f91bb5e9162fbbe62ad861d2159d41e22201263d03cf5e7ea2b.webp",
+    "description" : "2pc: Tăng 12% Tấn Công của người trang bị. Khi tốc độ của người trang bị từ 120 trở lên, Tấn Công tăng thêm 12%.",
+    "group": "Trạm Phong Ấn Không Gian"
+  },
+  {
+    "id": "63025",
+    "name": "Tàu Vũ Trụ Xianzhou Luofu",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/71089e4f257d91d2bc4283fcaeb4fd7f28efd09cb709f39b23fbb23e6d29624b.webp",
+    "description" : "2pc: Tăng 12% Giới Hạn HP của người trang bị. Khi tốc độ của người trang bị từ 120 trở lên, Tấn Công của toàn phe ta tăng 8%.",
+    "group": "Xianzhou Không Có Tuổi"
+  },
+  {
+    "id": "63026",
+    "name": "Nhánh Cây Kiến Tạo Của Xianzhou Luofu",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/71089e4f257d91d2bc4283fcaeb4fd7f28efd09cb709f39b23fbb23e6d29624b.webp",
+    "description" : "2pc: Tăng 12% Giới Hạn HP của người trang bị. Khi tốc độ của người trang bị từ 120 trở lên, Tấn Công của toàn phe ta tăng 8%.",
+    "group": "Xianzhou Không Có Tuổi"
+  },
+  {
+    "id": "63035",
+    "name": "Tổng Bộ Đầu Não Công Ty",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/a0960d5af6cf1132823fd310bb121f93ef987f2b763835967ce1f89a200b1af1.webp",
+    "description" : "2pc: Tăng 10% Chính Xác Hiệu Ứng của người trang bị. Đồng thời tăng Tấn Công bằng 25% Chính Xác Hiệu Ứng hiện tại của người trang bị, tối đa tăng 25%.",
+    "group": "Công Ty Kinh Doanh Liên Ngân Hà"
+  },
+  {
+    "id": "63036",
+    "name": "Tuyến Đường Thương Mại Của Công Ty",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/a0960d5af6cf1132823fd310bb121f93ef987f2b763835967ce1f89a200b1af1.webp",
+    "description" : "2pc: Tăng 10% Chính Xác Hiệu Ứng của người trang bị. Đồng thời tăng Tấn Công bằng 25% Chính Xác Hiệu Ứng hiện tại của người trang bị, tối đa tăng 25%.",
+    "group": "Công Ty Kinh Doanh Liên Ngân Hà"
+  },
+  {
+    "id": "63045",
+    "name": "Pháo Đài Bảo Hộ Belobog",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/ccf3625e8d598d1cc45f06c00997fc04bdcfc0ed694bc1e096ec6fea3d9c0e10.webp",
+    "description" : "2pc: Tăng 15% Phòng Thủ của người trang bị. Khi Chính Xác Hiệu Ứng của người trang bị từ 50% trở lên, Phòng Thủ tăng thêm 15%.",
+    "group": "Belobog Của Đấng Kiến Tạo"
+  },
+  {
+    "id": "63046",
+    "name": "Phòng Tuyến Thiết Vệ Của Belobog",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/ccf3625e8d598d1cc45f06c00997fc04bdcfc0ed694bc1e096ec6fea3d9c0e10.webp",
+    "description" : "2pc: Tăng 15% Phòng Thủ của người trang bị. Khi Chính Xác Hiệu Ứng của người trang bị từ 50% trở lên, Phòng Thủ tăng thêm 15%.",
+    "group": "Belobog Của Đấng Kiến Tạo"
+  },
+  {
+    "id": "63055",
+    "name": "Mặt Trời Cơ Giới Của Screwllum",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/6a531031eac68aa3ba68a5b0946ff833d5bdfb76fecaee9552bb1901b3ed36dd.webp",
+    "description" : "2pc: Khiến sát thương Bạo Kích của người trang bị tăng 16%. Khi sát thương Bạo Kích của người trang bị từ 120% trở lên, sau khi vào chiến đấu, Tỷ Lệ Bạo Kích của người trang bị tăng 60%, duy trì đến khi kết thúc thi triển lần đầu tấn công.",
+    "group": "Máy Sai Lệch Hành Tinh"
+  },
+  {
+    "id": "63056",
+    "name": "Vành Đai Của Hành Tinh Screwllum",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/6a531031eac68aa3ba68a5b0946ff833d5bdfb76fecaee9552bb1901b3ed36dd.webp",
+    "description" : "2pc: Khiến sát thương Bạo Kích của người trang bị tăng 16%. Khi sát thương Bạo Kích của người trang bị từ 120% trở lên, sau khi vào chiến đấu, Tỷ Lệ Bạo Kích của người trang bị tăng 60%, duy trì đến khi kết thúc thi triển lần đầu tấn công.",
+    "group": "Máy Sai Lệch Hành Tinh"
+  },
+  {
+    "id": "63065",
+    "name": "Thành Phố Chuyển Động Salsotto",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/a1ff8e89beab438d0e28880e8c7dcc50529b31baefcd50f674ce10b62d06c6e3.webp",
+    "description" : "2pc: Tăng 8% Tỷ Lệ Bạo Kích của người trang bị. Khi Tỷ Lệ Bạo Kích của người đó từ 50% trở lên, sẽ tăng 15% sát thương của Tuyệt Kỹ và Đòn Đánh Theo Sau gây ra.",
+    "group": "Salsotto Dừng Xoay"
+  },
+  {
+    "id": "63066",
+    "name": "Ranh Giới Ngày Đêm Salsotto",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/a1ff8e89beab438d0e28880e8c7dcc50529b31baefcd50f674ce10b62d06c6e3.webp",
+    "description" : "2pc: Tăng 8% Tỷ Lệ Bạo Kích của người trang bị. Khi Tỷ Lệ Bạo Kích của người đó từ 50% trở lên, sẽ tăng 15% sát thương của Tuyệt Kỹ và Đòn Đánh Theo Sau gây ra.",
+    "group": "Salsotto Dừng Xoay"
+  },
+  {
+    "id": "63075",
+    "name": "Trấn Vỏ Đinh Talia",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/1101a5e1255ad695ea565980c13708e326b20847d8adb1294c97cba00d26216f.webp",
+    "description" : "2pc: Tăng 16% Tấn Công Kích Phá của người trang bị. Khi tốc độ của người trang bị từ 145 trở lên, Tấn Công Kích Phá tăng thêm 20%.",
+    "group": "Talia - Vương Quốc Trộm Cướp"
+  },
+  {
+    "id": "63076",
+    "name": "Dây Điện Trần Talia",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/1101a5e1255ad695ea565980c13708e326b20847d8adb1294c97cba00d26216f.webp",
+    "description" : "2pc: Tăng 16% Tấn Công Kích Phá của người trang bị. Khi tốc độ của người trang bị từ 145 trở lên, Tấn Công Kích Phá tăng thêm 20%.",
+    "group": "Talia - Vương Quốc Trộm Cướp"
+  },
+  {
+    "id": "63085",
+    "name": "Đảo Sinh Sôi Vonwacq",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/608d379165c464ce1b001a1378bc47cab4909e8b295bc08a80279d2610e7d50b.webp",
+    "description" : "2pc: Tăng 5% hiệu suất hồi Năng Lượng của người trang bị. Khi tốc độ của người trang bị từ 120 trở lên, vào chiến đấu sẽ lập tức Ưu Tiên Hành Động 40%.",
+    "group": "Vonwacq Hoạt Bát"
+  },
+  {
+    "id": "63086",
+    "name": "Bờ Biển Quanh Đảo Vonwacq",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/608d379165c464ce1b001a1378bc47cab4909e8b295bc08a80279d2610e7d50b.webp",
+    "description" : "2pc: Tăng 5% hiệu suất hồi Năng Lượng của người trang bị. Khi tốc độ của người trang bị từ 120 trở lên, vào chiến đấu sẽ lập tức Ưu Tiên Hành Động 40%.",
+    "group": "Vonwacq Hoạt Bát"
+  },
+  {
+    "id": "63095",
+    "name": "Sân Vận Động Laser Taikiyan",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/c92449d218f61e942b89fe12b1ef326a58bdea7dac6f733548e8f9b9edd35241.webp",
+    "description" : "2pc: Tăng 8% tỷ lệ Bạo Kích của người trang bị. Khi tỷ lệ Bạo Kích của người đó từ 70% trở lên, sẽ tăng 20% sát thương gây ra khi thi triển Tấn Công Thường hoặc Chiến Kỹ",
+    "group": "Đấu Trường Ngôi Sao"
+  },
+  {
+    "id": "63096",
+    "name": "Đường Đua Hồ Quang Của Taikiyan",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/c92449d218f61e942b89fe12b1ef326a58bdea7dac6f733548e8f9b9edd35241.webp",
+    "description" : "2pc: Tăng 8% tỷ lệ Bạo Kích của người trang bị. Khi tỷ lệ Bạo Kích của người đó từ 70% trở lên, sẽ tăng 20% sát thương gây ra khi thi triển Tấn Công Thường hoặc Chiến Kỹ",
+    "group": "Đấu Trường Ngôi Sao"
+  },
+  {
+    "id": "63105",
+    "name": "Tàu Cá Voi Insumousu",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/29da902d09f455c932598d18f5e8c024a0f24ebfb6f4e471f91f0a2fe190cb4f.webp",
+    "description" : "2pc: Tăng 10% Kháng Hiệu Ứng của người trang bị. Khi Kháng Hiệu Ứng của người trang bị từ 30% trở lên, Sát Thương Bạo Kích của toàn bộ phe ta tăng 10%.",
+    "group": "Bộ Khung Bị Gãy"
+  },
+  {
+    "id": "63106",
+    "name": "Dây Thừng Sờn Rách Insumousu",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/29da902d09f455c932598d18f5e8c024a0f24ebfb6f4e471f91f0a2fe190cb4f.webp",
+    "description" : "2pc: Tăng 10% Kháng Hiệu Ứng của người trang bị. Khi Kháng Hiệu Ứng của người trang bị từ 30% trở lên, Sát Thương Bạo Kích của toàn bộ phe ta tăng 10%.",
+    "group": "Bộ Khung Bị Gãy"
+  },
+  {
+    "id": "63115",
+    "name": "Đội Kỵ Binh Sắt Của Glamoth",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/a51572d5673c6f3c9b2a22c51b8bc691de64e1b7660e6d7c331967f558f3c273.webp",
+    "description" : "2pc: Tăng 12% Tấn Công của người trang bị. Khi tốc độ của người trang bị từ 135/160 trở lên, sát thương do người trang bị gây ra tăng 12%/18%.",
+    "group": "Glamoth, Chiến Tuyến Không Trung"
+  },
+  {
+    "id": "63116",
+    "name": "Bia Mộ Tĩnh Mịch Của Glamoth",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/a51572d5673c6f3c9b2a22c51b8bc691de64e1b7660e6d7c331967f558f3c273.webp",
+    "description" : "2pc: Tăng 12% Tấn Công của người trang bị. Khi tốc độ của người trang bị từ 135/160 trở lên, sát thương do người trang bị gây ra tăng 12%/18%.",
+    "group": "Glamoth, Chiến Tuyến Không Trung"
+  },
+  {
+    "id": "63125",
+    "name": "Khách Sạn Lớn Của Penacony",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/11393ad3ab73e17fc64cbd8fca0bf79a5d94f795d1395d9dc1f801e377b812ff.webp",
+    "description" : "2pc: Tăng 5% hiệu suất hồi Năng Lượng của người trang bị. Khiến nhân vật khác trong đội của phe ta có cùng thuộc tính với người trang bị tăng 10% sát thương gây ra.",
+    "group": "Penacony, Vùng Đất Của Những Giấc Mơ"
+  },
+  {
+    "id": "63126",
+    "name": "Cung Đường Mộng Mơ Penacony",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/11393ad3ab73e17fc64cbd8fca0bf79a5d94f795d1395d9dc1f801e377b812ff.webp",
+    "description" : "2pc: Tăng 5% hiệu suất hồi Năng Lượng của người trang bị. Khiến nhân vật khác trong đội của phe ta có cùng thuộc tính với người trang bị tăng 10% sát thương gây ra.",
+    "group": "Penacony, Vùng Đất Của Những Giấc Mơ"
+  },
+  {
+    "id": "63135",
+    "name": "Giường Mẹ Gaiathra Sigonia",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/8060c5d2bebc6e384f294fbdf9378d664b8fbbda7b2845ed45cb9db904cbf891.webp",
+    "description" : "2pc: Khiến tỷ lệ Bạo Kích của người trang bị tăng 4%. Khi kẻ địch bị tiêu diệt, Sát Thương Bạo Kích của người trang bị tăng 4%, tối đa cộng dồn 10 tầng.",
+    "group": "Hành Tinh Vô Chủ Sigonia"
+  },
+  {
+    "id": "63136",
+    "name": "Nút Thắt Luân Hồi Của Sigonia",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/8060c5d2bebc6e384f294fbdf9378d664b8fbbda7b2845ed45cb9db904cbf891.webp",
+    "description" : "2pc: Khiến tỷ lệ Bạo Kích của người trang bị tăng 4%. Khi kẻ địch bị tiêu diệt, Sát Thương Bạo Kích của người trang bị tăng 4%, tối đa cộng dồn 10 tầng.",
+    "group": "Hành Tinh Vô Chủ Sigonia"
+  },
+  {
+    "id": "63145",
+    "name": "Magatsu no Morokami Của Izumo",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/62671982ae2153e565dcf1d56619927bef1492ab24d46703fec7c218d004f77a.webp",
+    "description" : "2pc: Tăng 12% Tấn Công của người trang bị. Khi vào chiến đấu, nếu có ít nhất 1 đồng đội cùng Vận Mệnh với người trang bị, thì Tỷ Lệ Bạo Kích của người trang bị tăng 12%.",
+    "group": "Izumo Hiện Thế Và Thần Quốc Cõi Trời"
+  },
+  {
+    "id": "63146",
+    "name": "Izumo, Lưỡi Đao Chấm Dứt Và Khởi Đầu",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/62671982ae2153e565dcf1d56619927bef1492ab24d46703fec7c218d004f77a.webp",
+    "description" : "2pc: Tăng 12% Tấn Công của người trang bị. Khi vào chiến đấu, nếu có ít nhất 1 đồng đội cùng Vận Mệnh với người trang bị, thì Tỷ Lệ Bạo Kích của người trang bị tăng 12%.",
+    "group": "Izumo Hiện Thế Và Thần Quốc Cõi Trời"
+  },
+  {
+    "id": "63155",
+    "name": "Duran - Lều Mái Vòm Vàng",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/08c0b8e33ce81fb3e61c799f0414409cc840f44d16c531f583b824d3279b3438.webp",
+    "description" : "2pc: Khi nhân vật phe ta thi triển Đòn Đánh Theo Sau, người trang bị sẽ nhận 1 tầng Công Huân, tối đa cộng dồn 5 tầng. Mỗi tầng Công Huân sẽ khiến sát thương Đòn Đánh Theo Sau của người trang bị gây ra tăng 5%, khi cộng dồn đầy 5 tầng, tăng thêm 25% Sát Thương Bạo Kích của người trang bị.",
+    "group": "Duran - Vương Triều Sói Hoang"
+  },
+  {
+    "id": "63156",
+    "name": "Duran-Dây Cương Thú Robot",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/08c0b8e33ce81fb3e61c799f0414409cc840f44d16c531f583b824d3279b3438.webp",
+    "description" : "2pc: Khi nhân vật phe ta thi triển Đòn Đánh Theo Sau, người trang bị sẽ nhận 1 tầng Công Huân, tối đa cộng dồn 5 tầng. Mỗi tầng Công Huân sẽ khiến sát thương Đòn Đánh Theo Sau của người trang bị gây ra tăng 5%, khi cộng dồn đầy 5 tầng, tăng thêm 25% Sát Thương Bạo Kích của người trang bị.",
+    "group": "Duran - Vương Triều Sói Hoang"
+  },
+  {
+    "id": "63165",
+    "name": "Cung Điện Rèn Đúc - Bấc Liên Đăng",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/9174d9c7e5b5f79d0b0a654340f9e6d9bc36676975acc6c67867838542292bbb.webp",
+    "description" : "2pc: Tăng 6% Tốc Độ của người trang bị. Khi người trang bị đánh trúng kẻ địch có Điểm Yếu Hỏa, Tấn Công Kích Phá tăng 40%, duy trì 1 hiệp.",
+    "group": "Cung Điện Rèn Đúc Kiếp Hỏa Liên Đăng"
+  },
+  {
+    "id": "63166",
+    "name": "Cung Điện Rèn Đúc - Lụa Trời Diệm Luân",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/9174d9c7e5b5f79d0b0a654340f9e6d9bc36676975acc6c67867838542292bbb.webp",
+    "description" : "2pc: Tăng 6% Tốc Độ của người trang bị. Khi người trang bị đánh trúng kẻ địch có Điểm Yếu Hỏa, Tấn Công Kích Phá tăng 40%, duy trì 1 hiệp.",
+    "group": "Cung Điện Rèn Đúc Kiếp Hỏa Liên Đăng"
+  },
+  {
+    "id": "63175",
+    "name": "Thủy Đô Lushaka",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/db674fd0f1b97c0f64587340330da41ac1b55330822443c6452be5f5c072ab21.webp",
+    "description" : "2pc: Khiến Hiệu Suất Hồi Năng Lượng của người trang bị tăng 5%, nếu người trang bị không phải nhân vật vị trí đầu tiên trong đội, thì sẽ khiến Tấn Công của nhân vật ở vị trí đầu tiên trong đội tăng 12%.",
+    "group": "Biển Lục Địa Chìm - Lushaka"
+  },
+  {
+    "id": "63176",
+    "name": "Đường Bay Đôi Lushaka",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/db674fd0f1b97c0f64587340330da41ac1b55330822443c6452be5f5c072ab21.webp",
+    "description" : "2pc: Khiến Hiệu Suất Hồi Năng Lượng của người trang bị tăng 5%, nếu người trang bị không phải nhân vật vị trí đầu tiên trong đội, thì sẽ khiến Tấn Công của nhân vật ở vị trí đầu tiên trong đội tăng 12%.",
+    "group": "Biển Lục Địa Chìm - Lushaka"
+  },
+  {
+    "id": "63185",
+    "name": "Quảng Trường Chuối Ở Công Viên Chuối",
+    "type": "Cầu",
+    "groupImage" : "https://cdn.starrailstation.com/assets/0c0574252d0c6ee5d929dbf72867de3b17b00c4fa19be6848aa792c80402fcbe.webp",
+    "description" : "2pc: Khiến Sát Thương Bạo Kích của người trang bị tăng 16%, khi tồn tại mục tiêu mà người trang bị triệu hồi, Sát Thương Bạo Kích sẽ tăng thêm 32%.",
+    "group": "Công Viên Chuối Kỳ Ảo"
+  },
+  {
+    "id": "63186",
+    "name": "Cáp Virus Meme Ở Công Viên Chuối",
+    "type": "Dây",
+    "groupImage" : "https://cdn.starrailstation.com/assets/0c0574252d0c6ee5d929dbf72867de3b17b00c4fa19be6848aa792c80402fcbe.webp",
+    "description" : "2pc: Khiến Sát Thương Bạo Kích của người trang bị tăng 16%, khi tồn tại mục tiêu mà người trang bị triệu hồi, Sát Thương Bạo Kích sẽ tăng thêm 32%.",
+    "group": "Công Viên Chuối Kỳ Ảo"
+  },
+  {
+    "id": "63195",
+    "name": "Bia Tưởng Niệm Người Đã Khuất Của Aidonia",
+    "type": "Cầu",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71042.webp",
+    "description" : "2-Pc: Tăng 12% Giới Hạn HP của người trang bị. Khi Giới Hạn HP của người trang bị lớn hơn hoặc bằng 5000, sẽ tăng 28% Sát Thương Bạo Kích của người trang bị và Linh Hồn Ký Ức của người đó.",
+    "group": "Vùng Đất Nhặt Hài Cốt Tĩnh Lặng"
+  },
+  {
+    "id": "63196",
+    "name": "Chuỗi Xương Âm Ty Của Aidonia",
+    "type": "Dây",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71042.webp",
+    "description" : "2-Pc: Tăng 12% Giới Hạn HP của người trang bị. Khi Giới Hạn HP của người trang bị lớn hơn hoặc bằng 5000, sẽ tăng 28% Sát Thương Bạo Kích của người trang bị và Linh Hồn Ký Ức của người đó.",
+    "group": "Vùng Đất Nhặt Hài Cốt Tĩnh Lặng"
+  },
+  {
+    "id": "63205",
+    "name": "Cây Thiêng Trầm Tư Của Điện Cây Giác Ngộ",
+    "type": "Cầu",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71043.webp",
+    "description" : "2-Pc: The wearer's SPD increases by 6%. When the wearer's SPD is 135/180 or more, the wearer and their memosprite's Outgoing Healing increases by 12%/20%.",
+    "group": "Đại Thụ Trầm Tư"
+  },
+  {
+    "id": "63206",
+    "name": "Cành Lá Tri Thức Của Điện Cây Giác Ngộ",
+    "type": "Dây",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71043.webp",
+    "description" : "2-Pc: The wearer's SPD increases by 6%. When the wearer's SPD is 135/180 or more, the wearer and their memosprite's Outgoing Healing increases by 12%/20%.",
+    "group": "Đại Thụ Trầm Tư"
+  }
+]
