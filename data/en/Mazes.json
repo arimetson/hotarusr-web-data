@@ -60,6 +60,10 @@
         "name": "[Town] \"Demigod Council\" Dawncloud"
     },
     {
+        "id": "10404",
+        "name": "[Town] null"
+    },
+    {
         "id": "20001",
         "name": "[Maze] Base Zone"
     },
@@ -234,6 +238,18 @@
     {
         "id": "20424",
         "name": "[Maze] The Sea of Flowers in Memory"
+    },
+    {
+        "id": "20431",
+        "name": "[Maze] \"Fortress of Dome\" Eye of Twilight"
+    },
+    {
+        "id": "20432",
+        "name": "[Maze] \"Cloudedge Bastion Ruins\" Eye of Twilight"
+    },
+    {
+        "id": "20433",
+        "name": "[Maze] null"
     },
     {
         "id": "30101",
@@ -528,6 +544,26 @@
         "name": "[Raid] null"
     },
     {
+        "id": "40431",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40432",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40433",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40434",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40435",
+        "name": "[Raid] null"
+    },
+    {
         "id": "41000",
         "name": "[Raid] null"
     },
@@ -777,6 +813,10 @@
     },
     {
         "id": "44305",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "44306",
         "name": "[Raid] null"
     },
     {
