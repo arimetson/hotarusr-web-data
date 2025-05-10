@@ -60,6 +60,10 @@
         "name": "[Town] \"Nghị Viện Á Thần\" Vách Mây Bình Minh"
     },
     {
+        "id": "10404",
+        "name": "[Town] null"
+    },
+    {
         "id": "20001",
         "name": "[Maze] Khoang Cơ Sở"
     },
@@ -234,6 +238,18 @@
     {
         "id": "20424",
         "name": "[Maze] Biển Hoa Trong Ký Ức"
+    },
+    {
+        "id": "20431",
+        "name": "[Maze] \"Pháo Đài Mái Vòm\" Con Mắt Ngày Và Đêm"
+    },
+    {
+        "id": "20432",
+        "name": "[Maze] \"Pháo Đài Trên Mây\" Con Mắt Ngày Và Đêm"
+    },
+    {
+        "id": "20433",
+        "name": "[Maze] null"
     },
     {
         "id": "30101",
@@ -528,6 +544,26 @@
         "name": "[Raid] null"
     },
     {
+        "id": "40431",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40432",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40433",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40434",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40435",
+        "name": "[Raid] null"
+    },
+    {
         "id": "41000",
         "name": "[Raid] null"
     },
@@ -777,6 +813,10 @@
     },
     {
         "id": "44305",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "44306",
         "name": "[Raid] null"
     },
     {
