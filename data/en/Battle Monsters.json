@@ -36,6 +36,10 @@
         "name": "Vagrant"
     },
     {
+        "id": "1002021",
+        "name": "Vagrant"
+    },
+    {
         "id": "1002030",
         "name": "Silvermane Cannoneer"
     },
@@ -50,6 +54,22 @@
     {
         "id": "1002050",
         "name": "Silvermane Gunner"
+    },
+    {
+        "id": "1002060",
+        "name": "Lance of the Eternal Freeze"
+    },
+    {
+        "id": "1002061",
+        "name": "Lance of the Eternal Freeze"
+    },
+    {
+        "id": "1002062",
+        "name": "Lance of the Eternal Freeze"
+    },
+    {
+        "id": "1002063",
+        "name": "Lance of the Eternal Freeze"
     },
     {
         "id": "1002064",
@@ -86,6 +106,10 @@
     {
         "id": "1004013",
         "name": "Cocolia (Illusion)"
+    },
+    {
+        "id": "1004014",
+        "name": "Annihilator of Desolation Mistral"
     },
     {
         "id": "1004015",
@@ -150,6 +174,10 @@
     {
         "id": "1005013",
         "name": "Cocolia, Mother of Deception (Illusion)"
+    },
+    {
+        "id": "1005014",
+        "name": "Annihilator of Desolation Mistral: Mother of Deception"
     },
     {
         "id": "1012010",
@@ -293,6 +321,10 @@
     },
     {
         "id": "2002031",
+        "name": "Wraith Warden"
+    },
+    {
+        "id": "2002032",
         "name": "Wraith Warden"
     },
     {
@@ -676,6 +708,10 @@
         "name": "Banacademic Office's Charmony BananAdvisor"
     },
     {
+        "id": "3003014",
+        "name": "Dreamjolt Troupe's Beyond Overcooked"
+    },
+    {
         "id": "3003015",
         "name": "Banacademic Office's Charmony BananAdvisor"
     },
@@ -797,6 +833,10 @@
     },
     {
         "id": "3013011",
+        "name": "Memory Zone Meme \"Shell of Faded Rage\""
+    },
+    {
+        "id": "3013012",
         "name": "Memory Zone Meme \"Shell of Faded Rage\""
     },
     {
@@ -980,6 +1020,34 @@
         "name": "The Long Arms of Sorrow"
     },
     {
+        "id": "4012072",
+        "name": "The Long Arms of Sorrow"
+    },
+    {
+        "id": "4012073",
+        "name": "The Long Arms of Sorrow"
+    },
+    {
+        "id": "4012080",
+        "name": "Daythunder Raven"
+    },
+    {
+        "id": "4012090",
+        "name": "Twig of Hundred Eyes"
+    },
+    {
+        "id": "4012091",
+        "name": "Shoot of Hundred Eyes"
+    },
+    {
+        "id": "4012092",
+        "name": "Languid Ethmoid Bone"
+    },
+    {
+        "id": "4012093",
+        "name": "Dried Lacrimal Bone"
+    },
+    {
         "id": "4013010",
         "name": "Furiae Praetor"
     },
@@ -1028,8 +1096,24 @@
         "name": "Pollux, Netherwing Husk, Ferry of Souls"
     },
     {
+        "id": "4014031",
+        "name": "Pollux, Netherwing Husk, Ferry of Souls (Complete)"
+    },
+    {
         "id": "4014032",
         "name": "Pollux, Netherwing Husk, Ferry of Souls"
+    },
+    {
+        "id": "4015010",
+        "name": "Sublime, Radiant, Avatar of the Sky"
+    },
+    {
+        "id": "4015011",
+        "name": "Sublime, Radiant, Avatar of the Sky"
+    },
+    {
+        "id": "4015020",
+        "name": "Decimator, Karma of Daythunder, Eye of Twilight"
     },
     {
         "id": "4022010",
@@ -1056,6 +1140,10 @@
         "name": "Long-Shattered Vessel"
     },
     {
+        "id": "4032023",
+        "name": "Demon King's Minions"
+    },
+    {
         "id": "4032024",
         "name": "Long-Shattered Vessel"
     },
@@ -1064,8 +1152,24 @@
         "name": "Black Tide's Corroded Axe"
     },
     {
+        "id": "4032040",
+        "name": "Black Tide Council"
+    },
+    {
+        "id": "4032050",
+        "name": "Black Tide's Decrepit Bow"
+    },
+    {
         "id": "4033010",
         "name": "Black Tide's Corroded Daemon"
+    },
+    {
+        "id": "4033020",
+        "name": "Black Tide's Champion"
+    },
+    {
+        "id": "4033030",
+        "name": "Dark Sun Gryphon"
     },
     {
         "id": "4034010",
@@ -1074,6 +1178,10 @@
     {
         "id": "4034011",
         "name": "???"
+    },
+    {
+        "id": "4034012",
+        "name": "Black Cloak Demon King"
     },
     {
         "id": "4034014",
@@ -1344,12 +1452,20 @@
         "name": "Ice Out of Space (Bug)"
     },
     {
+        "id": "8003012",
+        "name": "Ice Out of Space"
+    },
+    {
         "id": "8003020",
         "name": "Blaze Out of Space"
     },
     {
         "id": "8003021",
         "name": "Blaze Out of Space (Bug)"
+    },
+    {
+        "id": "8003022",
+        "name": "Blaze Out of Space"
     },
     {
         "id": "8003030",
@@ -1398,6 +1514,10 @@
     {
         "id": "8012010",
         "name": "Voidranger: Reaver"
+    },
+    {
+        "id": "8012011",
+        "name": "null"
     },
     {
         "id": "8012020",
@@ -1618,6 +1738,10 @@
     {
         "id": "8033011",
         "name": "Senior Staff: Team Leader (Bug)"
+    },
+    {
+        "id": "8033012",
+        "name": "Senior Staff: Team Leader"
     },
     {
         "id": "8033013",
@@ -1924,6 +2048,10 @@
         "name": "Silvermane Cannoneer"
     },
     {
+        "id": "100203024",
+        "name": "Silvermane Cannoneer"
+    },
+    {
         "id": "100204001",
         "name": "Silvermane Soldier"
     },
@@ -2036,6 +2164,10 @@
         "name": "Silvermane Soldier"
     },
     {
+        "id": "100204029",
+        "name": "Silvermane Soldier"
+    },
+    {
         "id": "100204101",
         "name": "Silvermane Soldier"
     },
@@ -2133,6 +2265,10 @@
     },
     {
         "id": "100205024",
+        "name": "Silvermane Gunner"
+    },
+    {
+        "id": "100205027",
         "name": "Silvermane Gunner"
     },
     {
@@ -2345,6 +2481,10 @@
     },
     {
         "id": "100301037",
+        "name": "Silvermane Lieutenant"
+    },
+    {
+        "id": "100301038",
         "name": "Silvermane Lieutenant"
     },
     {
@@ -2668,6 +2808,10 @@
         "name": "Automaton Hound"
     },
     {
+        "id": "101201022",
+        "name": "Automaton Hound"
+    },
+    {
         "id": "101202001",
         "name": "Rookie Buster: Silo"
     },
@@ -2721,6 +2865,10 @@
     },
     {
         "id": "101202111",
+        "name": "Automaton Spider"
+    },
+    {
+        "id": "101202112",
         "name": "Automaton Spider"
     },
     {
@@ -3025,6 +3173,10 @@
     },
     {
         "id": "101302034",
+        "name": "Automaton Direwolf"
+    },
+    {
+        "id": "101302035",
         "name": "Automaton Direwolf"
     },
     {
@@ -3652,6 +3804,10 @@
         "name": "Cloud Knight Lieutenant: Yanqing"
     },
     {
+        "id": "200402011",
+        "name": "Cloud Knight Lieutenant: Yanqing"
+    },
+    {
         "id": "200402101",
         "name": "Cloud Knight Lieutenant: Yanqing"
     },
@@ -3688,6 +3844,10 @@
         "name": "Entranced Ingenium: Obedient Dracolion"
     },
     {
+        "id": "201101006",
+        "name": "Entranced Ingenium: Obedient Dracolion"
+    },
+    {
         "id": "201102001",
         "name": "Entranced Ingenium: Golden Cloud Toad"
     },
@@ -3701,6 +3861,10 @@
     },
     {
         "id": "201102004",
+        "name": "Entranced Ingenium: Golden Cloud Toad"
+    },
+    {
+        "id": "201102006",
         "name": "Entranced Ingenium: Golden Cloud Toad"
     },
     {
@@ -3745,6 +3909,10 @@
     },
     {
         "id": "201201011",
+        "name": "Entranced Ingenium: Illumination Dragonfish"
+    },
+    {
+        "id": "201201014",
         "name": "Entranced Ingenium: Illumination Dragonfish"
     },
     {
@@ -3845,6 +4013,14 @@
     },
     {
         "id": "201302013",
+        "name": "Aurumaton Spectral Envoy"
+    },
+    {
+        "id": "201302015",
+        "name": "Aurumaton Spectral Envoy"
+    },
+    {
+        "id": "201302016",
         "name": "Aurumaton Spectral Envoy"
     },
     {
@@ -3994,6 +4170,10 @@
     {
         "id": "202205006",
         "name": "Lyndon \"Lonewolf\" Skott"
+    },
+    {
+        "id": "202205101",
+        "name": "Shadow Jackhyena"
     },
     {
         "id": "202206001",
@@ -4268,7 +4448,15 @@
         "name": "Abundance Sprite: Malefic Ape"
     },
     {
+        "id": "202302015",
+        "name": "Abundance Sprite: Malefic Ape"
+    },
+    {
         "id": "202302101",
+        "name": "Abundance Sprite: Malefic Ape (Bug)"
+    },
+    {
+        "id": "202302102",
         "name": "Abundance Sprite: Malefic Ape (Bug)"
     },
     {
@@ -4369,6 +4557,10 @@
     },
     {
         "id": "202401009",
+        "name": "Abundant Ebon Deer"
+    },
+    {
+        "id": "202401010",
         "name": "Abundant Ebon Deer"
     },
     {
@@ -4488,6 +4680,10 @@
         "name": "Howling Casket"
     },
     {
+        "id": "203301101",
+        "name": "Howling Casket (Bug)"
+    },
+    {
         "id": "203401001",
         "name": "Borisin Warhead: Hoolay"
     },
@@ -4536,6 +4732,10 @@
         "name": "Dreamjolt Troupe's Spring Loader"
     },
     {
+        "id": "300101005",
+        "name": "Dreamjolt Troupe's Spring Loader"
+    },
+    {
         "id": "300101006",
         "name": "Dreamjolt Troupe's Spring Loader"
     },
@@ -4557,6 +4757,10 @@
     },
     {
         "id": "300102005",
+        "name": "Dreamjolt Troupe's Birdskull"
+    },
+    {
+        "id": "300102006",
         "name": "Dreamjolt Troupe's Birdskull"
     },
     {
@@ -4589,6 +4793,10 @@
     },
     {
         "id": "300201008",
+        "name": "Dreamjolt Troupe's Mr. Domescreen"
+    },
+    {
+        "id": "300201009",
         "name": "Dreamjolt Troupe's Mr. Domescreen"
     },
     {
@@ -4625,6 +4833,10 @@
     },
     {
         "id": "300202004",
+        "name": "Dreamjolt Troupe's Fortune Seller"
+    },
+    {
+        "id": "300202005",
         "name": "Dreamjolt Troupe's Fortune Seller"
     },
     {
@@ -4696,6 +4908,10 @@
         "name": "Dreamjolt Troupe's Bubble Hound"
     },
     {
+        "id": "300203013",
+        "name": "Dreamjolt Troupe's Bubble Hound"
+    },
+    {
         "id": "300203014",
         "name": "Dreamjolt Troupe's Bubble Hound"
     },
@@ -4725,6 +4941,10 @@
     },
     {
         "id": "300204006",
+        "name": "Dreamjolt Troupe's Winder Goon"
+    },
+    {
+        "id": "300204007",
         "name": "Dreamjolt Troupe's Winder Goon"
     },
     {
@@ -4808,6 +5028,10 @@
         "name": "Dreamjolt Troupe's Beyond Overcooked"
     },
     {
+        "id": "300301010",
+        "name": "Dreamjolt Troupe's Beyond Overcooked"
+    },
+    {
         "id": "300301101",
         "name": "Dreamjolt Troupe's Beyond Overcooked (Projection)"
     },
@@ -4817,6 +5041,10 @@
     },
     {
         "id": "300301202",
+        "name": "Dreamjolt Troupe's Beyond Overcooked (Bug)"
+    },
+    {
+        "id": "300301203",
         "name": "Dreamjolt Troupe's Beyond Overcooked (Bug)"
     },
     {
@@ -4896,6 +5124,10 @@
         "name": "Dreamjolt Troupe's Sweet Gorilla (Bug)"
     },
     {
+        "id": "300302202",
+        "name": "Dreamjolt Troupe's Sweet Gorilla (Bug)"
+    },
+    {
         "id": "300303001",
         "name": "\"Past Confined and Caged\""
     },
@@ -4940,6 +5172,10 @@
         "name": "\"Tomorrow in Harmonious Chords\""
     },
     {
+        "id": "300304002",
+        "name": "\"Tomorrow in Harmonious Chords\""
+    },
+    {
         "id": "300304101",
         "name": "\"Tomorrow in Harmonious Chords\""
     },
@@ -4980,6 +5216,14 @@
         "name": "\"Present Inebriated in Revelry\""
     },
     {
+        "id": "300305009",
+        "name": "\"Present Inebriated in Revelry\""
+    },
+    {
+        "id": "300305010",
+        "name": "\"Present Inebriated in Revelry\""
+    },
+    {
         "id": "300305101",
         "name": "\"Present Inebriated in Revelry\""
     },
@@ -4989,6 +5233,10 @@
     },
     {
         "id": "300305201",
+        "name": "\"Present Inebriated in Revelry\" (Bug)"
+    },
+    {
+        "id": "300305202",
         "name": "\"Present Inebriated in Revelry\" (Bug)"
     },
     {
@@ -5220,6 +5468,10 @@
         "name": "Argenti"
     },
     {
+        "id": "302401010",
+        "name": "Argenti"
+    },
+    {
         "id": "302401101",
         "name": "Argenti (Complete)"
     },
@@ -5301,6 +5553,10 @@
     },
     {
         "id": "302402202",
+        "name": "Stellaron Hunter: Sam"
+    },
+    {
+        "id": "302402203",
         "name": "Stellaron Hunter: Sam"
     },
     {
@@ -5504,12 +5760,20 @@
         "name": "Furiae Praetor"
     },
     {
+        "id": "401301006",
+        "name": "Furiae Praetor"
+    },
+    {
         "id": "401301101",
         "name": "Furiae Praetor"
     },
     {
         "id": "401301201",
         "name": "Furiae Praetor"
+    },
+    {
+        "id": "401301301",
+        "name": "Furiae Praetor (Bug)"
     },
     {
         "id": "401401001",
@@ -5542,6 +5806,14 @@
     {
         "id": "401402002",
         "name": "The Giver, Master of Legions, Lance of Fury"
+    },
+    {
+        "id": "401501001",
+        "name": "Sublime, Radiant, Avatar of the Sky"
+    },
+    {
+        "id": "401502001",
+        "name": "Decimator, Karma of Daythunder, Eye of Twilight"
     },
     {
         "id": "402201001",
@@ -5592,8 +5864,84 @@
         "name": "Long-Shattered Vessel"
     },
     {
+        "id": "403202204",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202205",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202206",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202207",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202301",
+        "name": "Demon King's Minions"
+    },
+    {
+        "id": "403202302",
+        "name": "Demon King's Minions"
+    },
+    {
+        "id": "403202303",
+        "name": "Demon King's Minions"
+    },
+    {
+        "id": "403202304",
+        "name": "Demon King's Minions"
+    },
+    {
+        "id": "403202305",
+        "name": "Demon King's Minions"
+    },
+    {
+        "id": "403202306",
+        "name": "Demon King's Minions"
+    },
+    {
+        "id": "403202307",
+        "name": "Demon King's Minions"
+    },
+    {
+        "id": "403202308",
+        "name": "Demon King's Minions"
+    },
+    {
+        "id": "403202309",
+        "name": "Demon King's Minions"
+    },
+    {
         "id": "403202401",
         "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403205002",
+        "name": "Archer of the Dark Sun"
+    },
+    {
+        "id": "403301001",
+        "name": "Black Tide's Corroded Daemon"
+    },
+    {
+        "id": "403301002",
+        "name": "Black Tide's Corroded Daemon"
+    },
+    {
+        "id": "403301004",
+        "name": "Black Tide's Corroded Daemon"
+    },
+    {
+        "id": "403303002",
+        "name": "Dark Sun Gryphon"
+    },
+    {
+        "id": "403303003",
+        "name": "Dark Sun Gryphon"
     },
     {
         "id": "403401001",
@@ -5720,6 +6068,10 @@
         "name": "Flamespawn"
     },
     {
+        "id": "800101019",
+        "name": "Flamespawn"
+    },
+    {
         "id": "800102001",
         "name": "Frostspawn"
     },
@@ -5789,6 +6141,10 @@
     },
     {
         "id": "800102018",
+        "name": "Frostspawn"
+    },
+    {
+        "id": "800102019",
         "name": "Frostspawn"
     },
     {
@@ -5873,6 +6229,10 @@
     },
     {
         "id": "800105005",
+        "name": "Windspawn"
+    },
+    {
+        "id": "800105006",
         "name": "Windspawn"
     },
     {
@@ -6549,6 +6909,10 @@
     },
     {
         "id": "800303102",
+        "name": "Guardian Shadow (Bug)"
+    },
+    {
+        "id": "800303103",
         "name": "Guardian Shadow (Bug)"
     },
     {
@@ -7237,6 +7601,10 @@
     },
     {
         "id": "802202003",
+        "name": "Lesser Sting"
+    },
+    {
+        "id": "802202004",
         "name": "Lesser Sting"
     },
     {
