@@ -256,75 +256,15 @@
         "name": "Anaxa"
     },
     {
+        "id": "1406",
+        "name": "Cipher"
+    },
+    {
         "id": "1407",
         "name": "Castorice"
     },
     {
-        "id": "6022",
-        "name": "March 7th"
-    },
-    {
-        "id": "6023",
-        "name": "Cơ Giáp Công Ty Do Skott Sắp Xếp"
-    },
-    {
-        "id": "7005",
-        "name": "Kafka"
-    },
-    {
-        "id": "7006",
-        "name": "Sói Bạc"
-    },
-    {
-        "id": "7205",
-        "name": "Blade"
-    },
-    {
-        "id": "7212",
-        "name": "Jingliu"
-    },
-    {
-        "id": "7213",
-        "name": "Dan Heng - Ẩm Nguyệt"
-    },
-    {
-        "id": "8001",
-        "name": "{NICKNAME}"
-    },
-    {
-        "id": "8002",
-        "name": "{NICKNAME}"
-    },
-    {
-        "id": "8003",
-        "name": "{NICKNAME}"
-    },
-    {
-        "id": "8004",
-        "name": "{NICKNAME}"
-    },
-    {
-        "id": "8005",
-        "name": "{NICKNAME}"
-    },
-    {
-        "id": "8006",
-        "name": "{NICKNAME}"
-    },
-    {
-        "id": "8007",
-        "name": "{NICKNAME}"
-    },
-    {
-        "id": "8008",
-        "name": "{NICKNAME}"
-    },
-    {
-        "id": "8901",
-        "name": "{NICKNAME}"
-    },
-    {
-        "id": "8902",
-        "name": "{NICKNAME}"
+        "id": "1409",
+        "name": "Hyacine"
     }
 ]
