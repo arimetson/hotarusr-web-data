@@ -768,6 +768,70 @@
     "group": "Poet of Mourning Collapse"
   },
   {
+    "id": "61251",
+    "name": "Warrior Goddess's Winged Helm",
+    "type": "Nón",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71044.webp",
+    "description" : "2-Pc: Increases SPD by 6%. \n4-Pc: When the wearer and their memosprite provide healing to ally targets aside from themselves, the wearer gains \"Gentle Rain,\" which can be triggered up to 1 time per turn, lasting for 2 turn(s). While the wearer has \"Gentle Rain,\" increases their SPD by 6% and all allies' CRIT DMG by 15%. This effect cannot be stacked.",
+    "group": "Warrior Goddess of Sun and Thunder"
+  },
+  {
+    "id": "61252",
+    "name": "Warrior Goddess's Cavalry Gauntlets",
+    "type": "Tay",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71044.webp",
+    "description" : "2-Pc: Increases SPD by 6%. \n4-Pc: When the wearer and their memosprite provide healing to ally targets aside from themselves, the wearer gains \"Gentle Rain,\" which can be triggered up to 1 time per turn, lasting for 2 turn(s). While the wearer has \"Gentle Rain,\" increases their SPD by 6% and all allies' CRIT DMG by 15%. This effect cannot be stacked.",
+    "group": "Warrior Goddess of Sun and Thunder"
+  },
+  {
+    "id": "61253",
+    "name": "Warrior Goddess's Dawn Cape",
+    "type": "Áo",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71044.webp",
+    "description" : "2-Pc: Increases SPD by 6%. \n4-Pc: When the wearer and their memosprite provide healing to ally targets aside from themselves, the wearer gains \"Gentle Rain,\" which can be triggered up to 1 time per turn, lasting for 2 turn(s). While the wearer has \"Gentle Rain,\" increases their SPD by 6% and all allies' CRIT DMG by 15%. This effect cannot be stacked.",
+    "group": "Warrior Goddess of Sun and Thunder"
+  },
+  {
+    "id": "61254",
+    "name": "Warrior Goddess's Honor Spurs",
+    "type": "Giày",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71044.webp",
+    "description" : "2-Pc: Increases SPD by 6%. \n4-Pc: When the wearer and their memosprite provide healing to ally targets aside from themselves, the wearer gains \"Gentle Rain,\" which can be triggered up to 1 time per turn, lasting for 2 turn(s). While the wearer has \"Gentle Rain,\" increases their SPD by 6% and all allies' CRIT DMG by 15%. This effect cannot be stacked.",
+    "group": "Warrior Goddess of Sun and Thunder"
+  },
+  {
+    "id": "61261",
+    "name": "Captain's Navigator Hat",
+    "type": "Nón",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71045.webp",
+    "description" : "2-Pc: Increases CRIT DMG by 16%. \n4-Pc: When the wearer becomes the target of another ally target's ability, gains 1 stack of \"Help,\" stacking up to 2 time(s). If there are 2 stack(s) of \"Help\" when the wearer uses their Ultimate, consumes all \"Help\" to increase the wearer's ATK by 48% for 1 turn(s).",
+    "group": "Wavestrider Captain"
+  },
+  {
+    "id": "61262",
+    "name": "Captain's Lightcatcher Astrolabe",
+    "type": "Tay",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71045.webp",
+    "description" : "2-Pc: Increases CRIT DMG by 16%. \n4-Pc: When the wearer becomes the target of another ally target's ability, gains 1 stack of \"Help,\" stacking up to 2 time(s). If there are 2 stack(s) of \"Help\" when the wearer uses their Ultimate, consumes all \"Help\" to increase the wearer's ATK by 48% for 1 turn(s).",
+    "group": "Wavestrider Captain"
+  },
+  {
+    "id": "61263",
+    "name": "Captain's Wind Mantle",
+    "type": "Áo",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71045.webp",
+    "description" : "2-Pc: Increases CRIT DMG by 16%. \n4-Pc: When the wearer becomes the target of another ally target's ability, gains 1 stack of \"Help,\" stacking up to 2 time(s). If there are 2 stack(s) of \"Help\" when the wearer uses their Ultimate, consumes all \"Help\" to increase the wearer's ATK by 48% for 1 turn(s).",
+    "group": "Wavestrider Captain"
+  },
+  {
+    "id": "61264",
+    "name": "Captain's Tidal Boots",
+    "type": "Giày",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71045.webp",
+    "description" : "2-Pc: Increases CRIT DMG by 16%. \n4-Pc: When the wearer becomes the target of another ally target's ability, gains 1 stack of \"Help,\" stacking up to 2 time(s). If there are 2 stack(s) of \"Help\" when the wearer uses their Ultimate, consumes all \"Help\" to increase the wearer's ATK by 48% for 1 turn(s).",
+    "group": "Wavestrider Captain"
+  },
+  {
     "id": "63015",
     "name": "Herta's Space Station",
     "type": "Cầu",
