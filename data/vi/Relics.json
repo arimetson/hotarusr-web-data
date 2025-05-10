@@ -768,6 +768,70 @@
     "group": "Nhà Thơ Khúc Bi Ca Vong Quốc"
   },
   {
+    "id": "61251",
+    "name": "Mũ Cánh Của Nữ Thần Chiến Binh",
+    "type": "Nón",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71044.webp",
+    "description" : "2pc: Tốc Độ tăng 6%. \n4pc: Sau khi người trang bị và Linh Hồn Ký Ức của người trang bị cung cấp trị liệu cho mục tiêu phe ta ngoại trừ người trang bị và Linh Hồn Ký Ức của họ, người trang bị sẽ nhận \"Cơn Mưa Ngọt Ngào\", mỗi hiệp kích hoạt tối đa 1 lần, kéo dài 2 hiệp. Khi người trang bị đang có \"Cơn Mưa Ngọt Ngào\", tốc độ tăng 6%, sát thương bạo kích toàn phe ta tăng 15%. Hiệu ứng này không thể cộng dồn.",
+    "group": "Nữ Thần Chiến Binh Nắng Sấm"
+  },
+  {
+    "id": "61252",
+    "name": "Găng Tay Thương Kỵ Của Nữ Thần Chiến Binh",
+    "type": "Tay",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71044.webp",
+    "description" : "2pc: Tốc Độ tăng 6%. \n4pc: Sau khi người trang bị và Linh Hồn Ký Ức của người trang bị cung cấp trị liệu cho mục tiêu phe ta ngoại trừ người trang bị và Linh Hồn Ký Ức của họ, người trang bị sẽ nhận \"Cơn Mưa Ngọt Ngào\", mỗi hiệp kích hoạt tối đa 1 lần, kéo dài 2 hiệp. Khi người trang bị đang có \"Cơn Mưa Ngọt Ngào\", tốc độ tăng 6%, sát thương bạo kích toàn phe ta tăng 15%. Hiệu ứng này không thể cộng dồn.",
+    "group": "Nữ Thần Chiến Binh Nắng Sấm"
+  },
+  {
+    "id": "61253",
+    "name": "Áo Choàng Khởi Hành Của Nữ Thần Chiến Binh",
+    "type": "Áo",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71044.webp",
+    "description" : "2pc: Tốc Độ tăng 6%. \n4pc: Sau khi người trang bị và Linh Hồn Ký Ức của người trang bị cung cấp trị liệu cho mục tiêu phe ta ngoại trừ người trang bị và Linh Hồn Ký Ức của họ, người trang bị sẽ nhận \"Cơn Mưa Ngọt Ngào\", mỗi hiệp kích hoạt tối đa 1 lần, kéo dài 2 hiệp. Khi người trang bị đang có \"Cơn Mưa Ngọt Ngào\", tốc độ tăng 6%, sát thương bạo kích toàn phe ta tăng 15%. Hiệu ứng này không thể cộng dồn.",
+    "group": "Nữ Thần Chiến Binh Nắng Sấm"
+  },
+  {
+    "id": "61254",
+    "name": "Cựa Ngựa Vinh Dự Của Nữ Thần Chiến Binh",
+    "type": "Giày",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71044.webp",
+    "description" : "2pc: Tốc Độ tăng 6%. \n4pc: Sau khi người trang bị và Linh Hồn Ký Ức của người trang bị cung cấp trị liệu cho mục tiêu phe ta ngoại trừ người trang bị và Linh Hồn Ký Ức của họ, người trang bị sẽ nhận \"Cơn Mưa Ngọt Ngào\", mỗi hiệp kích hoạt tối đa 1 lần, kéo dài 2 hiệp. Khi người trang bị đang có \"Cơn Mưa Ngọt Ngào\", tốc độ tăng 6%, sát thương bạo kích toàn phe ta tăng 15%. Hiệu ứng này không thể cộng dồn.",
+    "group": "Nữ Thần Chiến Binh Nắng Sấm"
+  },
+  {
+    "id": "61261",
+    "name": "Mũ Dẫn Đường Của Thuyền Trưởng",
+    "type": "Nón",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71045.webp",
+    "description" : "2pc: Tăng Sát Thương Bạo Kích 16%. \n4pc: Khi người trang bị trở thành mục tiêu kỹ năng của mục tiêu khác thuộc phe ta, sẽ nhận 1 tầng Trợ Lực, tối đa cộng dồn 2 tầng. Khi thi triển Tuyệt Kỹ, nếu có 2 tầng Trợ Lực sẽ tiêu hao tất cả Trợ Lực, tăng 48% Tấn Công của người trang bị, duy trì 1 hiệp.",
+    "group": "Thuyền Trưởng Đuổi Sóng Biển Sâu"
+  },
+  {
+    "id": "61262",
+    "name": "Tinh Bàn Bắt Sáng Của Thuyền Trưởng",
+    "type": "Tay",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71045.webp",
+    "description" : "2pc: Tăng Sát Thương Bạo Kích 16%. \n4pc: Khi người trang bị trở thành mục tiêu kỹ năng của mục tiêu khác thuộc phe ta, sẽ nhận 1 tầng Trợ Lực, tối đa cộng dồn 2 tầng. Khi thi triển Tuyệt Kỹ, nếu có 2 tầng Trợ Lực sẽ tiêu hao tất cả Trợ Lực, tăng 48% Tấn Công của người trang bị, duy trì 1 hiệp.",
+    "group": "Thuyền Trưởng Đuổi Sóng Biển Sâu"
+  },
+  {
+    "id": "61263",
+    "name": "Áo Khoác Cưỡi Gió Của Thuyền Trưởng",
+    "type": "Áo",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71045.webp",
+    "description" : "2pc: Tăng Sát Thương Bạo Kích 16%. \n4pc: Khi người trang bị trở thành mục tiêu kỹ năng của mục tiêu khác thuộc phe ta, sẽ nhận 1 tầng Trợ Lực, tối đa cộng dồn 2 tầng. Khi thi triển Tuyệt Kỹ, nếu có 2 tầng Trợ Lực sẽ tiêu hao tất cả Trợ Lực, tăng 48% Tấn Công của người trang bị, duy trì 1 hiệp.",
+    "group": "Thuyền Trưởng Đuổi Sóng Biển Sâu"
+  },
+  {
+    "id": "61264",
+    "name": "Giày Đạp Sóng Của Thuyền Trưởng",
+    "type": "Giày",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71045.webp",
+    "description" : "2pc: Tăng Sát Thương Bạo Kích 16%. \n4pc: Khi người trang bị trở thành mục tiêu kỹ năng của mục tiêu khác thuộc phe ta, sẽ nhận 1 tầng Trợ Lực, tối đa cộng dồn 2 tầng. Khi thi triển Tuyệt Kỹ, nếu có 2 tầng Trợ Lực sẽ tiêu hao tất cả Trợ Lực, tăng 48% Tấn Công của người trang bị, duy trì 1 hiệp.",
+    "group": "Thuyền Trưởng Đuổi Sóng Biển Sâu"
+  },
+  {
     "id": "63015",
     "name": "Điểm Trạm Không Gian Herta",
     "type": "Cầu",
