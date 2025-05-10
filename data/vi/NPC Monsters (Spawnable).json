@@ -464,6 +464,10 @@
         "name": "Người Đưa Hồn, Xác Rồng Tử Vong, Pollux"
     },
     {
+        "id": "4014031",
+        "name": "Người Đưa Hồn, Xác Rồng Tử Vong, Pollux (Hoàn Chỉnh)"
+    },
+    {
         "id": "4022010",
         "name": "Ưng Sắt Sao Băng"
     },
@@ -476,8 +480,32 @@
         "name": "Pegasus Đêm Trăng"
     },
     {
+        "id": "4032010",
+        "name": "Lưỡi Đao Thủy Triều Đen Ăn Mòn"
+    },
+    {
+        "id": "4032030",
+        "name": "Rìu Ăn Mòn Thủy Triều Đen"
+    },
+    {
+        "id": "4032040",
+        "name": "Hội Đồng Thủy Triều Đen"
+    },
+    {
+        "id": "4032050",
+        "name": "Chiếc Cung Thủy Triều Đen Cũ Nát"
+    },
+    {
         "id": "4033010",
         "name": "Thây Ma Thủy Triều Đen"
+    },
+    {
+        "id": "4033020",
+        "name": "Chiến Tướng Thủy Triều Đen"
+    },
+    {
+        "id": "4033030",
+        "name": "Hắc Nhật Sư Ưng"
     },
     {
         "id": "4034010",
