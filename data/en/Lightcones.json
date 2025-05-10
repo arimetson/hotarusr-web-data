@@ -610,6 +610,16 @@
     "description": "Increases the wearer's CRIT Rate by 18%. Wearer regenerates 10 Energy at the start of the turn. When the wearer actively uses an ability, reduces the DEF of enemy targets who get debuffed during the ability period by 6% for 2 turn(s), up to a max of 2 stack(s)."
   },
   {
+    "id": "23042",
+    "name": "Long May Rainbows Adorn the Sky",
+    "description": "Increases the wearer's SPD by 18%. When the wearer uses Basic ATK, Skill, or Ultimate, consumes all allies' HP equal to 1% of their current HP and additionally deals 1 instance of Additional DMG of the wearer's memosprite Type equal to 250% of the total consumed HP to the attacked target after the next attack launched by the wearer's memosprite. The total HP consumed is then reset. When the wearer's memosprite uses Memosprite Skill, increases the DMG taken by all enemies by 18% for 2 turn(s). The same types of effects cannot stack."
+  },
+  {
+    "id": "23043",
+    "name": "Lies Dance on the Breeze",
+    "description": "Increases the wearer's SPD by 18%. After the wearer uses an attack, there is a 120% base chance to inflict the \"Bamboozle\" state on every enemy target. While under the \"Bamboozle\" state, enemy target's DEF decreases by 16% for 2 turn(s). If the wearer's SPD is higher than or equal to 170, there is a 120% base chance to inflict the \"Theft\" state on every enemy target. While under the \"Theft\" state, enemy target's DEF decreases by 8% for 2 turn(s). When \"Bamboozle\" or \"Theft\" is inflicted repeatedly, only the latest effect inflicted can be active."
+  },
+  {
     "id": "24000",
     "name": "On the Fall of an Aeon",
     "description" : "When the wearer attacks, increases their ATK by 8% in this battle. This effect can stack up to 4 time(s). After the wearer breaks an enemy's Weakness, increases DMG dealt by 12%, lasting for 2 turn(s)."
