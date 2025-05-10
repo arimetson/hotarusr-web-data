@@ -36,6 +36,10 @@
         "name": "Kẻ Lang Thang"
     },
     {
+        "id": "1002021",
+        "name": "Kẻ Lang Thang"
+    },
+    {
         "id": "1002030",
         "name": "Pháo Thủ Bờm Bạc"
     },
@@ -50,6 +54,22 @@
     {
         "id": "1002050",
         "name": "Xạ Thủ Bờm Bạc"
+    },
+    {
+        "id": "1002060",
+        "name": "Giáo Hàn Đông Vô Tận"
+    },
+    {
+        "id": "1002061",
+        "name": "Giáo Hàn Đông Vô Tận"
+    },
+    {
+        "id": "1002062",
+        "name": "Giáo Hàn Đông Vô Tận"
+    },
+    {
+        "id": "1002063",
+        "name": "Giáo Hàn Đông Vô Tận"
     },
     {
         "id": "1002064",
@@ -86,6 +106,10 @@
     {
         "id": "1004013",
         "name": "Cocolia (Ảo Giác)"
+    },
+    {
+        "id": "1004014",
+        "name": "Kẻ Hủy Diệt Gió Lạnh Vô Vọng"
     },
     {
         "id": "1004015",
@@ -150,6 +174,10 @@
     {
         "id": "1005013",
         "name": "Cocolia, Người Mẹ Hư Vô (Ảo Giác)"
+    },
+    {
+        "id": "1005014",
+        "name": "Xua Tan Gió Lạnh Vô Vọng - Người Mẹ Hư Vô"
     },
     {
         "id": "1012010",
@@ -293,6 +321,10 @@
     },
     {
         "id": "2002031",
+        "name": "Cai Ngục Cõi Âm"
+    },
+    {
+        "id": "2002032",
         "name": "Cai Ngục Cõi Âm"
     },
     {
@@ -676,6 +708,10 @@
         "name": "Giáo Viên Hòa Hợp Chúi Của Nhóm Nghiên Cứu Chúi"
     },
     {
+        "id": "3003014",
+        "name": "Đoàn Kịch Ác Mộng - Chín Khét"
+    },
+    {
         "id": "3003015",
         "name": "Giáo Viên Hòa Hợp Chúi Của Nhóm Nghiên Cứu Chúi"
     },
@@ -797,6 +833,10 @@
     },
     {
         "id": "3013011",
+        "name": "Meme Vùng Hồi Ức \"Lớp Vỏ Của Cơn Giận Kìm Nén\""
+    },
+    {
+        "id": "3013012",
         "name": "Meme Vùng Hồi Ức \"Lớp Vỏ Của Cơn Giận Kìm Nén\""
     },
     {
@@ -980,6 +1020,34 @@
         "name": "Cánh Tay Thương Xót"
     },
     {
+        "id": "4012072",
+        "name": "Cánh Tay Thương Xót"
+    },
+    {
+        "id": "4012073",
+        "name": "Cánh Tay Thương Xót"
+    },
+    {
+        "id": "4012080",
+        "name": "Quạ Nắng Sấm"
+    },
+    {
+        "id": "4012090",
+        "name": "Ngọn Trăm Mắt"
+    },
+    {
+        "id": "4012091",
+        "name": "Tận Cùng Của Trăm Mắt"
+    },
+    {
+        "id": "4012092",
+        "name": "Xương Sàng Khô Héo"
+    },
+    {
+        "id": "4012093",
+        "name": "Xương Lệ Khô Cạn"
+    },
+    {
         "id": "4013010",
         "name": "Tiên Phong Thần Phạt"
     },
@@ -1028,8 +1096,24 @@
         "name": "Người Đưa Hồn, Xác Rồng Tử Vong, Pollux"
     },
     {
+        "id": "4014031",
+        "name": "Người Đưa Hồn, Xác Rồng Tử Vong, Pollux (Hoàn Chỉnh)"
+    },
+    {
         "id": "4014032",
         "name": "Người Đưa Hồn, Xác Rồng Tử Vong, Pollux"
+    },
+    {
+        "id": "4015010",
+        "name": "Tối Cao, Cực Dương, Hóa Thân Của Bầu Trời"
+    },
+    {
+        "id": "4015011",
+        "name": "Tối Cao, Cực Dương, Hóa Thân Của Bầu Trời"
+    },
+    {
+        "id": "4015020",
+        "name": "Kẻ Hủy Diệt, Nghiệp Quả Nắng Sấm, Con Mắt Ngày Và Đêm"
     },
     {
         "id": "4022010",
@@ -1056,6 +1140,10 @@
         "name": "Vật Chứa Tàn Khuyết"
     },
     {
+        "id": "4032023",
+        "name": "Tay Sai Ma Vương"
+    },
+    {
         "id": "4032024",
         "name": "Vật Chứa Tàn Khuyết"
     },
@@ -1064,8 +1152,24 @@
         "name": "Rìu Ăn Mòn Thủy Triều Đen"
     },
     {
+        "id": "4032040",
+        "name": "Hội Đồng Thủy Triều Đen"
+    },
+    {
+        "id": "4032050",
+        "name": "Chiếc Cung Thủy Triều Đen Cũ Nát"
+    },
+    {
         "id": "4033010",
         "name": "Thây Ma Thủy Triều Đen"
+    },
+    {
+        "id": "4033020",
+        "name": "Chiến Tướng Thủy Triều Đen"
+    },
+    {
+        "id": "4033030",
+        "name": "Hắc Nhật Sư Ưng"
     },
     {
         "id": "4034010",
@@ -1074,6 +1178,10 @@
     {
         "id": "4034011",
         "name": "???"
+    },
+    {
+        "id": "4034012",
+        "name": "\"Ma Vương Áo Choàng Đen\""
     },
     {
         "id": "4034014",
@@ -1344,12 +1452,20 @@
         "name": "Băng Vũ Trụ (Bị Lỗi)"
     },
     {
+        "id": "8003012",
+        "name": "Băng Vũ Trụ"
+    },
+    {
         "id": "8003020",
         "name": "Lửa Vũ Trụ"
     },
     {
         "id": "8003021",
         "name": "Lửa Vũ Trụ (Bị Lỗi)"
+    },
+    {
+        "id": "8003022",
+        "name": "Lửa Vũ Trụ"
     },
     {
         "id": "8003030",
@@ -1398,6 +1514,10 @@
     {
         "id": "8012010",
         "name": "Chiến Binh Hư Không - Kẻ Cướp Đoạt"
+    },
+    {
+        "id": "8012011",
+        "name": "null"
     },
     {
         "id": "8012020",
@@ -1618,6 +1738,10 @@
     {
         "id": "8033011",
         "name": "Nhân Viên Thâm Niên - Tổ Trưởng (Bị Lỗi)"
+    },
+    {
+        "id": "8033012",
+        "name": "Nhân Viên Thâm Niên - Tổ Trưởng"
     },
     {
         "id": "8033013",
@@ -1924,6 +2048,10 @@
         "name": "Pháo Thủ Bờm Bạc"
     },
     {
+        "id": "100203024",
+        "name": "Pháo Thủ Bờm Bạc"
+    },
+    {
         "id": "100204001",
         "name": "Cận Vệ Bờm Bạc"
     },
@@ -2036,6 +2164,10 @@
         "name": "Cận Vệ Bờm Bạc"
     },
     {
+        "id": "100204029",
+        "name": "Cận Vệ Bờm Bạc"
+    },
+    {
         "id": "100204101",
         "name": "Cận Vệ Bờm Bạc"
     },
@@ -2133,6 +2265,10 @@
     },
     {
         "id": "100205024",
+        "name": "Xạ Thủ Bờm Bạc"
+    },
+    {
+        "id": "100205027",
         "name": "Xạ Thủ Bờm Bạc"
     },
     {
@@ -2345,6 +2481,10 @@
     },
     {
         "id": "100301037",
+        "name": "Hiệu Úy Bờm Bạc"
+    },
+    {
+        "id": "100301038",
         "name": "Hiệu Úy Bờm Bạc"
     },
     {
@@ -2668,6 +2808,10 @@
         "name": "Cỗ Máy Tự Động - Chó Săn"
     },
     {
+        "id": "101201022",
+        "name": "Cỗ Máy Tự Động - Chó Săn"
+    },
+    {
         "id": "101202001",
         "name": "[Khắc Tinh Tân Binh] Silo"
     },
@@ -2721,6 +2865,10 @@
     },
     {
         "id": "101202111",
+        "name": "Cỗ Máy Tự Động - Nhền Nhện"
+    },
+    {
+        "id": "101202112",
         "name": "Cỗ Máy Tự Động - Nhền Nhện"
     },
     {
@@ -3025,6 +3173,10 @@
     },
     {
         "id": "101302034",
+        "name": "Cỗ Máy Tự Động - Sói Nanh Nhọn"
+    },
+    {
+        "id": "101302035",
         "name": "Cỗ Máy Tự Động - Sói Nanh Nhọn"
     },
     {
@@ -3652,6 +3804,10 @@
         "name": "Trung Úy Vân Kỵ - Yanqing"
     },
     {
+        "id": "200402011",
+        "name": "Trung Úy Vân Kỵ - Yanqing"
+    },
+    {
         "id": "200402101",
         "name": "Trung Úy Vân Kỵ - Yanqing"
     },
@@ -3688,6 +3844,10 @@
         "name": "Cơ Giáp Nhập Ma - Nghê Tùy Tùng"
     },
     {
+        "id": "201101006",
+        "name": "Cơ Giáp Nhập Ma - Nghê Tùy Tùng"
+    },
+    {
         "id": "201102001",
         "name": "Cơ Giáp Nhập Ma - Cóc Vàng Phủ Mây"
     },
@@ -3701,6 +3861,10 @@
     },
     {
         "id": "201102004",
+        "name": "Cơ Giáp Nhập Ma - Cóc Vàng Phủ Mây"
+    },
+    {
+        "id": "201102006",
         "name": "Cơ Giáp Nhập Ma - Cóc Vàng Phủ Mây"
     },
     {
@@ -3745,6 +3909,10 @@
     },
     {
         "id": "201201011",
+        "name": "Cơ Giáp Nhập Ma - Cá Rồng Đèn"
+    },
+    {
+        "id": "201201014",
         "name": "Cơ Giáp Nhập Ma - Cá Rồng Đèn"
     },
     {
@@ -3845,6 +4013,14 @@
     },
     {
         "id": "201302013",
+        "name": "Kim Nhân Câu Hồn Sứ"
+    },
+    {
+        "id": "201302015",
+        "name": "Kim Nhân Câu Hồn Sứ"
+    },
+    {
+        "id": "201302016",
         "name": "Kim Nhân Câu Hồn Sứ"
     },
     {
@@ -3994,6 +4170,10 @@
     {
         "id": "202205006",
         "name": "Lindon \"Sói Cô Độc\" Skott"
+    },
+    {
+        "id": "202205101",
+        "name": "Tàn Ảnh"
     },
     {
         "id": "202206001",
@@ -4268,7 +4448,15 @@
         "name": "Linh Thú Trù Phú - Linh Trưởng"
     },
     {
+        "id": "202302015",
+        "name": "Linh Thú Trù Phú - Linh Trưởng"
+    },
+    {
         "id": "202302101",
+        "name": "Linh Thú Trù Phú-Linh Trưởng (Bị Lỗi)"
+    },
+    {
+        "id": "202302102",
         "name": "Linh Thú Trù Phú-Linh Trưởng (Bị Lỗi)"
     },
     {
@@ -4369,6 +4557,10 @@
     },
     {
         "id": "202401009",
+        "name": "Huyền Lộc Trù Phú"
+    },
+    {
+        "id": "202401010",
         "name": "Huyền Lộc Trù Phú"
     },
     {
@@ -4488,6 +4680,10 @@
         "name": "Linh Cữu Gầm Gừ"
     },
     {
+        "id": "203301101",
+        "name": "Linh Cữu Gầm Gừ (Lỗi)"
+    },
+    {
         "id": "203401001",
         "name": "Chiến Thủ Boris - Hoolay"
     },
@@ -4536,6 +4732,10 @@
         "name": "Đoàn Kịch Ác Mộng - Ác Quỷ Xúc Xắc"
     },
     {
+        "id": "300101005",
+        "name": "Đoàn Kịch Ác Mộng - Ác Quỷ Xúc Xắc"
+    },
+    {
         "id": "300101006",
         "name": "Đoàn Kịch Ác Mộng - Ác Quỷ Xúc Xắc"
     },
@@ -4557,6 +4757,10 @@
     },
     {
         "id": "300102005",
+        "name": "Đoàn Kịch Ác Mộng - Sọ Chim"
+    },
+    {
+        "id": "300102006",
         "name": "Đoàn Kịch Ác Mộng - Sọ Chim"
     },
     {
@@ -4589,6 +4793,10 @@
     },
     {
         "id": "300201008",
+        "name": "Đoàn Kịch Ác Mộng - Quý Ngài Màn Hình"
+    },
+    {
+        "id": "300201009",
         "name": "Đoàn Kịch Ác Mộng - Quý Ngài Màn Hình"
     },
     {
@@ -4625,6 +4833,10 @@
     },
     {
         "id": "300202004",
+        "name": "Người Bán Hàng May Mắn Của Đoàn Kịch Ác Mộng"
+    },
+    {
+        "id": "300202005",
         "name": "Người Bán Hàng May Mắn Của Đoàn Kịch Ác Mộng"
     },
     {
@@ -4696,6 +4908,10 @@
         "name": "Đoàn Kịch Ác Mộng - Chó Săn Bong Bóng"
     },
     {
+        "id": "300203013",
+        "name": "Đoàn Kịch Ác Mộng - Chó Săn Bong Bóng"
+    },
+    {
         "id": "300203014",
         "name": "Đoàn Kịch Ác Mộng - Chó Săn Bong Bóng"
     },
@@ -4725,6 +4941,10 @@
     },
     {
         "id": "300204006",
+        "name": "Đoàn Kịch Ác Mộng - Côn Đồ Dây Cót"
+    },
+    {
+        "id": "300204007",
         "name": "Đoàn Kịch Ác Mộng - Côn Đồ Dây Cót"
     },
     {
@@ -4808,6 +5028,10 @@
         "name": "Đoàn Kịch Ác Mộng - Chín Khét"
     },
     {
+        "id": "300301010",
+        "name": "Đoàn Kịch Ác Mộng - Chín Khét"
+    },
+    {
         "id": "300301101",
         "name": "Đoàn Kịch Ác Mộng - Chín Khét (Hình Chiếu)"
     },
@@ -4817,6 +5041,10 @@
     },
     {
         "id": "300301202",
+        "name": "Đoàn Kịch Ác Mộng - Chín Khét (Bị Lỗi)"
+    },
+    {
+        "id": "300301203",
         "name": "Đoàn Kịch Ác Mộng - Chín Khét (Bị Lỗi)"
     },
     {
@@ -4896,6 +5124,10 @@
         "name": "Đoàn Kịch Ác Mộng - Vượn Khổng Lồ (Bị Lỗi)"
     },
     {
+        "id": "300302202",
+        "name": "Đoàn Kịch Ác Mộng - Vượn Khổng Lồ (Bị Lỗi)"
+    },
+    {
         "id": "300303001",
         "name": "\"Quá Khứ Bị Nhốt Trong Lồng\""
     },
@@ -4940,6 +5172,10 @@
         "name": "\"Tương Lai Trong Hợp Âm Hài Hòa\""
     },
     {
+        "id": "300304002",
+        "name": "\"Tương Lai Trong Hợp Âm Hài Hòa\""
+    },
+    {
         "id": "300304101",
         "name": "\"Tương Lai Trong Hợp Âm Hài Hòa\""
     },
@@ -4980,6 +5216,14 @@
         "name": "\"Hiện Tại Say Sưa Trong Lễ Hội\""
     },
     {
+        "id": "300305009",
+        "name": "\"Hiện Tại Say Sưa Trong Lễ Hội\""
+    },
+    {
+        "id": "300305010",
+        "name": "\"Hiện Tại Say Sưa Trong Lễ Hội\""
+    },
+    {
         "id": "300305101",
         "name": "\"Hiện Tại Say Sưa Trong Lễ Hội\""
     },
@@ -4989,6 +5233,10 @@
     },
     {
         "id": "300305201",
+        "name": "\"Hiện Tại Say Sưa Trong Lễ Hội\" (Lỗi)"
+    },
+    {
+        "id": "300305202",
         "name": "\"Hiện Tại Say Sưa Trong Lễ Hội\" (Lỗi)"
     },
     {
@@ -5220,6 +5468,10 @@
         "name": "Argenti"
     },
     {
+        "id": "302401010",
+        "name": "Argenti"
+    },
+    {
         "id": "302401101",
         "name": "Argenti (Hoàn Chỉnh)"
     },
@@ -5301,6 +5553,10 @@
     },
     {
         "id": "302402202",
+        "name": "Thợ Săn Stellaron: Sam"
+    },
+    {
+        "id": "302402203",
         "name": "Thợ Săn Stellaron: Sam"
     },
     {
@@ -5504,12 +5760,20 @@
         "name": "Tiên Phong Thần Phạt"
     },
     {
+        "id": "401301006",
+        "name": "Tiên Phong Thần Phạt"
+    },
+    {
         "id": "401301101",
         "name": "Tiên Phong Thần Phạt"
     },
     {
         "id": "401301201",
         "name": "Tiên Phong Thần Phạt"
+    },
+    {
+        "id": "401301301",
+        "name": "Tiên Phong Thần Phạt (Lỗi)"
     },
     {
         "id": "401401001",
@@ -5542,6 +5806,14 @@
     {
         "id": "401402002",
         "name": "Người Ban Ơn, Thủ Lĩnh Thiên Quân, Ngọn Giáo Thần Phạt"
+    },
+    {
+        "id": "401501001",
+        "name": "Tối Cao, Cực Dương, Hóa Thân Của Bầu Trời"
+    },
+    {
+        "id": "401502001",
+        "name": "Kẻ Hủy Diệt, Nghiệp Quả Nắng Sấm, Con Mắt Ngày Và Đêm"
     },
     {
         "id": "402201001",
@@ -5592,8 +5864,84 @@
         "name": "Vật Chứa Tàn Khuyết"
     },
     {
+        "id": "403202204",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202205",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202206",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202207",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202301",
+        "name": "Tay Sai Ma Vương"
+    },
+    {
+        "id": "403202302",
+        "name": "Tay Sai Ma Vương"
+    },
+    {
+        "id": "403202303",
+        "name": "Tay Sai Ma Vương"
+    },
+    {
+        "id": "403202304",
+        "name": "Tay Sai Ma Vương"
+    },
+    {
+        "id": "403202305",
+        "name": "Tay Sai Ma Vương"
+    },
+    {
+        "id": "403202306",
+        "name": "Tay Sai Ma Vương"
+    },
+    {
+        "id": "403202307",
+        "name": "Tay Sai Ma Vương"
+    },
+    {
+        "id": "403202308",
+        "name": "Tay Sai Ma Vương"
+    },
+    {
+        "id": "403202309",
+        "name": "Tay Sai Ma Vương"
+    },
+    {
         "id": "403202401",
         "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403205002",
+        "name": "Cung Thủ Mặt Trời Đen"
+    },
+    {
+        "id": "403301001",
+        "name": "Thây Ma Thủy Triều Đen"
+    },
+    {
+        "id": "403301002",
+        "name": "Thây Ma Thủy Triều Đen"
+    },
+    {
+        "id": "403301004",
+        "name": "Thây Ma Thủy Triều Đen"
+    },
+    {
+        "id": "403303002",
+        "name": "Hắc Nhật Sư Ưng"
+    },
+    {
+        "id": "403303003",
+        "name": "Hắc Nhật Sư Ưng"
     },
     {
         "id": "403401001",
@@ -5720,6 +6068,10 @@
         "name": "Tạo Vật Bừng Lửa"
     },
     {
+        "id": "800101019",
+        "name": "Tạo Vật Bừng Lửa"
+    },
+    {
         "id": "800102001",
         "name": "Tạo Vật Sương Giá"
     },
@@ -5789,6 +6141,10 @@
     },
     {
         "id": "800102018",
+        "name": "Tạo Vật Sương Giá"
+    },
+    {
+        "id": "800102019",
         "name": "Tạo Vật Sương Giá"
     },
     {
@@ -5873,6 +6229,10 @@
     },
     {
         "id": "800105005",
+        "name": "Tạo Vật Gió Tản"
+    },
+    {
+        "id": "800105006",
         "name": "Tạo Vật Gió Tản"
     },
     {
@@ -6549,6 +6909,10 @@
     },
     {
         "id": "800303102",
+        "name": "Hư Ảnh Đấng Bảo Vệ (Bị Lỗi)"
+    },
+    {
+        "id": "800303103",
         "name": "Hư Ảnh Đấng Bảo Vệ (Bị Lỗi)"
     },
     {
@@ -7237,6 +7601,10 @@
     },
     {
         "id": "802202003",
+        "name": "Bọ Gai Nhỏ"
+    },
+    {
+        "id": "802202004",
         "name": "Bọ Gai Nhỏ"
     },
     {
