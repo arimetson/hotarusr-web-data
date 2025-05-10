@@ -605,6 +605,16 @@
     "description": "Khiến Giới Hạn HP của người trang bị tăng 30%. Khi người trang bị hoặc Linh Hồn Ký Ức của người trang bị mất HP trong hiệp của mình, người trang bị sẽ nhận Hoa Âm Ty. Hoa Âm Ty khiến người trang bị và Linh Hồn Ký Ức của họ khi gây sát thương có thể bỏ qua 30% phòng thủ của mục tiêu, duy trì 2 hiệp. Khi Linh Hồn Ký Ức của người trang bị biến mất, người trang bị sẽ ưu tiên hành động 12%. Hiệu ứng này chỉ kích hoạt tối đa 1 lần, và sẽ được làm mới số lần mỗi khi người trang bị thi triển Tuyệt Kỹ."
   },
   {
+    "id": "23042",
+    "name": "Mong Cầu Vồng Mãi Ở Trên Bầu Trời",
+    "description": "Khiến Tốc Độ của người trang bị tăng 18%. Khi người trang bị thi triển Tấn Công Thường, Chiến Kỹ và Tuyệt Kỹ sẽ tiêu hao HP của toàn thể phe ta bằng 1% HP hiện tại và khiến Linh Hồn Ký Ức của người trang bị sau lần tấn công kế tiếp sẽ gây thêm 1 lần Sát Thương Kèm Theo dựa trên thuộc tính Linh Hồn Ký Ức của người trang bị bằng 250% tổng lượng HP tiêu hao cho mục tiêu bị tấn công, sau đó xóa tổng lượng HP tiêu hao. Khi Linh Hồn Ký Ức của người trang bị thi triển Kỹ Năng Linh Hồn Ký Ức, sẽ khiến sát thương toàn phe địch phải chịu tăng 18%, duy trì 2 hiệp. Hiệu ứng cùng loại không thể cộng dồn."
+  },
+  {
+    "id": "23043",
+    "name": "Lời Nói Dối Bay Trong Gió",
+    "description": "Khiến Tốc Độ của người trang bị tăng 18%. Sau khi người trang bị thi triển tấn công, có 120% xác suất cơ bản khiến mỗi một mục tiêu phe địch rơi vào trạng thái \"Mơ Hồ\", mục tiêu phe địch trong trạng thái \"Mơ Hồ\" sẽ bị giảm 16% Phòng Thủ, duy trì 2 hiệp, nếu Tốc Độ của người trang bị lớn hơn hoặc bằng 170, sẽ có 120% xác suất cơ bản khiến mỗi một mục tiêu phe địch rơi vào trạng thái \"Mất Cắp\", mục tiêu phe địch trong trạng thái \"Mất Cắp\" sẽ bị giảm 8% Phòng Thủ, duy trì 2 hiệp. \"Mơ Hồ\" hoặc \"Mất Cắp\" khi bị thi triển trùng lặp, thì chỉ có trạng thái thi triển mới nhất là có hiệu lực."
+  },
+  {
     "id": "24000",
     "name": "Sự Sụp Đổ Của Aeon",
     "description" : "Khi người trang bị tấn công, sẽ tăng 8% Tấn Công của người trang bị trong trận hiện tại, hiệu ứng này tối đa cộng dồn 4 tầng. Sau khi người trang bị phá vỡ điểm yếu của kẻ địch, sát thương gây ra tăng 12%, duy trì 2 hiệp."
