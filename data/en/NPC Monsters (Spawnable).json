@@ -456,6 +456,10 @@
         "name": "Pollux, Netherwing Husk, Ferry of Souls"
     },
     {
+        "id": "4014031",
+        "name": "Pollux, Netherwing Husk, Ferry of Souls (Complete)"
+    },
+    {
         "id": "4022010",
         "name": "Meteoric Eagle"
     },
@@ -468,8 +472,32 @@
         "name": "Moonlit Pegasus"
     },
     {
+        "id": "4032010",
+        "name": "Tide-Eroded Blade"
+    },
+    {
+        "id": "4032030",
+        "name": "Black Tide's Corroded Axe"
+    },
+    {
+        "id": "4032040",
+        "name": "Black TidCouncil"
+    },
+    {
+        "id": "4032050",
+        "name": "Black Tide's Decrepit Bow"
+    },
+    {
         "id": "4033010",
         "name": "Black Tide's Corroded Daemon"
+    },
+    {
+        "id": "4033020",
+        "name": "Black Tide's Champion"
+    },
+    {
+        "id": "4033030",
+        "name": "Dark Sun Gryphon"
     },
     {
         "id": "4034010",
