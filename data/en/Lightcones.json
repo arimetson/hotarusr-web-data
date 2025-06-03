@@ -375,6 +375,51 @@
     "description" : "Increases the wearer's CRIT Rate by 12%. When the wearer's memosprite is on the field, increases the DMG dealt by the wearer and their memosprite by 24%."
   },
   {
+    "id": "21053",
+    "name": "Journey, Forever Peaceful",
+    "description" : "Increases the wearer's provided Shield Effect by 12%. When an ally target has a Shield, the DMG dealt increases by 12%."
+  },
+  {
+    "id": "21054",
+    "name": "The Story's Next Page",
+    "description" : "Increases the wearer's Max HP by 16%. After the wearer's memosprite attacks, the Outgoing Healing of the wearer and their memosprite increases by 12%, lasting for 1 turn(s)."
+  },
+  {
+    "id": "21055",
+    "name": "Unto Tomorrow's Morrow",
+    "description" : "Increases the wearer's Outgoing Healing by 12%. When an ally target's current HP percentage is greater than or equal to 50%, increases the DMG dealt by 12%."
+  },
+  {
+    "id": "21056",
+    "name": "Pursuit of the Wind",
+    "description" : "After entering battle, increases all allies' Break DMG dealt by 16%. Abilities of the same type cannot stack."
+  },
+  {
+    "id": "21057",
+    "name": "The Flower Remembers",
+    "description" : "Increases the wearer's CRIT DMG by 24%. The CRIT DMG dealt by the wearer's memosprite increases by 24%."
+  },
+  {
+    "id": "21058",
+    "name": "A Trail of Bygone Blood",
+    "description" : "Increases the wearer's CRIT Rate by 12%. The Skill DMG and Ultimate DMG dealt by the wearer increase by 24%."
+  },
+  {
+    "id": "21060",
+    "name": "A Dream Scented in Wheat",
+    "description" : "Increases the wearer's CRIT Rate by 12%. The Ultimate DMG and Follow-up ATK DMG dealt by the wearer increase by 24%."
+  },
+  {
+    "id": "21061",
+    "name": "Holiday Thermae Escapade",
+    "description" : "Increases the wearer's DMG dealt by 16%. After the wearer attacks, there is a 100% base chance that the attacked target is inflicted with Vulnerability, increasing the DMG they receive by 10% for 2 turn(s). The same effect type cannot be stacked."
+  },
+  {
+    "id": "21062",
+    "name": "See You at the End",
+    "description" : "Increases the wearer's CRIT DMG by 24%. The Skill DMG and Follow-up ATK DMG dealt by the wearer increase by 24%."
+  },
+  {
     "id": "22000",
     "name": "Before the Tutorial Mission Starts",
     "description" : "Increases the wearer's Effect Hit Rate by 20%. When the wearer attacks DEF-reduced enemies, regenerates 4 Energy."
@@ -618,6 +663,21 @@
     "id": "23043",
     "name": "Lies Dance on the Breeze",
     "description": "Increases the wearer's SPD by 18%. After the wearer uses an attack, there is a 120% base chance to inflict the \"Bamboozle\" state on every enemy target. While under the \"Bamboozle\" state, enemy target's DEF decreases by 16% for 2 turn(s). If the wearer's SPD is higher than or equal to 170, there is a 120% base chance to inflict the \"Theft\" state on every enemy target. While under the \"Theft\" state, enemy target's DEF decreases by 8% for 2 turn(s). When \"Bamboozle\" or \"Theft\" is inflicted repeatedly, only the latest effect inflicted can be active."
+  },
+  {
+    "id": "23044",
+    "name": "Thus Burns the Dawn",
+    "description": "The wearer's base SPD increases by 12. When the wearer deals DMG, ignores 18% of the target's DEF. After the wearer uses Ultimate, obtains \"Blazing Sun,\" which is removed at the start of the turn. While \"Blazing Sun\" is in possession, increases the wearer's DMG dealt by 60%."
+  },
+  {
+    "id": "23045",
+    "name": "A Thankless Coronation",
+    "description": "Increases the wearer's CRIT DMG by 36%. When using their Ultimate, increases the wearer's ATK by 40%, and if the wearer's Max Energy is greater than or equal to 300, regenerates a fixed amount of Energy equal to 10% of the wearer's Max Energy and increases their ATK by 40% for 2 turns."
+  },
+  {
+    "id": "23046",
+    "name": "The Hell Where Ideals Burn",
+    "description": "Increases the wearer's CRIT Rate by 16%. When entering battle and if the allies' Skill Points max limit is 6 or higher, increases the wearer's ATK by 40%. After the wearer uses a Skill, increases their ATK by 10%, stacking up to 4 time(s)."
   },
   {
     "id": "24000",

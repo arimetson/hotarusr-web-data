@@ -1150,5 +1150,37 @@
     "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71043.webp",
     "description" : "2-Pc: The wearer's SPD increases by 6%. When the wearer's SPD is 135/180 or more, the wearer and their memosprite's Outgoing Healing increases by 12%/20%.",
     "group": "Giant Tree of Rapt Brooding"
+  },
+  {
+    "id": "63215",
+    "name": "Membrance Maze's Serene Treehouse",
+    "type": "Cầu",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71046.webp",
+    "description": "2-Pc: When there are more or less than 4 ally targets in battle, each additional/missing ally target increases the wearer and their memosprite's DMG by 9%/12%, up to a maximum of 4/3 stacks.",
+    "group": "Arcadia of Woven Dreams"
+  },
+  {
+    "id": "63216",
+    "name": "Membrance Maze's Wishing Whistle",
+    "type": "Dây",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71046.webp",
+    "description": "2-Pc: When there are more or less than 4 ally targets in battle, each additional/missing ally target increases the wearer and their memosprite's DMG by 9%/12%, up to a maximum of 4/3 stacks.",
+    "group": "Arcadia of Woven Dreams"
+  },
+  {
+    "id": "63225",
+    "name": "Warbling Shores' Blazing Beacon",
+    "type": "Cầu",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71047.webp",
+    "description": "2-Pc: Increases the wearer's ATK by 12%. When the wearer's ATK is higher than or equal to 2400/3600, increases the DoT DMG dealt by 12%/24%.",
+    "group": "Revelry by the Sea"
+  },
+  {
+    "id": "63226",
+    "name": "Warbling Shores' Cantillation Trail",
+    "type": "Dây",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71047.webp",
+    "description": "2-Pc: Increases the wearer's ATK by 12%. When the wearer's ATK is higher than or equal to 2400/3600, increases the DoT DMG dealt by 12%/24%.",
+    "group": "Revelry by the Sea"
   }
 ]

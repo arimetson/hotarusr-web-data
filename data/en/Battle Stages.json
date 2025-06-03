@@ -900,6 +900,38 @@
         "name": "Pollux, Netherwing Husk, Ferry of Souls (Complete)"
     },
     {
+        "id": "1283",
+        "name": "Flame Reaver of Doomsday Led Astray"
+    },
+    {
+        "id": "1285",
+        "name": "Cocolia (Corrupted)"
+    },
+    {
+        "id": "1286",
+        "name": "Cloud Knight Lieutenant: Yanqing (Corrupted)"
+    },
+    {
+        "id": "1287",
+        "name": "Borisin Warhead: Hoolay (Corrupted)"
+    },
+    {
+        "id": "1288",
+        "name": "Thousand-Faced Skott (Corrupted)"
+    },
+    {
+        "id": "1289",
+        "name": "Savage God, Mad King, Incarnation of Strife (Corrupted)"
+    },
+    {
+        "id": "1290",
+        "name": "Pollux, Netherwing Husk, Ferry of Souls (Corrupted)"
+    },
+    {
+        "id": "1291",
+        "name": "Flame Reaver of the Deepest Dark (Corrupted)"
+    },
+    {
         "id": "310010",
         "name": "Antimatter Legion"
     },
@@ -928,6 +960,10 @@
         "name": "Titankin"
     },
     {
+        "id": "314081",
+        "name": "Black Tide Creature"
+    },
+    {
         "id": "420042",
         "name": "Bronya (Illusion)"
     },
@@ -954,10 +990,6 @@
     {
         "id": "83000016",
         "name": "Borisin Werewolf"
-    },
-    {
-        "id": "83000046",
-        "name": "Black Tide Creature"
     },
     {
         "id": "83000056",

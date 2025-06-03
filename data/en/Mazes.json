@@ -61,7 +61,11 @@
     },
     {
         "id": "10404",
-        "name": "[Town] null"
+        "name": "[Town] \"Fallen Twilight City\" Okhema"
+    },
+    {
+        "id": "10441",
+        "name": "[Town] Aedes Elysiae"
     },
     {
         "id": "20001",
@@ -249,7 +253,7 @@
     },
     {
         "id": "20433",
-        "name": "[Maze] null"
+        "name": "[Maze] \"Lightless Chapel\" Dawncloud"
     },
     {
         "id": "30101",
@@ -365,6 +369,14 @@
     },
     {
         "id": "30532",
+        "name": "[TrialActivity] null"
+    },
+    {
+        "id": "30533",
+        "name": "[TrialActivity] null"
+    },
+    {
+        "id": "30534",
         "name": "[TrialActivity] null"
     },
     {
@@ -564,6 +576,42 @@
         "name": "[Raid] null"
     },
     {
+        "id": "40441",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40442",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40443",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40444",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40445",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40446",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40447",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40448",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40449",
+        "name": "[Raid] null"
+    },
+    {
         "id": "41000",
         "name": "[Raid] null"
     },
@@ -605,6 +653,18 @@
     },
     {
         "id": "41402",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "41440",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "41441",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "41442",
         "name": "[Raid] null"
     },
     {

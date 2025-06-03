@@ -220,6 +220,14 @@
         "name": "Herta"
     },
     {
+        "id": "1014",
+        "name": "Saber"
+    },
+    {
+        "id": "1015",
+        "name": "Archer"
+    },
+    {
         "id": "1101",
         "name": "Bronya"
     },
@@ -444,6 +452,10 @@
         "name": "Castorice"
     },
     {
+        "id": "1408",
+        "name": "Phainon"
+    },
+    {
         "id": "1409",
         "name": "Hyacine"
     },
@@ -486,6 +498,14 @@
     {
         "id": "11013",
         "name": "Herta's Eidolon"
+    },
+    {
+        "id": "11014",
+        "name": "Saber's Eidolon"
+    },
+    {
+        "id": "11015",
+        "name": "Archer's Eidolon"
     },
     {
         "id": "11101",
@@ -714,6 +734,10 @@
     {
         "id": "11407",
         "name": "Castorice's Eidolon"
+    },
+    {
+        "id": "11408",
+        "name": "Phainon's Eidolon"
     },
     {
         "id": "11409",
@@ -1036,8 +1060,40 @@
         "name": "Sweat Now, Cry Less"
     },
     {
+        "id": "21053",
+        "name": "Journey, Forever Peaceful"
+    },
+    {
         "id": "21054",
-        "name": "null"
+        "name": "The Story's Next Page"
+    },
+    {
+        "id": "21055",
+        "name": "Unto Tomorrow's Morrow"
+    },
+    {
+        "id": "21056",
+        "name": "Pursuit of the Wind"
+    },
+    {
+        "id": "21057",
+        "name": "The Flower Remembers"
+    },
+    {
+        "id": "21058",
+        "name": "A Trail of Bygone Blood"
+    },
+    {
+        "id": "21060",
+        "name": "A Dream Scented in Wheat"
+    },
+    {
+        "id": "21061",
+        "name": "Holiday Thermae Escapade"
+    },
+    {
+        "id": "21062",
+        "name": "See You at the End"
     },
     {
         "id": "22000",
@@ -1234,6 +1290,18 @@
     {
         "id": "23043",
         "name": "Lies Dance on the Breeze"
+    },
+    {
+        "id": "23044",
+        "name": "Thus Burns the Dawn"
+    },
+    {
+        "id": "23045",
+        "name": "A Thankless Coronation"
+    },
+    {
+        "id": "23046",
+        "name": "The Hell Where Ideals Burn"
     },
     {
         "id": "24000",
@@ -1836,6 +1904,22 @@
         "name": "Grove of Epiphany's Interwoven Veins"
     },
     {
+        "id": "33215",
+        "name": "Membrance Maze's Serene Treehouse"
+    },
+    {
+        "id": "33216",
+        "name": "Membrance Maze's Wishing Whistle"
+    },
+    {
+        "id": "33225",
+        "name": "Warbling Shores' Blazing Beacon"
+    },
+    {
+        "id": "33226",
+        "name": "Warbling Shores' Cantillation Trail"
+    },
+    {
         "id": "71000",
         "name": "Relic Coffret: Passerby of Wandering Cloud"
     },
@@ -2098,6 +2182,14 @@
     {
         "id": "83201",
         "name": "Giant Tree of Rapt Brooding"
+    },
+    {
+        "id": "83211",
+        "name": "Arcadia of Woven Dreams"
+    },
+    {
+        "id": "83221",
+        "name": "Revelry by the Sea"
     },
     {
         "id": "89001",
@@ -2382,6 +2474,10 @@
     {
         "id": "110431",
         "name": "Invasive Clot"
+    },
+    {
+        "id": "110435",
+        "name": "Bud of Twilight"
     },
     {
         "id": "110436",
@@ -2794,6 +2890,10 @@
     {
         "id": "140109",
         "name": "Kapo-Kali Recipe"
+    },
+    {
+        "id": "140110",
+        "name": "null"
     },
     {
         "id": "140111",
@@ -5804,6 +5904,22 @@
         "name": "Herta: Tea Break"
     },
     {
+        "id": "200135",
+        "name": "Mydei: Delicacies"
+    },
+    {
+        "id": "200136",
+        "name": "Tribbie: Delicacies"
+    },
+    {
+        "id": "200137",
+        "name": "Castorice: Ingenuity"
+    },
+    {
+        "id": "200138",
+        "name": "Anaxa: Ingenuity"
+    },
+    {
         "id": "201001",
         "name": "March 7th: Preservation"
     },
@@ -5860,6 +5976,10 @@
         "name": "Origami Bird"
     },
     {
+        "id": "202014",
+        "name": "Kakavasha"
+    },
+    {
         "id": "202015",
         "name": "Hamster Ball Knight"
     },
@@ -5884,8 +6004,20 @@
         "name": "Dream Ticker"
     },
     {
+        "id": "202022",
+        "name": "Trianne Doll"
+    },
+    {
+        "id": "202023",
+        "name": "Polyxia"
+    },
+    {
         "id": "202025",
         "name": "Spirithief"
+    },
+    {
+        "id": "202028",
+        "name": "Owlbert: Bath"
     },
     {
         "id": "202029",
@@ -5898,6 +6030,10 @@
     {
         "id": "202033",
         "name": "Ball Bat by Name"
+    },
+    {
+        "id": "202035",
+        "name": "\"Bang Bang Bump\""
     },
     {
         "id": "208001",
@@ -6386,6 +6522,14 @@
     {
         "id": "250606",
         "name": "Mem (Cuter Version)"
+    },
+    {
+        "id": "250607",
+        "name": "Avalon, the Everdistant Utopia"
+    },
+    {
+        "id": "250608",
+        "name": "Command Spell Umbra"
     },
     {
         "id": "250700",
@@ -6964,6 +7108,10 @@
         "name": "The Essence of Dreams (III)"
     },
     {
+        "id": "261001",
+        "name": "Tweet-Tweet Toolbox"
+    },
+    {
         "id": "270000",
         "name": "Always Smiling"
     },
@@ -7230,6 +7378,10 @@
     {
         "id": "300210",
         "name": "Portentous Goldwoven: Abyss of Fate"
+    },
+    {
+        "id": "300211",
+        "name": "Portentous Goldwoven: \"Lightless Chapel\""
     },
     {
         "id": "309001",

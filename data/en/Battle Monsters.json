@@ -116,6 +116,10 @@
         "name": "Topaz Illusion"
     },
     {
+        "id": "1004017",
+        "name": "Cocolia (Corrupted)"
+    },
+    {
         "id": "1004020",
         "name": "Gepard"
     },
@@ -198,6 +202,10 @@
     {
         "id": "1012030",
         "name": "Automaton Beetle"
+    },
+    {
+        "id": "1012032",
+        "name": "..."
     },
     {
         "id": "1012040",
@@ -370,6 +378,10 @@
     {
         "id": "2004025",
         "name": "Cloud Knight Lieutenant: Yanqing"
+    },
+    {
+        "id": "2004026",
+        "name": "Cloud Knight Lieutenant: Yanqing (Corrupted)"
     },
     {
         "id": "2005010",
@@ -604,6 +616,14 @@
         "name": "Fulminating Wolflord"
     },
     {
+        "id": "2034015",
+        "name": "Borisin Warhead: Hoolay (Corrupted)"
+    },
+    {
+        "id": "2034016",
+        "name": "Borisin Warhead: Hoolay"
+    },
+    {
         "id": "2035010",
         "name": "Shadow of \"Feixiao\""
     },
@@ -636,6 +656,18 @@
         "name": "Banacademic Office's Assistanana (Complete)"
     },
     {
+        "id": "3002014",
+        "name": "Skott: Batch Produced"
+    },
+    {
+        "id": "3002015",
+        "name": "Envious Skott"
+    },
+    {
+        "id": "3002016",
+        "name": "Envious Skott (Corrupted)"
+    },
+    {
         "id": "3002020",
         "name": "Dreamjolt Troupe's Fortune Seller"
     },
@@ -650,6 +682,14 @@
     {
         "id": "3002023",
         "name": "Banacademic Office's Fortune BananAdvisor (Complete)"
+    },
+    {
+        "id": "3002024",
+        "name": "Greedy Skott"
+    },
+    {
+        "id": "3002025",
+        "name": "Greedy Skott (Corrupted)"
     },
     {
         "id": "3002030",
@@ -670,6 +710,14 @@
     {
         "id": "3002043",
         "name": "Banacademic Office's Dreamweaver BananAdvisor (Complete)"
+    },
+    {
+        "id": "3002044",
+        "name": "Slothful Skott"
+    },
+    {
+        "id": "3002045",
+        "name": "Slothful Skott (Corrupted)"
     },
     {
         "id": "3002050",
@@ -718,6 +766,14 @@
     {
         "id": "3003016",
         "name": "Banacademic Office's Charmony BananAdvisor (Complete)"
+    },
+    {
+        "id": "3003017",
+        "name": "Wrathful Skott"
+    },
+    {
+        "id": "3003018",
+        "name": "Wrathful Skott (Corrupted)"
     },
     {
         "id": "3003020",
@@ -798,6 +854,18 @@
     {
         "id": "3004022",
         "name": "Wonder Forest's Banacademic Office Staff (Complete)"
+    },
+    {
+        "id": "3004023",
+        "name": "Thousand-Faced Skott"
+    },
+    {
+        "id": "3004024",
+        "name": "Thousand-Faced Skott (Corrupted)"
+    },
+    {
+        "id": "3004025",
+        "name": "Thousand-Faced Skott"
     },
     {
         "id": "3011010",
@@ -1012,6 +1080,10 @@
         "name": "Conquer or Be Conquered"
     },
     {
+        "id": "4012063",
+        "name": "Conquer or Be Conquered"
+    },
+    {
         "id": "4012070",
         "name": "The Long Arms of Sorrow"
     },
@@ -1084,12 +1156,24 @@
         "name": "Savage God, Mad King, Incarnation of Strife (Complete)"
     },
     {
+        "id": "4014016",
+        "name": "Savage God, Mad King, Incarnation of Strife"
+    },
+    {
+        "id": "4014018",
+        "name": "Savage God, Mad King, Incarnation of Strife (Corrupted)"
+    },
+    {
         "id": "4014020",
         "name": "The Giver, Master of Legions, Lance of Fury"
     },
     {
         "id": "4014022",
         "name": "The Giver, Master of Legions, Lance of Fury (Complete)"
+    },
+    {
+        "id": "4014023",
+        "name": "The Giver, Master of Legions, Lance of Fury"
     },
     {
         "id": "4014030",
@@ -1104,6 +1188,14 @@
         "name": "Pollux, Netherwing Husk, Ferry of Souls"
     },
     {
+        "id": "4014033",
+        "name": "Pollux, Netherwing Husk, Ferry of Souls"
+    },
+    {
+        "id": "4014035",
+        "name": "Pollux, Netherwing Husk, Ferry of Souls (Corrupted)"
+    },
+    {
         "id": "4015010",
         "name": "Sublime, Radiant, Avatar of the Sky"
     },
@@ -1113,6 +1205,10 @@
     },
     {
         "id": "4015020",
+        "name": "Decimator, Karma of Daythunder, Eye of Twilight"
+    },
+    {
+        "id": "4015021",
         "name": "Decimator, Karma of Daythunder, Eye of Twilight"
     },
     {
@@ -1136,6 +1232,10 @@
         "name": "Long-Shattered Vessel"
     },
     {
+        "id": "4032021",
+        "name": "Long-Shattered Vessel"
+    },
+    {
         "id": "4032022",
         "name": "Long-Shattered Vessel"
     },
@@ -1145,6 +1245,14 @@
     },
     {
         "id": "4032024",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "4032025",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "4032026",
         "name": "Long-Shattered Vessel"
     },
     {
@@ -1184,8 +1292,28 @@
         "name": "Black Cloak Demon King"
     },
     {
+        "id": "4034013",
+        "name": "Flame Reaver of Doomsday Led Astray"
+    },
+    {
         "id": "4034014",
         "name": "Flame Reaver of the Deepest Dark"
+    },
+    {
+        "id": "4034015",
+        "name": "Flame Reaver of the Deepest Dark"
+    },
+    {
+        "id": "4034017",
+        "name": "Flame Reaver of the Deepest Dark"
+    },
+    {
+        "id": "4034018",
+        "name": "Flame Reaver of the Deepest Dark"
+    },
+    {
+        "id": "4034019",
+        "name": "Flame Reaver of the Deepest Dark (Corrupted)"
     },
     {
         "id": "4043010",
@@ -1960,6 +2088,10 @@
         "name": "Vagrant"
     },
     {
+        "id": "100202023",
+        "name": "Vagrant"
+    },
+    {
         "id": "100202101",
         "name": "Vagrant"
     },
@@ -2540,6 +2672,10 @@
         "name": "Cocolia"
     },
     {
+        "id": "100401013",
+        "name": "Cocolia"
+    },
+    {
         "id": "100401401",
         "name": "Annihilator of Desolation Mistral"
     },
@@ -2697,6 +2833,10 @@
     },
     {
         "id": "100403010",
+        "name": "Bronya"
+    },
+    {
+        "id": "100403011",
         "name": "Bronya"
     },
     {
@@ -3180,6 +3320,10 @@
         "name": "Automaton Direwolf"
     },
     {
+        "id": "101302036",
+        "name": "Chainsaw Skott"
+    },
+    {
         "id": "101401001",
         "name": "Svarog"
     },
@@ -3241,6 +3385,10 @@
     },
     {
         "id": "101401016",
+        "name": "Svarog"
+    },
+    {
+        "id": "101401017",
         "name": "Svarog"
     },
     {
@@ -3741,6 +3889,10 @@
     },
     {
         "id": "200401009",
+        "name": "Stellaron Hunter: Kafka"
+    },
+    {
+        "id": "200401010",
         "name": "Stellaron Hunter: Kafka"
     },
     {
@@ -4564,6 +4716,10 @@
         "name": "Abundant Ebon Deer"
     },
     {
+        "id": "202401011",
+        "name": "Abundant Ebon Deer"
+    },
+    {
         "id": "202401201",
         "name": "Abundant Ebon Deer (Complete)"
     },
@@ -4820,6 +4976,18 @@
         "name": "Banacademic Office's Assistanana"
     },
     {
+        "id": "300201401",
+        "name": "Skott: Batch Produced"
+    },
+    {
+        "id": "300201501",
+        "name": "Arrogant Skott"
+    },
+    {
+        "id": "300201601",
+        "name": "Arrogant Skott (Corrupted)"
+    },
+    {
         "id": "300202001",
         "name": "Dreamjolt Troupe's Fortune Seller"
     },
@@ -4946,6 +5114,10 @@
     {
         "id": "300204007",
         "name": "Dreamjolt Troupe's Winder Goon"
+    },
+    {
+        "id": "300204009",
+        "name": "..."
     },
     {
         "id": "300204101",
@@ -5118,6 +5290,14 @@
     {
         "id": "300302008",
         "name": "Dreamjolt Troupe's Sweet Gorilla"
+    },
+    {
+        "id": "300302010",
+        "name": "..."
+    },
+    {
+        "id": "300302011",
+        "name": "..."
     },
     {
         "id": "300302201",
@@ -5324,6 +5504,10 @@
         "name": "Memory Zone Meme \"Shell of Faded Rage\""
     },
     {
+        "id": "301301008",
+        "name": "Memory Zone Meme \"Shell of Faded Rage\""
+    },
+    {
         "id": "301301201",
         "name": "Memory Zone Meme \"Shell of Faded Rage\""
     },
@@ -5362,6 +5546,10 @@
     {
         "id": "301402006",
         "name": "Memory Zone Meme \"Something Unto Death\""
+    },
+    {
+        "id": "301402007",
+        "name": "..."
     },
     {
         "id": "301402201",
@@ -5545,6 +5733,10 @@
     },
     {
         "id": "302402007",
+        "name": "Stellaron Hunter: Sam"
+    },
+    {
+        "id": "302402008",
         "name": "Stellaron Hunter: Sam"
     },
     {
@@ -5788,6 +5980,10 @@
         "name": "Savage God, Mad King, Incarnation of Strife"
     },
     {
+        "id": "401401004",
+        "name": "Savage God, Mad King, Incarnation of Strife"
+    },
+    {
         "id": "401401201",
         "name": "Savage God, Mad King, Incarnation of Strife"
     },
@@ -5849,6 +6045,82 @@
     },
     {
         "id": "403202003",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202004",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202005",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202006",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202007",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202111",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202112",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202113",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202121",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202122",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202123",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202131",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202132",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202133",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202141",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202142",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202143",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202151",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202152",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202153",
         "name": "Long-Shattered Vessel"
     },
     {
@@ -5920,6 +6192,30 @@
         "name": "Long-Shattered Vessel"
     },
     {
+        "id": "403202501",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202502",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202503",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202601",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202602",
+        "name": "Long-Shattered Vessel"
+    },
+    {
+        "id": "403202603",
+        "name": "Long-Shattered Vessel"
+    },
+    {
         "id": "403205002",
         "name": "Archer of the Dark Sun"
     },
@@ -5934,6 +6230,10 @@
     {
         "id": "403301004",
         "name": "Black Tide's Corroded Daemon"
+    },
+    {
+        "id": "403302002",
+        "name": "Black Tide's Champion"
     },
     {
         "id": "403303002",
@@ -5966,6 +6266,22 @@
     {
         "id": "403401103",
         "name": "???"
+    },
+    {
+        "id": "403401301",
+        "name": "Flame Reaver of Doomsday Led Astray"
+    },
+    {
+        "id": "403401302",
+        "name": "Flame Reaver of Doomsday Led Astray"
+    },
+    {
+        "id": "403401303",
+        "name": "Flame Reaver of Doomsday Led Astray"
+    },
+    {
+        "id": "403401304",
+        "name": "Flame Reaver of Doomsday Led Astray"
     },
     {
         "id": "404301001",
@@ -6597,6 +6913,10 @@
     },
     {
         "id": "800205073",
+        "name": "Sequence Trotter"
+    },
+    {
+        "id": "800205074",
         "name": "Sequence Trotter"
     },
     {
@@ -7684,6 +8004,10 @@
         "name": "Starcrusher Swarm King: Skaracabaz (Synthetic)"
     },
     {
+        "id": "802501002",
+        "name": "..."
+    },
+    {
         "id": "802501101",
         "name": "Sky-Shrouding Stardevourer Swarm"
     },
@@ -7914,6 +8238,14 @@
     {
         "id": "803401003",
         "name": "Ten Stonehearts: Aventurine of Stratagems"
+    },
+    {
+        "id": "803401004",
+        "name": "Ten Stonehearts: Aventurine of Stratagems"
+    },
+    {
+        "id": "803401005",
+        "name": "..."
     },
     {
         "id": "803401201",
