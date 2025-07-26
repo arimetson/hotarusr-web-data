@@ -660,6 +660,21 @@
     "description": "Khiến Tốc Độ của người trang bị tăng 18%. Sau khi người trang bị thi triển tấn công, có 120% xác suất cơ bản khiến mỗi một mục tiêu phe địch rơi vào trạng thái \"Mơ Hồ\", mục tiêu phe địch trong trạng thái \"Mơ Hồ\" sẽ bị giảm 16% Phòng Thủ, duy trì 2 hiệp, nếu Tốc Độ của người trang bị lớn hơn hoặc bằng 170, sẽ có 120% xác suất cơ bản khiến mỗi một mục tiêu phe địch rơi vào trạng thái \"Mất Cắp\", mục tiêu phe địch trong trạng thái \"Mất Cắp\" sẽ bị giảm 8% Phòng Thủ, duy trì 2 hiệp. \"Mơ Hồ\" hoặc \"Mất Cắp\" khi bị thi triển trùng lặp, thì chỉ có trạng thái thi triển mới nhất là có hiệu lực."
   },
   {
+    "id": "23044",
+    "name": "Bình Minh Rực Cháy",
+    "description": "Khiến Tốc Độ cơ bản của người trang bị tăng 12, khi gây sát thương sẽ bỏ qua 18% Phòng Thủ của mục tiêu. Sau khi người trang bị thi triển Tuyệt Kỹ sẽ nhận được \"Mặt Trời Rực Lửa\", xóa khi bắt đầu hiệp. Khi có \"Mặt Trời Rực Lửa\", sát thương do người trang bị gây ra tăng 60%"
+  },
+  {
+    "id": "23045",
+    "name": "Lễ Đăng Quang Không Hồi Đáp",
+    "description": "Khiến Sát Thương Bạo Kích của người trang bị tăng 36%. Khi thi triển Tuyệt Kỹ, sẽ khiến Tấn Công của người trang bị tăng 40%, nếu giới hạn Năng Lượng của người trang bị lớn hơn hoặc bằng 300 điểm, sẽ cố định hồi cho người trang bị lượng Năng Lượng bằng 10% Giới Hạn Năng Lượng của người trang bị, đồng thời một lần nữa khiến Tấn Công của người trang bị tăng 40%, duy trì 2 hiệp."
+  },
+  {
+    "id": "23046",
+    "name": "Địa Ngục Thiêu Đốt Lý Tưởng",
+    "description": "Khiến Tỷ Lệ Bạo Kích của người trang bị tăng 16%. Khi vào chiến đấu, nếu giới hạn Điểm Chiến Kỹ phe ta lớn hơn hoặc bằng 6, sẽ khiến Tấn Công của người trang bị tăng 40%. Sau mỗi lần người trang bị thi triển Chiến Kỹ, sẽ khiến Tấn Công của người trang bị tăng 10%, tối đa cộng dồn 4 lần."
+  },
+  {
     "id": "24000",
     "name": "Sự Sụp Đổ Của Aeon",
     "description" : "Khi người trang bị tấn công, sẽ tăng 8% Tấn Công của người trang bị trong trận hiện tại, hiệu ứng này tối đa cộng dồn 4 tầng. Sau khi người trang bị phá vỡ điểm yếu của kẻ địch, sát thương gây ra tăng 12%, duy trì 2 hiệp."
