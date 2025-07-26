@@ -232,6 +232,14 @@
         "name": "Herta"
     },
     {
+        "id": "1014",
+        "name": "Saber"
+    },
+    {
+        "id": "1015",
+        "name": "Archer"
+    },
+    {
         "id": "1101",
         "name": "Bronya"
     },
@@ -456,6 +464,10 @@
         "name": "Castorice"
     },
     {
+        "id": "1408",
+        "name": "Phainon"
+    },
+    {
         "id": "1409",
         "name": "Hyacine"
     },
@@ -498,6 +510,14 @@
     {
         "id": "11013",
         "name": "Tinh Hồn Herta"
+    },
+    {
+        "id": "11014",
+        "name": "Tinh Hồn Của Saber"
+    },
+    {
+        "id": "11015",
+        "name": "Tinh Hồn Archer"
     },
     {
         "id": "11101",
@@ -726,6 +746,10 @@
     {
         "id": "11407",
         "name": "Tinh Hồn Của Castorice"
+    },
+    {
+        "id": "11408",
+        "name": "Tinh Hồn Của \"Phainon\""
     },
     {
         "id": "11409",
@@ -1048,8 +1072,40 @@
         "name": "Đổ Mồ Hôi Nhiều, Rơi Nước Mắt Ít"
     },
     {
+        "id": "21053",
+        "name": "Mong Hành Trình Mãi Mãi Bình An"
+    },
+    {
         "id": "21054",
-        "name": "null"
+        "name": "Trang Tiếp Theo Của Câu Chuyện"
+    },
+    {
+        "id": "21055",
+        "name": "Cho Đến Ngày Mai Của Ngày Mai"
+    },
+    {
+        "id": "21056",
+        "name": "Khi Đuổi Theo Gió"
+    },
+    {
+        "id": "21057",
+        "name": "Hoa Sẽ Không Quên"
+    },
+    {
+        "id": "21058",
+        "name": "Vệt Máu Ngày Cũ"
+    },
+    {
+        "id": "21060",
+        "name": "Giấc Mơ Vấn Vương Hương Lúa"
+    },
+    {
+        "id": "21061",
+        "name": "Kỳ Nghỉ Phiêu Lưu Nhà Tắm Hơi"
+    },
+    {
+        "id": "21062",
+        "name": "Gặp Lại Ở Điểm Cuối Cùng"
     },
     {
         "id": "22000",
@@ -1246,6 +1302,18 @@
     {
         "id": "23043",
         "name": "Lời Nói Dối Bay Trong Gió"
+    },
+    {
+        "id": "23044",
+        "name": "Bình Minh Rực Cháy"
+    },
+    {
+        "id": "23045",
+        "name": "Lễ Đăng Quang Không Hồi Đáp"
+    },
+    {
+        "id": "23046",
+        "name": "Địa Ngục Thiêu Đốt Lý Tưởng"
     },
     {
         "id": "24000",
@@ -1848,6 +1916,22 @@
         "name": "Cành Lá Tri Thức Của Điện Cây Giác Ngộ"
     },
     {
+        "id": "33215",
+        "name": "Nhà Cây An Yên Ở Khu Rừng Lạc Lối"
+    },
+    {
+        "id": "33216",
+        "name": "Còi Cầu Nguyện Của Khu Rừng Lạc Lối"
+    },
+    {
+        "id": "33225",
+        "name": "Hải Đăng Hát Giữa Biển Khơi"
+    },
+    {
+        "id": "33226",
+        "name": "Nhịp Bước Hát Ca Giữa Biển Khơi"
+    },
+    {
         "id": "71000",
         "name": "Hộp Đúc Di Vật: Lãng Khách Âm Thầm"
     },
@@ -2110,6 +2194,14 @@
     {
         "id": "83201",
         "name": "Đại Thụ Trầm Tư"
+    },
+    {
+        "id": "83211",
+        "name": "Thiên Đường Yêu Tinh Dệt Mộng"
+    },
+    {
+        "id": "83221",
+        "name": "Bờ Biển Men Say"
     },
     {
         "id": "89001",
@@ -2396,6 +2488,10 @@
         "name": "Khối Xâm Lược"
     },
     {
+        "id": "110435",
+        "name": "Nụ Tàn Ánh Hoàng Hôn"
+    },
+    {
         "id": "110436",
         "name": "Ánh Trăng Bóng Tối"
     },
@@ -2574,6 +2670,10 @@
     {
         "id": "120004",
         "name": "Rượu Mật Thần Thánh"
+    },
+    {
+        "id": "120005",
+        "name": "Rượu Mật Hỗn Loạn"
     },
     {
         "id": "121000",
@@ -2810,6 +2910,10 @@
     {
         "id": "140109",
         "name": "Tờ Công Thức Kapo-Kali"
+    },
+    {
+        "id": "140110",
+        "name": "null"
     },
     {
         "id": "140111",
@@ -4408,6 +4512,18 @@
         "name": "Ngọn Lửa \"Tử Vong\""
     },
     {
+        "id": "140575",
+        "name": "Con Rối Vua Kỵ Sĩ Phương Xa"
+    },
+    {
+        "id": "140576",
+        "name": "Vinh Quang Phai Màu"
+    },
+    {
+        "id": "140577",
+        "name": "Dấu Mốc Tri Thức"
+    },
+    {
         "id": "149957",
         "name": "Ảnh Chụp Cùng March 7th"
     },
@@ -4648,12 +4764,24 @@
         "name": "Cuộn Dệt Vàng Tiên Tri-Thành Cổ Xương Rồng"
     },
     {
+        "id": "150074",
+        "name": "Phiến Đá Ca Tụng \"Điện Cầu Nguyện U Tối\" Vách Mây Bình Minh"
+    },
+    {
+        "id": "150075",
+        "name": "Phiến Đá Ca Tụng \"Thành Phố Chìm Vào Hoàng Hôn\" Okhema"
+    },
+    {
         "id": "150076",
         "name": "Phiến Đá Ca Tụng \"Pháo Đài Trên Mây\" Con Mắt Ngày Và Đêm"
     },
     {
         "id": "150077",
         "name": "Phiến Đá Ca Tụng \"Pháo Đài Mái Vòm\" Con Mắt Ngày Và Đêm"
+    },
+    {
+        "id": "150078",
+        "name": "Cuộn Dệt Vàng Tiên Tri \"Điện Cầu Nguyện U Tối\""
     },
     {
         "id": "150080",
@@ -4670,6 +4798,18 @@
     {
         "id": "150083",
         "name": "Ngôn Ngữ Vỏ Ốc: Rầm Rầm"
+    },
+    {
+        "id": "150086",
+        "name": "\"Quả Mọng Thời Gian\""
+    },
+    {
+        "id": "150087",
+        "name": "Cuộn Dệt Vàng Tiên Tri \"Aedes Elysiae\""
+    },
+    {
+        "id": "150088",
+        "name": "Biến Số Anh Hùng"
     },
     {
         "id": "180001",
@@ -7864,8 +8004,76 @@
         "name": "Tình Yêu Cấm Kỵ: Cây Và Bướm"
     },
     {
+        "id": "190883",
+        "name": "Tờ Báo Nhà Giam Kỳ <unbreak>13</unbreak>"
+    },
+    {
+        "id": "190884",
+        "name": "Báo Cáo Kỷ Niệm Của Hãng Phim Grady"
+    },
+    {
+        "id": "190885",
+        "name": "Về Báo Cáo Của ███"
+    },
+    {
+        "id": "190886",
+        "name": "Lịch Sử Phát Triển Phim Bong Bóng Giấc Mơ (Trích Đoạn)"
+    },
+    {
+        "id": "190887",
+        "name": "Buổi Phỏng Vấn Của Tạp Chí Phim Iris"
+    },
+    {
         "id": "190888",
         "name": "Tin Nhắn Của Phainon"
+    },
+    {
+        "id": "190889",
+        "name": "Báo Cáo Kinh Phí Khoa Địa Chất 1"
+    },
+    {
+        "id": "190890",
+        "name": "Báo Cáo Kinh Phí Khoa Địa Chất 9"
+    },
+    {
+        "id": "190891",
+        "name": "Báo Cáo Kinh Phí Khoa Địa Chất <unbreak>10</unbreak>"
+    },
+    {
+        "id": "190892",
+        "name": "Khách Của Vương Quốc Yêu Tinh"
+    },
+    {
+        "id": "190893",
+        "name": "Tuyển Tập Lời Cầu Nguyện Của Tế Đàn Oronyx"
+    },
+    {
+        "id": "190894",
+        "name": "Bình Trôi Dạt Thời Thơ Ấu Của Phainon"
+    },
+    {
+        "id": "190895",
+        "name": "Văn Bản Kỳ Lạ"
+    },
+    {
+        "id": "190896",
+        "name": "Lịch Đồng Áng Của Aedes Elysiae"
+    },
+    {
+        "id": "190897",
+        "name": "Nhật Ký Của Piso"
+    },
+    {
+        "id": "190898",
+        "name": "Sách Tranh Của Livia"
+    },
+    {
+        "id": "190899",
+        "name": "Vận Đơn Hàng Cũ"
+    },
+    {
+        "id": "190900",
+        "name": "Nhật Ký Lớp Học Rải Rác"
     },
     {
         "id": "191001",
@@ -8010,6 +8218,66 @@
     {
         "id": "191036",
         "name": "Kẻ Đánh Đố - Thần Bí"
+    },
+    {
+        "id": "191901",
+        "name": "Lá Thư Từ Yêu Tinh (1)"
+    },
+    {
+        "id": "191902",
+        "name": "Lá Thư Từ Yêu Tinh (2)"
+    },
+    {
+        "id": "191903",
+        "name": "Lá Thư Từ Yêu Tinh (3)"
+    },
+    {
+        "id": "191904",
+        "name": "Lá Thư Từ Yêu Tinh (4)"
+    },
+    {
+        "id": "191905",
+        "name": "Lá Thư Từ Yêu Tinh (5)"
+    },
+    {
+        "id": "191906",
+        "name": "Sổ Tay Trồng Trọt Viết Tay"
+    },
+    {
+        "id": "191907",
+        "name": "Lá Thư Gửi Đến Mifamem-Sửa Chữa"
+    },
+    {
+        "id": "191908",
+        "name": "Lá Thư Gửi Đến Mifamem-Dọn Dẹp"
+    },
+    {
+        "id": "191909",
+        "name": "Lá Thư Gửi Đến Mifamem-Nấu Nướng"
+    },
+    {
+        "id": "191910",
+        "name": "Lá Thư Từ Mifamem-Sửa Chữa"
+    },
+    {
+        "id": "191911",
+        "name": "Lá Thư Từ Mifamem-Dọn Dẹp"
+    },
+    {
+        "id": "191912",
+        "name": "Lá Thư Từ Mifamem-Nấu Nướng"
+    },
+    {
+        "id": "191913",
+        "name": "Lá Thư Từ Mifamem-Mạo Hiểm"
+    },
+    {
+        "id": "191919",
+        "name": "██████████"
+    },
+    {
+        "id": "191920",
+        "name": "████████████"
     },
     {
         "id": "200001",
@@ -8172,6 +8440,14 @@
         "name": "Cipher: Giấc Ngủ An Lành"
     },
     {
+        "id": "200141",
+        "name": "Phainon - Thời Trang"
+    },
+    {
+        "id": "200142",
+        "name": "Aglaea - Thời Trang"
+    },
+    {
         "id": "201001",
         "name": "March 7th - Bảo Hộ"
     },
@@ -8286,6 +8562,18 @@
     {
         "id": "202033",
         "name": "Đặt Tên Theo Gậy Bóng Chày"
+    },
+    {
+        "id": "202034",
+        "name": "Firefly - Du Lịch"
+    },
+    {
+        "id": "202035",
+        "name": "\"Binh Binh Bùm\""
+    },
+    {
+        "id": "202036",
+        "name": "{NICKNAME} - Người Cầm Bút"
     },
     {
         "id": "208001",
@@ -8918,6 +9206,14 @@
     {
         "id": "210403",
         "name": "\"Khúc Ca Nắng Sấm\""
+    },
+    {
+        "id": "210404",
+        "name": "\"Cố Hương\""
+    },
+    {
+        "id": "210405",
+        "name": "\"Mê Cảnh\""
     },
     {
         "id": "220000",
@@ -10308,6 +10604,14 @@
         "name": "Mem - Phiên Bản Đáng Yêu Hơn"
     },
     {
+        "id": "250607",
+        "name": "Miền Lý Tưởng Ẩn Mình Khỏi Thế Giới"
+    },
+    {
+        "id": "250608",
+        "name": "Cái Bóng Lệnh Chú"
+    },
+    {
         "id": "250700",
         "name": "Bí Kíp Chiến Thuật - Giương Đông Kích Tây"
     },
@@ -10900,6 +11204,10 @@
         "name": "Thời Gian Vui Vẻ Của {NICKNAME}"
     },
     {
+        "id": "261001",
+        "name": "Rương Công Cụ Chíp Chíp"
+    },
+    {
         "id": "270000",
         "name": "Mặt Cười Vui Vẻ"
     },
@@ -11106,6 +11414,10 @@
     {
         "id": "300011",
         "name": "Kho Báu Biển Sao"
+    },
+    {
+        "id": "300013",
+        "name": "Kho Tàng Biển Sao"
     },
     {
         "id": "300019",

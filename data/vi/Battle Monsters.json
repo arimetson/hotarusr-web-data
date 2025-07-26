@@ -116,6 +116,10 @@
         "name": "Ảo Ảnh Topaz"
     },
     {
+        "id": "1004017",
+        "name": "Cocolia (Ô Nhiễm)"
+    },
+    {
         "id": "1004020",
         "name": "Gepard"
     },
@@ -198,6 +202,10 @@
     {
         "id": "1012030",
         "name": "Cỗ Máy Tự Động - Bọ Cánh Cứng"
+    },
+    {
+        "id": "1012032",
+        "name": "Vua Amber"
     },
     {
         "id": "1012040",
@@ -370,6 +378,10 @@
     {
         "id": "2004025",
         "name": "Trung Úy Vân Kỵ - Yanqing"
+    },
+    {
+        "id": "2004026",
+        "name": "Trung Úy Vân Kỵ - Yanqing (Ô Nhiễm)"
     },
     {
         "id": "2005010",
@@ -604,6 +616,14 @@
         "name": "Vua Sói Sấm Sét Cuồng Nộ"
     },
     {
+        "id": "2034015",
+        "name": "Chiến Thủ Boris - Hoolay (Ô Nhiễm)"
+    },
+    {
+        "id": "2034016",
+        "name": "Chiến Thủ Boris - Hoolay"
+    },
+    {
         "id": "2035010",
         "name": "Ảo Ảnh \"Feixiao\""
     },
@@ -636,6 +656,18 @@
         "name": "Trợ Giảng Chúi Của Nhóm Nghiên Cứu Chúi (Hoàn Chỉnh)"
     },
     {
+        "id": "3002014",
+        "name": "Skott - Sản Xuất Hàng Loạt"
+    },
+    {
+        "id": "3002015",
+        "name": "Skott Đố Kỵ"
+    },
+    {
+        "id": "3002016",
+        "name": "Skott Đố Kỵ (Ô Nhiễm)"
+    },
+    {
         "id": "3002020",
         "name": "Người Bán Hàng May Mắn Của Đoàn Kịch Ác Mộng"
     },
@@ -650,6 +682,14 @@
     {
         "id": "3002023",
         "name": "Giáo Viên Tài Phú Chúi Của Nhóm Nghiên Cứu Chúi (Hoàn Chỉnh)"
+    },
+    {
+        "id": "3002024",
+        "name": "Skott Tham Lam"
+    },
+    {
+        "id": "3002025",
+        "name": "Skott Tham Lam (Ô Nhiễm)"
     },
     {
         "id": "3002030",
@@ -670,6 +710,14 @@
     {
         "id": "3002043",
         "name": "Giáo Viên Xây Mộng Chúi Của Nhóm Nghiên Cứu Chúi (Hoàn Chỉnh)"
+    },
+    {
+        "id": "3002044",
+        "name": "Skott Lười Biếng"
+    },
+    {
+        "id": "3002045",
+        "name": "Skott Lười Biếng (Ô Nhiễm)"
     },
     {
         "id": "3002050",
@@ -718,6 +766,14 @@
     {
         "id": "3003016",
         "name": "Giáo Viên Hòa Hợp Chúi Của Nhóm Nghiên Cứu Chúi (Hoàn Chỉnh)"
+    },
+    {
+        "id": "3003017",
+        "name": "Skott Giận Dữ"
+    },
+    {
+        "id": "3003018",
+        "name": "Skott Giận Dữ (Ô Nhiễm)"
     },
     {
         "id": "3003020",
@@ -798,6 +854,18 @@
     {
         "id": "3004022",
         "name": "Nhóm Nghiên Cứu Chúi Trong Rừng Kỳ Ảo (Hoàn Chỉnh)"
+    },
+    {
+        "id": "3004023",
+        "name": "Skott Nghìn Mặt"
+    },
+    {
+        "id": "3004024",
+        "name": "Skott Nghìn Mặt (Ô Nhiễm)"
+    },
+    {
+        "id": "3004025",
+        "name": "Skott Nghìn Mặt"
     },
     {
         "id": "3011010",
@@ -1012,6 +1080,10 @@
         "name": "Chinh Phục Hay Bị Chinh Phục"
     },
     {
+        "id": "4012063",
+        "name": "Chinh Phục Hay Bị Chinh Phục"
+    },
+    {
         "id": "4012070",
         "name": "Cánh Tay Thương Xót"
     },
@@ -1084,12 +1156,24 @@
         "name": "Vị Thần Man Rợ, Vua Điên, Hóa Thân Của Phân Tranh (Hoàn Chỉnh)"
     },
     {
+        "id": "4014016",
+        "name": "Quán Quân, Vệ Thành, Chúa Tể Của Phân Tranh"
+    },
+    {
+        "id": "4014018",
+        "name": "Vị Thần Man Rợ, Vua Điên, Hóa Thân Của Phân Tranh (Ô Nhiễm)"
+    },
+    {
         "id": "4014020",
         "name": "Người Ban Ơn, Thủ Lĩnh Thiên Quân, Ngọn Giáo Thần Phạt"
     },
     {
         "id": "4014022",
         "name": "Người Ban Ơn, Thủ Lĩnh Thiên Quân, Ngọn Giáo Thần Phạt (Hoàn Chỉnh)"
+    },
+    {
+        "id": "4014023",
+        "name": "Ngọn Giáo Thần Phạt, Mydeimos"
     },
     {
         "id": "4014030",
@@ -1104,6 +1188,14 @@
         "name": "Người Đưa Hồn, Xác Rồng Tử Vong, Pollux"
     },
     {
+        "id": "4014033",
+        "name": "Bàn Tay Hắc Ám, Castorice"
+    },
+    {
+        "id": "4014035",
+        "name": "Người Đưa Hồn, Xác Rồng Tử Vong, Pollux (Ô Nhiễm)"
+    },
+    {
         "id": "4015010",
         "name": "Tối Cao, Cực Dương, Hóa Thân Của Bầu Trời"
     },
@@ -1114,6 +1206,10 @@
     {
         "id": "4015020",
         "name": "Kẻ Hủy Diệt, Nghiệp Quả Nắng Sấm, Con Mắt Ngày Và Đêm"
+    },
+    {
+        "id": "4015021",
+        "name": "Con Mắt Ngày Và Đêm, Hyacinthia"
     },
     {
         "id": "4022010",
@@ -1136,6 +1232,10 @@
         "name": "Vật Chứa Tàn Khuyết"
     },
     {
+        "id": "4032021",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
         "id": "4032022",
         "name": "Vật Chứa Tàn Khuyết"
     },
@@ -1145,6 +1245,14 @@
     },
     {
         "id": "4032024",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "4032025",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "4032026",
         "name": "Vật Chứa Tàn Khuyết"
     },
     {
@@ -1184,8 +1292,28 @@
         "name": "\"Ma Vương Áo Choàng Đen\""
     },
     {
+        "id": "4034013",
+        "name": "Hành Giả Trộm Lửa Lạc Lối Ngày Tận Thế"
+    },
+    {
         "id": "4034014",
         "name": "Thanh Kiếm Hắc Ám, Hành Giả Trộm Lửa"
+    },
+    {
+        "id": "4034015",
+        "name": "Khaslana \"Không Có Duyên Với Bình Minh\""
+    },
+    {
+        "id": "4034017",
+        "name": "Thanh Kiếm Hắc Ám, Hành Giả Trộm Lửa"
+    },
+    {
+        "id": "4034018",
+        "name": "???"
+    },
+    {
+        "id": "4034019",
+        "name": "Thanh Kiếm Hắc Ám, Hành Giả Trộm Lửa (Ô Nhiễm)"
     },
     {
         "id": "4043010",
@@ -1960,6 +2088,10 @@
         "name": "Kẻ Lang Thang"
     },
     {
+        "id": "100202023",
+        "name": "Kẻ Lang Thang"
+    },
+    {
         "id": "100202101",
         "name": "Kẻ Lang Thang"
     },
@@ -2540,6 +2672,10 @@
         "name": "Cocolia"
     },
     {
+        "id": "100401013",
+        "name": "Cocolia"
+    },
+    {
         "id": "100401401",
         "name": "Kẻ Hủy Diệt Gió Lạnh Vô Vọng"
     },
@@ -2697,6 +2833,10 @@
     },
     {
         "id": "100403010",
+        "name": "Bronya"
+    },
+    {
+        "id": "100403011",
         "name": "Bronya"
     },
     {
@@ -3180,6 +3320,10 @@
         "name": "Cỗ Máy Tự Động - Sói Nanh Nhọn"
     },
     {
+        "id": "101302036",
+        "name": "Skott Cưa Điện"
+    },
+    {
         "id": "101401001",
         "name": "Svarog"
     },
@@ -3241,6 +3385,10 @@
     },
     {
         "id": "101401016",
+        "name": "Svarog"
+    },
+    {
+        "id": "101401017",
         "name": "Svarog"
     },
     {
@@ -3741,6 +3889,10 @@
     },
     {
         "id": "200401009",
+        "name": "\"Thợ Săn Stellaron\" Kafka"
+    },
+    {
+        "id": "200401010",
         "name": "\"Thợ Săn Stellaron\" Kafka"
     },
     {
@@ -4564,6 +4716,10 @@
         "name": "Huyền Lộc Trù Phú"
     },
     {
+        "id": "202401011",
+        "name": "Huyền Lộc Trù Phú"
+    },
+    {
         "id": "202401201",
         "name": "Huyền Lộc Trù Phú (Hoàn Chỉnh)"
     },
@@ -4820,6 +4976,18 @@
         "name": "Trợ Giảng Chúi Của Nhóm Nghiên Cứu Chúi"
     },
     {
+        "id": "300201401",
+        "name": "Skott - Sản Xuất Hàng Loạt"
+    },
+    {
+        "id": "300201501",
+        "name": "Skott Ngạo Mạn"
+    },
+    {
+        "id": "300201601",
+        "name": "Skott Ngạo Mạn (Ô Nhiễm)"
+    },
+    {
         "id": "300202001",
         "name": "Người Bán Hàng May Mắn Của Đoàn Kịch Ác Mộng"
     },
@@ -4946,6 +5114,10 @@
     {
         "id": "300204007",
         "name": "Đoàn Kịch Ác Mộng - Côn Đồ Dây Cót"
+    },
+    {
+        "id": "300204009",
+        "name": "Ông Lão Đồng Hồ"
     },
     {
         "id": "300204101",
@@ -5118,6 +5290,14 @@
     {
         "id": "300302008",
         "name": "Đoàn Kịch Ác Mộng - Vượn Khổng Lồ"
+    },
+    {
+        "id": "300302010",
+        "name": "Quần Chúng 1"
+    },
+    {
+        "id": "300302011",
+        "name": "Quần Chúng 2"
     },
     {
         "id": "300302201",
@@ -5324,6 +5504,10 @@
         "name": "Meme Vùng Hồi Ức \"Lớp Vỏ Của Cơn Giận Kìm Nén\""
     },
     {
+        "id": "301301008",
+        "name": "Meme Vùng Hồi Ức \"Lớp Vỏ Của Cơn Giận Kìm Nén\""
+    },
+    {
         "id": "301301201",
         "name": "Meme Vùng Hồi Ức \"Lớp Vỏ Của Cơn Giận Kìm Nén\""
     },
@@ -5362,6 +5546,10 @@
     {
         "id": "301402006",
         "name": "Meme Vùng Hồi Ức \"Vật Gì Hướng Về Cái Chết\""
+    },
+    {
+        "id": "301402007",
+        "name": "Cái Chết Bình Thường"
     },
     {
         "id": "301402201",
@@ -5545,6 +5733,10 @@
     },
     {
         "id": "302402007",
+        "name": "\"Thợ Săn Stellaron\" Sam"
+    },
+    {
+        "id": "302402008",
         "name": "\"Thợ Săn Stellaron\" Sam"
     },
     {
@@ -5788,6 +5980,10 @@
         "name": "Vị Thần Man Rợ, Vua Điên, Hóa Thân Của Phân Tranh"
     },
     {
+        "id": "401401004",
+        "name": "Vị Thần Man Rợ, Vua Điên, Hóa Thân Của Phân Tranh"
+    },
+    {
         "id": "401401201",
         "name": "Vị Thần Man Rợ, Vua Điên, Hóa Thân Của Phân Tranh"
     },
@@ -5849,6 +6045,82 @@
     },
     {
         "id": "403202003",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202004",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202005",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202006",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202007",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202111",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202112",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202113",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202121",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202122",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202123",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202131",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202132",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202133",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202141",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202142",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202143",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202151",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202152",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202153",
         "name": "Vật Chứa Tàn Khuyết"
     },
     {
@@ -5920,6 +6192,30 @@
         "name": "Vật Chứa Tàn Khuyết"
     },
     {
+        "id": "403202501",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202502",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202503",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202601",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202602",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
+        "id": "403202603",
+        "name": "Vật Chứa Tàn Khuyết"
+    },
+    {
         "id": "403205002",
         "name": "Cung Thủ Mặt Trời Đen"
     },
@@ -5934,6 +6230,10 @@
     {
         "id": "403301004",
         "name": "Thây Ma Thủy Triều Đen"
+    },
+    {
+        "id": "403302002",
+        "name": "Chiến Tướng Thủy Triều Đen"
     },
     {
         "id": "403303002",
@@ -5966,6 +6266,22 @@
     {
         "id": "403401103",
         "name": "???"
+    },
+    {
+        "id": "403401301",
+        "name": "Hành Giả Trộm Lửa Lạc Lối Ngày Tận Thế"
+    },
+    {
+        "id": "403401302",
+        "name": "Hành Giả Trộm Lửa Lạc Lối Ngày Tận Thế"
+    },
+    {
+        "id": "403401303",
+        "name": "Hành Giả Trộm Lửa Lạc Lối Ngày Tận Thế"
+    },
+    {
+        "id": "403401304",
+        "name": "Hành Giả Trộm Lửa Lạc Lối Ngày Tận Thế"
     },
     {
         "id": "404301001",
@@ -6597,6 +6913,10 @@
     },
     {
         "id": "800205073",
+        "name": "Heo Đất Phối Hợp"
+    },
+    {
+        "id": "800205074",
         "name": "Heo Đất Phối Hợp"
     },
     {
@@ -7684,6 +8004,10 @@
         "name": "Bọ Chúa Hủy Hoại - Skarakabaz (Mô Phỏng)"
     },
     {
+        "id": "802501002",
+        "name": "Berserker - Mọt Gặm Nhấm Tiền Vàng"
+    },
+    {
         "id": "802501101",
         "name": "Bọ Nuốt Sao Che Trời"
     },
@@ -7914,6 +8238,14 @@
     {
         "id": "803401003",
         "name": "\"<unbreak>10</unbreak> Người Có Trái Tim Đá\" Aventurine Gian Trá"
+    },
+    {
+        "id": "803401004",
+        "name": "\"<unbreak>10</unbreak> Người Có Trái Tim Đá\" Aventurine Gian Trá"
+    },
+    {
+        "id": "803401005",
+        "name": "Quỷ Thông Hành Vàng"
     },
     {
         "id": "803401201",

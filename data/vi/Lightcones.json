@@ -375,6 +375,51 @@
     "description" : "Khiến Tỷ Lệ Bạo Kích của người trang bị tăng 12%. Khi Linh Hồn Ký Ức của người trang bị trong trận, Sát Thương người trang bị và Linh Hồn Ký Ức gây ra tăng 24%."
   },
   {
+    "id": "21053",
+    "name": "Mong Hành Trình Mãi Mãi Bình An",
+    "description": "Khiến lượng Khiên mà người trang bị cung cấp tăng 12%, khi mục tiêu phe ta có Khiên, sát thương gây ra tăng 12%."
+  },
+  {
+    "id": "21054",
+    "name": "Trang Tiếp Theo Của Câu Chuyện",
+    "description": "Khiến Giới Hạn HP của người trang bị tăng 16%. Sau khi Linh Hồn Ký Ức của người trang bị tấn công, sẽ khiến Lượng Trị Liệu của người trang bị và Linh Hồn Ký Ức tăng 12%, duy trì 1 hiệp."
+  },
+  {
+    "id": "21055",
+    "name": "Cho Đến Ngày Mai Của Ngày Mai",
+    "description": "Khiến Lượng Trị Liệu của người trang bị tăng 12%. Khi Phần Trăm HP hiện tại của mục tiêu phe ta lớn hơn hoặc bằng 50%, sát thương gây ra tăng 12%."
+  },
+  {
+    "id": "21056",
+    "name": "Khi Đuổi Theo Gió",
+    "description": "Sau khi vào chiến đấu, khiến Sát Thương Phá Vỡ của toàn bộ phe ta gây ra tăng 16%. Kỹ năng cùng loại sẽ không có hiệu lực trùng lặp."
+  },
+  {
+    "id": "21057",
+    "name": "Hoa Sẽ Không Quên",
+    "description": "Khiến Sát Thương Bạo Kích của người trang bị tăng 24%. Sát Thương Bạo Kích do Linh Hồn Ký Ức của người trang bị gây ra tăng thêm 24%."
+  },
+  {
+    "id": "21058",
+    "name": "Vệt Máu Ngày Cũ",
+    "description": "Khiến Tỷ Lệ Bạo Kích của người trang bị tăng 12%. Sát thương Chiến Kỹ và Tuyệt Kỹ do người trang bị gây ra tăng 24%."
+  },
+  {
+    "id": "21060",
+    "name": "Giấc Mơ Vấn Vương Hương Lúa",
+    "description": "Khiến Tỷ Lệ Bạo Kích của người trang bị tăng 12%. Sát thương Tuyệt Kỹ và Đòn Đánh Theo Sau của người trang bị gây ra tăng 24%."
+  },
+  {
+    "id": "21061",
+    "name": "Kỳ Nghỉ Phiêu Lưu Nhà Tắm Hơi",
+    "description": "Khiến sát thương của người trang bị gây ra tăng 16%. Sau khi người trang bị tấn công, có 100% xác suất cơ bản khiến mục tiêu bị tấn công rơi vào trạng thái Trọng Thương, sát thương phải chịu tăng 10%, duy trì 2 hiệp. Hiệu ứng cùng loại không thể cộng dồn."
+  },
+  {
+    "id": "21062",
+    "name": "Gặp Lại Ở Điểm Cuối Cùng",
+    "description": "Khiến Sát Thương Bạo Kích của người trang bị tăng 24%. Sát thương Chiến Kỹ và Đòn Đánh Theo Sau của người trang bị gây ra tăng 24%."
+  },
+  {
     "id": "22000",
     "name": "Trước Khi Bắt Đầu Nhiệm Vụ Tân Thủ",
     "description" : "Khiến Chính Xác Hiệu Ứng của người trang bị tăng 20%. Sau khi người trang bị tấn công kẻ địch bị giảm Phòng Thủ, sẽ hồi 4 điểm Năng Lượng."

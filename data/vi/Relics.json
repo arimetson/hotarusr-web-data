@@ -1140,7 +1140,7 @@
     "name": "Cây Thiêng Trầm Tư Của Điện Cây Giác Ngộ",
     "type": "Cầu",
     "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71043.webp",
-    "description" : "2-Pc: The wearer's SPD increases by 6%. When the wearer's SPD is 135/180 or more, the wearer and their memosprite's Outgoing Healing increases by 12%/20%.",
+    "description" : "2-Pc: Khiến Tốc Độ của người trang bị tăng 6%. Khi Tốc Độ của người trang bị từ 135/180 trở lên, thì Lượng Trị Liệu của người trang bị và Linh Hồn Ký Ức của người đó sẽ tăng 12%/20%.",
     "group": "Đại Thụ Trầm Tư"
   },
   {
@@ -1148,7 +1148,39 @@
     "name": "Cành Lá Tri Thức Của Điện Cây Giác Ngộ",
     "type": "Dây",
     "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71043.webp",
-    "description" : "2-Pc: The wearer's SPD increases by 6%. When the wearer's SPD is 135/180 or more, the wearer and their memosprite's Outgoing Healing increases by 12%/20%.",
+    "description" : "2-Pc: Khiến Tốc Độ của người trang bị tăng 6%. Khi Tốc Độ của người trang bị từ 135/180 trở lên, thì Lượng Trị Liệu của người trang bị và Linh Hồn Ký Ức của người đó sẽ tăng 12%/20%.",
     "group": "Đại Thụ Trầm Tư"
+  },
+  {
+    "id": "63215",
+    "name": "Nhà Cây An Yên Ở Khu Rừng Lạc Lối",
+    "type": "Cầu",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71046.webp",
+    "description": "2-Pc: Khi số lượng mục tiêu của đội ngũ phe ta ở trong trận hiện tại không bằng 4, mỗi khi thêm/mất 1 mục tiêu phe ta, sẽ khiến sát thương gây ra bởi người trang bị và Linh Hồn Ký Ức của người đó tăng 9%/12%, tối đa cộng dồn 4/3 tầng.",
+    "group": "Thiên Đường Yêu Tinh Dệt Mộng"
+  },
+  {
+    "id": "63216",
+    "name": "Còi Cầu Nguyện Của Khu Rừng Lạc Lối",
+    "type": "Dây",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71046.webp",
+    "description": "2-Pc: Khi số lượng mục tiêu của đội ngũ phe ta ở trong trận hiện tại không bằng 4, mỗi khi thêm/mất 1 mục tiêu phe ta, sẽ khiến sát thương gây ra bởi người trang bị và Linh Hồn Ký Ức của người đó tăng 9%/12%, tối đa cộng dồn 4/3 tầng.",
+    "group": "Thiên Đường Yêu Tinh Dệt Mộng"
+  },
+  {
+    "id": "63225",
+    "name": "Ngọn Hải Đăng Nơi Biển Cả Rền Vang",
+    "type": "Cầu",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71047.webp",
+    "description": "2-Pc: Khiến Tấn Công của người trang bị tăng 12%. Khi Tấn Công của người trang bị lớn hơn hoặc bằng 2400/3600, sẽ khiến Sát Thương Duy Trì gây ra tăng thêm 12%/24%.",
+    "group": "Bờ Biển Men Say"
+  },
+  {
+    "id": "63226",
+    "name": "Nhịp Bước Hát Ca Nơi Biển Cả Rền Vang",
+    "type": "Dây",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71047.webp",
+    "description": "2-Pc: Khiến Tấn Công của người trang bị tăng 12%. Khi Tấn Công của người trang bị lớn hơn hoặc bằng 2400/3600, sẽ khiến Sát Thương Duy Trì gây ra tăng thêm 12%/24%.",
+    "group": "Bờ Biển Men Say"
   }
 ]
