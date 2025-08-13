@@ -932,6 +932,26 @@
         "name": "Flame Reaver of the Deepest Dark (Corrupted)"
     },
     {
+        "id": "1292",
+        "name": "Servant of Tides"
+    },
+    {
+        "id": "1293",
+        "name": "Lady of Crashing Waves"
+    },
+    {
+        "id": "1294",
+        "name": "First Genius, Entelechy, Zandar"
+    },
+    {
+        "id": "1295",
+        "name": "Hellcharred Shadow General"
+    },
+    {
+        "id": "1296",
+        "name": "Sanerot Hearteater"
+    },
+    {
         "id": "310010",
         "name": "Antimatter Legion"
     },
@@ -1006,5 +1026,9 @@
     {
         "id": "202410010",
         "name": "Escaped Prisoner"
+    },
+    {
+        "id": "204510110",
+        "name": "Abyssal Sea Siren"
     }
 ]

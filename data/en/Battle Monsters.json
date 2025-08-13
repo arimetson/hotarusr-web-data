@@ -205,7 +205,7 @@
     },
     {
         "id": "1012032",
-        "name": "..."
+        "name": "Amber King"
     },
     {
         "id": "1012040",
@@ -564,6 +564,10 @@
         "name": "Nebula Devourer"
     },
     {
+        "id": "2032042",
+        "name": "Nebula Devourer"
+    },
+    {
         "id": "2032050",
         "name": "Planeshred Claws"
     },
@@ -572,11 +576,19 @@
         "name": "Planeshred Claws"
     },
     {
+        "id": "2032052",
+        "name": "Planeshred Claws"
+    },
+    {
         "id": "2032060",
         "name": "Worldpurge Tail"
     },
     {
         "id": "2032061",
+        "name": "Worldpurge Tail"
+    },
+    {
+        "id": "2032062",
         "name": "Worldpurge Tail"
     },
     {
@@ -594,6 +606,10 @@
     {
         "id": "2033021",
         "name": "Ecliptic Inner Beast & Shadow of \"Feixiao\""
+    },
+    {
+        "id": "2033022",
+        "name": "Sanerot Hearteater"
     },
     {
         "id": "2034010",
@@ -630,6 +646,10 @@
     {
         "id": "2035011",
         "name": "Shadow of \"Feixiao\""
+    },
+    {
+        "id": "2035012",
+        "name": "Hellcharred Shadow General"
     },
     {
         "id": "3001010",
@@ -734,10 +754,6 @@
     {
         "id": "3002053",
         "name": "Lordly Trashcan (Projection)"
-    },
-    {
-        "id": "3002089",
-        "name": "null"
     },
     {
         "id": "3003010",
@@ -1157,7 +1173,7 @@
     },
     {
         "id": "4014016",
-        "name": "Savage God, Mad King, Incarnation of Strife"
+        "name": "Victor, Acropolis, and Lord of Strife"
     },
     {
         "id": "4014018",
@@ -1173,7 +1189,7 @@
     },
     {
         "id": "4014023",
-        "name": "The Giver, Master of Legions, Lance of Fury"
+        "name": "Mydeimos, Lance of Fury"
     },
     {
         "id": "4014030",
@@ -1189,7 +1205,7 @@
     },
     {
         "id": "4014033",
-        "name": "Pollux, Netherwing Husk, Ferry of Souls"
+        "name": "Castorice, Hand of Shadow"
     },
     {
         "id": "4014035",
@@ -1209,7 +1225,7 @@
     },
     {
         "id": "4015021",
-        "name": "Decimator, Karma of Daythunder, Eye of Twilight"
+        "name": "Hyacinthia, Eye of Twilight"
     },
     {
         "id": "4022010",
@@ -1289,7 +1305,7 @@
     },
     {
         "id": "4034012",
-        "name": "Black Cloak Demon King"
+        "name": "\"Black Cloak Demon King\""
     },
     {
         "id": "4034013",
@@ -1301,7 +1317,7 @@
     },
     {
         "id": "4034015",
-        "name": "Flame Reaver of the Deepest Dark"
+        "name": "Dawn-Denied Khaslana"
     },
     {
         "id": "4034017",
@@ -1309,7 +1325,7 @@
     },
     {
         "id": "4034018",
-        "name": "Flame Reaver of the Deepest Dark"
+        "name": "???"
     },
     {
         "id": "4034019",
@@ -1318,6 +1334,30 @@
     {
         "id": "4043010",
         "name": "Herta #ErrorModel"
+    },
+    {
+        "id": "4044010",
+        "name": "First Genius, Entelechy, Zandar"
+    },
+    {
+        "id": "4044011",
+        "name": "First Genius, Entelechy, Zandar"
+    },
+    {
+        "id": "4052010",
+        "name": "Servant of Tides"
+    },
+    {
+        "id": "4052012",
+        "name": "Servant of Tides"
+    },
+    {
+        "id": "4053010",
+        "name": "Lady of Crashing Waves"
+    },
+    {
+        "id": "4053012",
+        "name": "Lady of Crashing Waves"
     },
     {
         "id": "7001010",
@@ -1462,10 +1502,6 @@
     {
         "id": "8002040",
         "name": "Warp Trotter"
-    },
-    {
-        "id": "8002041",
-        "name": "null"
     },
     {
         "id": "8002050",
@@ -2088,10 +2124,6 @@
         "name": "Vagrant"
     },
     {
-        "id": "100202023",
-        "name": "Vagrant"
-    },
-    {
         "id": "100202101",
         "name": "Vagrant"
     },
@@ -2252,10 +2284,6 @@
         "name": "Silvermane Soldier"
     },
     {
-        "id": "100204018",
-        "name": "null"
-    },
-    {
         "id": "100204019",
         "name": "Silvermane Soldier"
     },
@@ -2354,10 +2382,6 @@
     {
         "id": "100205013",
         "name": "Silvermane Gunner"
-    },
-    {
-        "id": "100205014",
-        "name": "null"
     },
     {
         "id": "100205015",
@@ -2753,6 +2777,10 @@
     },
     {
         "id": "100402015",
+        "name": "Gepard"
+    },
+    {
+        "id": "100402016",
         "name": "Gepard"
     },
     {
@@ -3253,6 +3281,10 @@
     },
     {
         "id": "101302015",
+        "name": "Automaton Direwolf"
+    },
+    {
+        "id": "101302016",
         "name": "Automaton Direwolf"
     },
     {
@@ -4840,6 +4872,22 @@
         "name": "Howling Casket (Bug)"
     },
     {
+        "id": "203302201",
+        "name": "Sanerot Hearteater"
+    },
+    {
+        "id": "203302202",
+        "name": "Sanerot Hearteater"
+    },
+    {
+        "id": "203302203",
+        "name": "Sanerot Hearteater"
+    },
+    {
+        "id": "203302204",
+        "name": "Sanerot Hearteater"
+    },
+    {
         "id": "203401001",
         "name": "Borisin Warhead: Hoolay"
     },
@@ -4870,6 +4918,22 @@
     {
         "id": "203401404",
         "name": "Fulminating Wolflord"
+    },
+    {
+        "id": "203501201",
+        "name": "Hellcharred Shadow General"
+    },
+    {
+        "id": "203501202",
+        "name": "Hellcharred Shadow General"
+    },
+    {
+        "id": "203501203",
+        "name": "Hellcharred Shadow General"
+    },
+    {
+        "id": "203501204",
+        "name": "Hellcharred Shadow General"
     },
     {
         "id": "300101001",
@@ -5117,7 +5181,7 @@
     },
     {
         "id": "300204009",
-        "name": "..."
+        "name": "Old Clockie"
     },
     {
         "id": "300204101",
@@ -5201,6 +5265,10 @@
     },
     {
         "id": "300301010",
+        "name": "Dreamjolt Troupe's Beyond Overcooked"
+    },
+    {
+        "id": "300301011",
         "name": "Dreamjolt Troupe's Beyond Overcooked"
     },
     {
@@ -5293,11 +5361,11 @@
     },
     {
         "id": "300302010",
-        "name": "..."
+        "name": "Extra No. 1"
     },
     {
         "id": "300302011",
-        "name": "..."
+        "name": "Extra No. 2"
     },
     {
         "id": "300302201",
@@ -5549,7 +5617,7 @@
     },
     {
         "id": "301402007",
-        "name": "..."
+        "name": "Unimpressive Death"
     },
     {
         "id": "301402201",
@@ -5657,6 +5725,10 @@
     },
     {
         "id": "302401010",
+        "name": "Argenti"
+    },
+    {
+        "id": "302401012",
         "name": "Argenti"
     },
     {
@@ -5812,6 +5884,10 @@
         "name": "Furiae Warrior"
     },
     {
+        "id": "401201015",
+        "name": "Furiae Warrior"
+    },
+    {
         "id": "401202001",
         "name": "Furiae Philosopher"
     },
@@ -5849,10 +5925,6 @@
     },
     {
         "id": "401202104",
-        "name": "Furiae Philosopher"
-    },
-    {
-        "id": "401202105",
         "name": "Furiae Philosopher"
     },
     {
@@ -5956,6 +6028,10 @@
         "name": "Furiae Praetor"
     },
     {
+        "id": "401301008",
+        "name": "Furiae Praetor"
+    },
+    {
         "id": "401301101",
         "name": "Furiae Praetor"
     },
@@ -5981,6 +6057,10 @@
     },
     {
         "id": "401401004",
+        "name": "Savage God, Mad King, Incarnation of Strife"
+    },
+    {
+        "id": "401401006",
         "name": "Savage God, Mad King, Incarnation of Strife"
     },
     {
@@ -6034,6 +6114,14 @@
     {
         "id": "402302002",
         "name": "Moonlit Pegasus"
+    },
+    {
+        "id": "402302004",
+        "name": "Moonlit Pegasus"
+    },
+    {
+        "id": "403201002",
+        "name": "Tide-Eroded Blade"
     },
     {
         "id": "403202001",
@@ -6216,6 +6304,10 @@
         "name": "Long-Shattered Vessel"
     },
     {
+        "id": "403203002",
+        "name": "Black Tide's Corroded Axe"
+    },
+    {
         "id": "403205002",
         "name": "Archer of the Dark Sun"
     },
@@ -6232,7 +6324,15 @@
         "name": "Black Tide's Corroded Daemon"
     },
     {
+        "id": "403301005",
+        "name": "Black Tide's Corroded Daemon"
+    },
+    {
         "id": "403302002",
+        "name": "Black Tide's Champion"
+    },
+    {
+        "id": "403302003",
         "name": "Black Tide's Champion"
     },
     {
@@ -6241,6 +6341,10 @@
     },
     {
         "id": "403303003",
+        "name": "Dark Sun Gryphon"
+    },
+    {
+        "id": "403303004",
         "name": "Dark Sun Gryphon"
     },
     {
@@ -6264,10 +6368,6 @@
         "name": "???"
     },
     {
-        "id": "403401103",
-        "name": "???"
-    },
-    {
         "id": "403401301",
         "name": "Flame Reaver of Doomsday Led Astray"
     },
@@ -6286,6 +6386,26 @@
     {
         "id": "404301001",
         "name": "Herta #ErrorModel"
+    },
+    {
+        "id": "405201001",
+        "name": "Servant of Tides"
+    },
+    {
+        "id": "405201002",
+        "name": "Servant of Tides"
+    },
+    {
+        "id": "405301001",
+        "name": "Lady of Crashing Waves"
+    },
+    {
+        "id": "405301002",
+        "name": "Lady of Crashing Waves"
+    },
+    {
+        "id": "405301003",
+        "name": "Lady of Crashing Waves"
     },
     {
         "id": "700203001",
@@ -7264,10 +7384,6 @@
         "name": "Decaying Shadow"
     },
     {
-        "id": "800304008",
-        "name": "Decaying Shadow"
-    },
-    {
         "id": "800304009",
         "name": "Decaying Shadow"
     },
@@ -7297,6 +7413,10 @@
     },
     {
         "id": "800304016",
+        "name": "Decaying Shadow"
+    },
+    {
+        "id": "800304018",
         "name": "Decaying Shadow"
     },
     {
@@ -8005,7 +8125,7 @@
     },
     {
         "id": "802501002",
-        "name": "..."
+        "name": "Berserker: Money-Grubbing Parasite"
     },
     {
         "id": "802501101",
@@ -8022,10 +8142,6 @@
     {
         "id": "802501104",
         "name": "Sky-Shrouding Stardevourer Swarm"
-    },
-    {
-        "id": "803201001",
-        "name": "Grunt: Field Personnel"
     },
     {
         "id": "803201002",
@@ -8070,10 +8186,6 @@
     {
         "id": "803201012",
         "name": "Grunt: Field Personnel"
-    },
-    {
-        "id": "803202001",
-        "name": "Grunt: Security Personnel"
     },
     {
         "id": "803202002",
@@ -8160,10 +8272,6 @@
         "name": "Senior Staff: Team Leader"
     },
     {
-        "id": "803301002",
-        "name": "Senior Staff: Team Leader (Illusion)"
-    },
-    {
         "id": "803301003",
         "name": "Senior Staff: Team Leader"
     },
@@ -8245,7 +8353,7 @@
     },
     {
         "id": "803401005",
-        "name": "..."
+        "name": "The Golden Gatekeeper"
     },
     {
         "id": "803401201",

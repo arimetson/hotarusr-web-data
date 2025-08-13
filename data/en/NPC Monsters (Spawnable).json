@@ -256,6 +256,10 @@
         "name": "Fulminating Wolflord"
     },
     {
+        "id": "2035010",
+        "name": "Sanerot Hearteater"
+    },
+    {
         "id": "3001010",
         "name": "Dreamjolt Troupe's Spring Loader"
     },
@@ -510,6 +514,18 @@
     {
         "id": "4043010",
         "name": "Herta #ErrorModel"
+    },
+    {
+        "id": "4044010",
+        "name": "First Genius, Entelechy, Zandar"
+    },
+    {
+        "id": "4052010",
+        "name": "Servant of Tides"
+    },
+    {
+        "id": "4053010",
+        "name": "Lady of Crashing Waves"
     },
     {
         "id": "7002010",
