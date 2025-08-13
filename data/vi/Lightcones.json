@@ -445,6 +445,11 @@
     "description": "Khiến tấn công của người trang bị tăng 8%. Mỗi khi mục tiêu phe địch có 1 Điểm Yếu thuộc tính khác nhau, thì sát thương người trang bị gây ra cho kẻ đó tăng 4%, tối đa tính 7 Điểm Yếu."
   },
   {
+    "id": "22005",
+    "name": "Món Ăn Vĩnh Hằng",
+    "description": "Tăng 16% Tấn Công của người trang bị. Sau khi người trang bị thi triển Chiến Kỹ, Tấn Công tăng 8%, hiệu ứng này tối đa cộng dồn 3 tầng."
+  },
+  {
     "id": "23000",
     "name": "Chuyến Tàu Đêm Trên Dải Ngân Hà",
     "description" : "Mỗi một kẻ địch trong trận, sẽ khiến Tấn Công của người trang bị tăng 9%, hiệu ứng này tối đa cộng dồn 5 tầng. Khi có kẻ địch bị phá vỡ Điểm Yếu, sát thương mà người trang bị gây ra sẽ tăng 30%, duy trì 1 hiệp."
@@ -673,6 +678,16 @@
     "id": "23046",
     "name": "Địa Ngục Thiêu Đốt Lý Tưởng",
     "description": "Khiến Tỷ Lệ Bạo Kích của người trang bị tăng 16%. Khi vào chiến đấu, nếu giới hạn Điểm Chiến Kỹ phe ta lớn hơn hoặc bằng 6, sẽ khiến Tấn Công của người trang bị tăng 40%. Sau mỗi lần người trang bị thi triển Chiến Kỹ, sẽ khiến Tấn Công của người trang bị tăng 10%, tối đa cộng dồn 4 lần."
+  },
+  {
+    "id": "23047",
+    "name": "Vì Sao Biển Cả Ca Vang",
+    "description": "Khiến Chính Xác Hiệu Ứng của người trang bị tăng 40%, khi mục tiêu phe địch rơi vào Hiệu Ứng Xấu do người trang bị thi triển, có 80% xác suất cơ bản khiến kẻ đó rơi vào trạng thái Mê Hồn, duy trì 3 hiệp, hiệu ứng cùng loại không thể cộng dồn. Trong trạng thái Mê Hồn, cứ mỗi Hiệu Ứng Xấu do người trang bị thi triển, Sát Thương Duy Trì phải chịu tăng 5%, hiệu ứng này tối đa cộng dồn 6 tầng, khi bị mục tiêu phe ta tấn công, Tốc Độ của người tấn công tăng 10%, duy trì 3 hiệp. Khi người trang bị rơi vào trạng thái không thể chiến đấu, sẽ xóa tất cả \"Mê Hồn\"."
+  },
+  {
+    "id": "23048",
+    "name": "Thời Đại Máu Vàng Khắc Ghi",
+    "description": "Tăng 64% Tấn Công của người trang bị. Sau khi thi triển Tuyệt Kỹ tấn công, sẽ hồi 1 Điểm Chiến Kỹ, sau khi người trang bị thi triển Chiến Kỹ lên 1 nhân vật phe ta, sẽ khiến sát thương Chiến Kỹ mục tiêu gây ra tăng 54%, duy trì 3 hiệp."
   },
   {
     "id": "24000",

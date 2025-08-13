@@ -256,6 +256,14 @@
         "name": "[Maze] \"Điện Cầu Nguyện U Tối\" Vách Mây Bình Minh"
     },
     {
+        "id": "20451",
+        "name": "[Maze] \"Biển Cả Rền Vang\" Styxia"
+    },
+    {
+        "id": "20452",
+        "name": "[Maze] Bên Ngoài Thần Thoại"
+    },
+    {
         "id": "30101",
         "name": "[Challenge] null"
     },
@@ -317,6 +325,10 @@
     },
     {
         "id": "30132",
+        "name": "[Challenge] null"
+    },
+    {
+        "id": "30135",
         "name": "[Challenge] null"
     },
     {
@@ -609,6 +621,34 @@
     },
     {
         "id": "40449",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40451",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40452",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40453",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40454",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40455",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40456",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40457",
         "name": "[Raid] null"
     },
     {

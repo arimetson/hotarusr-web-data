@@ -952,6 +952,26 @@
         "name": "Thanh Kiếm Hắc Ám, Hành Giả Trộm Lửa (Ô Nhiễm)"
     },
     {
+        "id": "1292",
+        "name": "Nữ Hầu Bọt Sóng"
+    },
+    {
+        "id": "1293",
+        "name": "Phu Nhân Sóng Cả"
+    },
+    {
+        "id": "1294",
+        "name": "Thiên Tài Đầu Tiên, Entelechy, Zandar"
+    },
+    {
+        "id": "1295",
+        "name": "Ảnh Tướng Nghiệp Hỏa"
+    },
+    {
+        "id": "1296",
+        "name": "Thú Ăn Tim Cuồng Vọng"
+    },
+    {
         "id": "310010",
         "name": "Quân Đoàn Phản Vật Chất"
     },
@@ -1026,5 +1046,9 @@
     {
         "id": "202410010",
         "name": "Tù Nhân Vượt Ngục"
+    },
+    {
+        "id": "204510110",
+        "name": "Siren Biển Sâu"
     }
 ]

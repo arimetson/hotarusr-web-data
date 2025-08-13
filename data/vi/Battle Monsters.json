@@ -564,6 +564,10 @@
         "name": "Đầu Nuốt Tinh Vân"
     },
     {
+        "id": "2032042",
+        "name": "Đầu Nuốt Tinh Vân"
+    },
+    {
         "id": "2032050",
         "name": "Vuốt Hủy Diệt Vị Diện"
     },
@@ -572,11 +576,19 @@
         "name": "Vuốt Hủy Diệt Vị Diện"
     },
     {
+        "id": "2032052",
+        "name": "Vuốt Hủy Diệt Vị Diện"
+    },
+    {
         "id": "2032060",
         "name": "Đuôi Thanh Tẩy Trần Thế"
     },
     {
         "id": "2032061",
+        "name": "Đuôi Thanh Tẩy Trần Thế"
+    },
+    {
+        "id": "2032062",
         "name": "Đuôi Thanh Tẩy Trần Thế"
     },
     {
@@ -594,6 +606,10 @@
     {
         "id": "2033021",
         "name": "Thú Tâm Nguyệt Thực & Ảo Ảnh \"Feixiao\""
+    },
+    {
+        "id": "2033022",
+        "name": "Thú Ăn Tim Cuồng Vọng"
     },
     {
         "id": "2034010",
@@ -630,6 +646,10 @@
     {
         "id": "2035011",
         "name": "Ảo Ảnh \"Feixiao\""
+    },
+    {
+        "id": "2035012",
+        "name": "Ảnh Tướng Nghiệp Hỏa"
     },
     {
         "id": "3001010",
@@ -734,10 +754,6 @@
     {
         "id": "3002053",
         "name": "Thùng Quý Tộc (Hình Chiếu)"
-    },
-    {
-        "id": "3002089",
-        "name": "null"
     },
     {
         "id": "3003010",
@@ -1320,6 +1336,30 @@
         "name": "Herta #MôHìnhLỗi"
     },
     {
+        "id": "4044010",
+        "name": "Thiên Tài Đầu Tiên, Entelechy, Zandar"
+    },
+    {
+        "id": "4044011",
+        "name": "Thiên Tài Đầu Tiên, Entelechy, Zandar"
+    },
+    {
+        "id": "4052010",
+        "name": "Nữ Hầu Bọt Sóng"
+    },
+    {
+        "id": "4052012",
+        "name": "Nữ Hầu Bọt Sóng"
+    },
+    {
+        "id": "4053010",
+        "name": "Phu Nhân Sóng Cả"
+    },
+    {
+        "id": "4053012",
+        "name": "Phu Nhân Sóng Cả"
+    },
+    {
         "id": "7001010",
         "name": "Cơ Giáp Nhập Ma - Nghê Tùy Tùng"
     },
@@ -1462,10 +1502,6 @@
     {
         "id": "8002040",
         "name": "Heo Đất Không Gian"
-    },
-    {
-        "id": "8002041",
-        "name": "null"
     },
     {
         "id": "8002050",
@@ -2088,10 +2124,6 @@
         "name": "Kẻ Lang Thang"
     },
     {
-        "id": "100202023",
-        "name": "Kẻ Lang Thang"
-    },
-    {
         "id": "100202101",
         "name": "Kẻ Lang Thang"
     },
@@ -2252,10 +2284,6 @@
         "name": "Cận Vệ Bờm Bạc"
     },
     {
-        "id": "100204018",
-        "name": "null"
-    },
-    {
         "id": "100204019",
         "name": "Cận Vệ Bờm Bạc"
     },
@@ -2354,10 +2382,6 @@
     {
         "id": "100205013",
         "name": "Xạ Thủ Bờm Bạc"
-    },
-    {
-        "id": "100205014",
-        "name": "null"
     },
     {
         "id": "100205015",
@@ -2753,6 +2777,10 @@
     },
     {
         "id": "100402015",
+        "name": "Gepard"
+    },
+    {
+        "id": "100402016",
         "name": "Gepard"
     },
     {
@@ -3253,6 +3281,10 @@
     },
     {
         "id": "101302015",
+        "name": "Cỗ Máy Tự Động - Sói Nanh Nhọn"
+    },
+    {
+        "id": "101302016",
         "name": "Cỗ Máy Tự Động - Sói Nanh Nhọn"
     },
     {
@@ -4840,6 +4872,22 @@
         "name": "Linh Cữu Gầm Gừ (Lỗi)"
     },
     {
+        "id": "203302201",
+        "name": "Thú Ăn Tim Cuồng Vọng"
+    },
+    {
+        "id": "203302202",
+        "name": "Thú Ăn Tim Cuồng Vọng"
+    },
+    {
+        "id": "203302203",
+        "name": "Thú Ăn Tim Cuồng Vọng"
+    },
+    {
+        "id": "203302204",
+        "name": "Thú Ăn Tim Cuồng Vọng"
+    },
+    {
         "id": "203401001",
         "name": "Chiến Thủ Boris - Hoolay"
     },
@@ -4870,6 +4918,22 @@
     {
         "id": "203401404",
         "name": "Vua Sói Sấm Sét Cuồng Nộ"
+    },
+    {
+        "id": "203501201",
+        "name": "Ảnh Tướng Nghiệp Hỏa"
+    },
+    {
+        "id": "203501202",
+        "name": "Ảnh Tướng Nghiệp Hỏa"
+    },
+    {
+        "id": "203501203",
+        "name": "Ảnh Tướng Nghiệp Hỏa"
+    },
+    {
+        "id": "203501204",
+        "name": "Ảnh Tướng Nghiệp Hỏa"
     },
     {
         "id": "300101001",
@@ -5117,7 +5181,7 @@
     },
     {
         "id": "300204009",
-        "name": "Ông Lão Đồng Hồ"
+        "name": "Ông Già Đồng Hồ"
     },
     {
         "id": "300204101",
@@ -5201,6 +5265,10 @@
     },
     {
         "id": "300301010",
+        "name": "Đoàn Kịch Ác Mộng - Chín Khét"
+    },
+    {
+        "id": "300301011",
         "name": "Đoàn Kịch Ác Mộng - Chín Khét"
     },
     {
@@ -5660,6 +5728,10 @@
         "name": "Argenti"
     },
     {
+        "id": "302401012",
+        "name": "Argenti"
+    },
+    {
         "id": "302401101",
         "name": "Argenti (Hoàn Chỉnh)"
     },
@@ -5812,6 +5884,10 @@
         "name": "Đấu Sĩ Thần Phạt"
     },
     {
+        "id": "401201015",
+        "name": "Đấu Sĩ Thần Phạt"
+    },
+    {
         "id": "401202001",
         "name": "Triết Gia Thần Phạt"
     },
@@ -5849,10 +5925,6 @@
     },
     {
         "id": "401202104",
-        "name": "Triết Gia Thần Phạt"
-    },
-    {
-        "id": "401202105",
         "name": "Triết Gia Thần Phạt"
     },
     {
@@ -5956,6 +6028,10 @@
         "name": "Tiên Phong Thần Phạt"
     },
     {
+        "id": "401301008",
+        "name": "Tiên Phong Thần Phạt"
+    },
+    {
         "id": "401301101",
         "name": "Tiên Phong Thần Phạt"
     },
@@ -5981,6 +6057,10 @@
     },
     {
         "id": "401401004",
+        "name": "Vị Thần Man Rợ, Vua Điên, Hóa Thân Của Phân Tranh"
+    },
+    {
+        "id": "401401006",
         "name": "Vị Thần Man Rợ, Vua Điên, Hóa Thân Của Phân Tranh"
     },
     {
@@ -6034,6 +6114,14 @@
     {
         "id": "402302002",
         "name": "Pegasus Đêm Trăng"
+    },
+    {
+        "id": "402302004",
+        "name": "Pegasus Đêm Trăng"
+    },
+    {
+        "id": "403201002",
+        "name": "Lưỡi Đao Thủy Triều Đen Ăn Mòn"
     },
     {
         "id": "403202001",
@@ -6216,6 +6304,10 @@
         "name": "Vật Chứa Tàn Khuyết"
     },
     {
+        "id": "403203002",
+        "name": "Rìu Ăn Mòn Thủy Triều Đen"
+    },
+    {
         "id": "403205002",
         "name": "Cung Thủ Mặt Trời Đen"
     },
@@ -6232,7 +6324,15 @@
         "name": "Thây Ma Thủy Triều Đen"
     },
     {
+        "id": "403301005",
+        "name": "Thây Ma Thủy Triều Đen"
+    },
+    {
         "id": "403302002",
+        "name": "Chiến Tướng Thủy Triều Đen"
+    },
+    {
+        "id": "403302003",
         "name": "Chiến Tướng Thủy Triều Đen"
     },
     {
@@ -6241,6 +6341,10 @@
     },
     {
         "id": "403303003",
+        "name": "Hắc Nhật Sư Ưng"
+    },
+    {
+        "id": "403303004",
         "name": "Hắc Nhật Sư Ưng"
     },
     {
@@ -6264,10 +6368,6 @@
         "name": "???"
     },
     {
-        "id": "403401103",
-        "name": "???"
-    },
-    {
         "id": "403401301",
         "name": "Hành Giả Trộm Lửa Lạc Lối Ngày Tận Thế"
     },
@@ -6286,6 +6386,26 @@
     {
         "id": "404301001",
         "name": "Herta #MôHìnhLỗi"
+    },
+    {
+        "id": "405201001",
+        "name": "Nữ Hầu Bọt Sóng"
+    },
+    {
+        "id": "405201002",
+        "name": "Nữ Hầu Bọt Sóng"
+    },
+    {
+        "id": "405301001",
+        "name": "Phu Nhân Sóng Cả"
+    },
+    {
+        "id": "405301002",
+        "name": "Phu Nhân Sóng Cả"
+    },
+    {
+        "id": "405301003",
+        "name": "Phu Nhân Sóng Cả"
     },
     {
         "id": "700203001",
@@ -7264,10 +7384,6 @@
         "name": "Hư Ảnh Kẻ Xâm Chiếm"
     },
     {
-        "id": "800304008",
-        "name": "Hư Ảnh Kẻ Xâm Chiếm"
-    },
-    {
         "id": "800304009",
         "name": "Hư Ảnh Kẻ Xâm Chiếm"
     },
@@ -7297,6 +7413,10 @@
     },
     {
         "id": "800304016",
+        "name": "Hư Ảnh Kẻ Xâm Chiếm"
+    },
+    {
+        "id": "800304018",
         "name": "Hư Ảnh Kẻ Xâm Chiếm"
     },
     {
@@ -8024,10 +8144,6 @@
         "name": "Bọ Nuốt Sao Che Trời"
     },
     {
-        "id": "803201001",
-        "name": "Nhân Viên Cơ Sở - Công Tác"
-    },
-    {
         "id": "803201002",
         "name": "Nhân Viên Cơ Sở - Công Tác"
     },
@@ -8070,10 +8186,6 @@
     {
         "id": "803201012",
         "name": "Nhân Viên Cơ Sở - Công Tác"
-    },
-    {
-        "id": "803202001",
-        "name": "Nhân Viên Cơ Sở - Bảo Vệ"
     },
     {
         "id": "803202002",
@@ -8158,10 +8270,6 @@
     {
         "id": "803301001",
         "name": "Nhân Viên Thâm Niên - Tổ Trưởng"
-    },
-    {
-        "id": "803301002",
-        "name": "Nhân Viên Thâm Niên - Tổ Trưởng (Ảo Giác)"
     },
     {
         "id": "803301003",

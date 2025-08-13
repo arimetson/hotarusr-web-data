@@ -472,6 +472,14 @@
         "name": "Hyacine"
     },
     {
+        "id": "1410",
+        "name": "Hysilens"
+    },
+    {
+        "id": "1412",
+        "name": "Cerydra"
+    },
+    {
         "id": "8001",
         "name": "{NICKNAME}"
     },
@@ -754,6 +762,14 @@
     {
         "id": "11409",
         "name": "Tinh Hồn Của Hyacine"
+    },
+    {
+        "id": "11410",
+        "name": "Tinh Hồn Của Hysilens"
+    },
+    {
+        "id": "11412",
+        "name": "Tinh Hồn Của Cerydra"
     },
     {
         "id": "18001",
@@ -1128,6 +1144,10 @@
         "name": "Kinh Doanh Tầm Cỡ Vũ Trụ"
     },
     {
+        "id": "22005",
+        "name": "Món Ăn Vĩnh Hằng"
+    },
+    {
         "id": "23000",
         "name": "Chuyến Tàu Đêm Trên Dải Ngân Hà"
     },
@@ -1314,6 +1334,14 @@
     {
         "id": "23046",
         "name": "Địa Ngục Thiêu Đốt Lý Tưởng"
+    },
+    {
+        "id": "23047",
+        "name": "Vì Sao Biển Cả Ca Vang"
+    },
+    {
+        "id": "23048",
+        "name": "Thời Đại Máu Vàng Khắc Ghi"
     },
     {
         "id": "24000",
@@ -1925,11 +1953,11 @@
     },
     {
         "id": "33225",
-        "name": "Hải Đăng Hát Giữa Biển Khơi"
+        "name": "Ngọn Hải Đăng Nơi Biển Cả Rền Vang"
     },
     {
         "id": "33226",
-        "name": "Nhịp Bước Hát Ca Giữa Biển Khơi"
+        "name": "Nhịp Bước Hát Ca Nơi Biển Cả Rền Vang"
     },
     {
         "id": "71000",
@@ -2488,6 +2516,10 @@
         "name": "Khối Xâm Lược"
     },
     {
+        "id": "110433",
+        "name": "Vây Khuyết Siren"
+    },
+    {
         "id": "110435",
         "name": "Nụ Tàn Ánh Hoàng Hôn"
     },
@@ -2694,6 +2726,10 @@
     {
         "id": "121004",
         "name": "Băng Game Vật Lý"
+    },
+    {
+        "id": "121005",
+        "name": "Thìa Vàng"
     },
     {
         "id": "122000",
@@ -4524,6 +4560,62 @@
         "name": "Dấu Mốc Tri Thức"
     },
     {
+        "id": "140578",
+        "name": "\"Mang Tiệc Vui Đến Ngày Mai\""
+    },
+    {
+        "id": "140579",
+        "name": "\"Giọt Sương Vàng\""
+    },
+    {
+        "id": "140580",
+        "name": "\"Rượu Mật Máu Đỏ\""
+    },
+    {
+        "id": "140581",
+        "name": "\"Cửa Sắc Màu\""
+    },
+    {
+        "id": "140582",
+        "name": "Sông Styx U Ám"
+    },
+    {
+        "id": "140583",
+        "name": "\"Gửi Thú Đại Địa\""
+    },
+    {
+        "id": "140584",
+        "name": "\"Rượu Mây\""
+    },
+    {
+        "id": "140585",
+        "name": "\"Rượu Mật Pha Thô!\""
+    },
+    {
+        "id": "140586",
+        "name": "\"Rực Cháy Như Ngọn Lửa Trong Ký Ức\""
+    },
+    {
+        "id": "140587",
+        "name": "\"Biển Sâu\""
+    },
+    {
+        "id": "140588",
+        "name": "\"Hãy Thương Xót Okhema\""
+    },
+    {
+        "id": "140589",
+        "name": "Huy Hiệu Săn Đuổi Lửa"
+    },
+    {
+        "id": "140590",
+        "name": "Cốc Gốm Của Hysilens"
+    },
+    {
+        "id": "140592",
+        "name": "Ngọn Lửa Của \"Phụ Thế\""
+    },
+    {
         "id": "149957",
         "name": "Ảnh Chụp Cùng March 7th"
     },
@@ -4810,6 +4902,14 @@
     {
         "id": "150088",
         "name": "Biến Số Anh Hùng"
+    },
+    {
+        "id": "150089",
+        "name": "Chứng Nhận 4 Sao Memchelin"
+    },
+    {
+        "id": "150090",
+        "name": "Huy Chương Cấp Sao Memchelin"
     },
     {
         "id": "180001",
@@ -8269,7 +8369,27 @@
     },
     {
         "id": "191913",
-        "name": "Lá Thư Từ Mifamem-Mạo Hiểm"
+        "name": "Lá Thư Từ Mifamem-Thám Hiểm"
+    },
+    {
+        "id": "191914",
+        "name": "Quân Ký Hoàng Đế - Mười Trận Chiến Kinh Điển"
+    },
+    {
+        "id": "191915",
+        "name": "Cẩm Nang Ẩm Thực Memchelin"
+    },
+    {
+        "id": "191916",
+        "name": "Tiếng Thở Dài Của Chiếc Cốc Tràn Đầy"
+    },
+    {
+        "id": "191917",
+        "name": "Nhật Ký Người Hành Hương"
+    },
+    {
+        "id": "191918",
+        "name": "Thư Của Serva"
     },
     {
         "id": "191919",
@@ -8278,6 +8398,26 @@
     {
         "id": "191920",
         "name": "████████████"
+    },
+    {
+        "id": "191921",
+        "name": "Quân Ký Hoàng Đế - Mười Trận Chiến Kinh Điển - Quyển 2"
+    },
+    {
+        "id": "191922",
+        "name": "Xem Rượu Đoán Người - Bàn Về Rượu Mật Và Tính Cách"
+    },
+    {
+        "id": "191923",
+        "name": "Bưu Thiếp Âm Giới Của Pollux"
+    },
+    {
+        "id": "191924",
+        "name": "Mật Ngữ Của Biển Sâu"
+    },
+    {
+        "id": "191925",
+        "name": "Mật Lệnh Của Hoàng Đế: Danh Sách \"Thanh Tẩy\""
     },
     {
         "id": "200001",
@@ -8448,6 +8588,14 @@
         "name": "Aglaea - Thời Trang"
     },
     {
+        "id": "200143",
+        "name": "Hysilens - Chinh Phạt"
+    },
+    {
+        "id": "200144",
+        "name": "Cerydra - Chinh Phạt"
+    },
+    {
         "id": "201001",
         "name": "March 7th - Bảo Hộ"
     },
@@ -8573,7 +8721,7 @@
     },
     {
         "id": "202036",
-        "name": "{NICKNAME} - Người Cầm Bút"
+        "name": "{NICKNAME} - Người Chấp Bút"
     },
     {
         "id": "208001",
@@ -9213,7 +9361,31 @@
     },
     {
         "id": "210405",
-        "name": "\"Mê Cảnh\""
+        "name": "\"Khu Rừng Lạc Lối\""
+    },
+    {
+        "id": "210406",
+        "name": "\"Khi Gió Vẫn Còn Ấm\""
+    },
+    {
+        "id": "210407",
+        "name": "\"Bên Dưới Bọt Biển\""
+    },
+    {
+        "id": "210408",
+        "name": "\"Bọt Sóng Ngưng Đọng\""
+    },
+    {
+        "id": "210409",
+        "name": "\"Công Lý Thần Thoại\""
+    },
+    {
+        "id": "210410",
+        "name": "\"NAME==Mythos\""
+    },
+    {
+        "id": "210411",
+        "name": "NAME==Logos"
     },
     {
         "id": "220000",
@@ -9298,6 +9470,10 @@
     {
         "id": "221011",
         "name": "Đồng Hành Cùng Bạn"
+    },
+    {
+        "id": "221012",
+        "name": "Nếm Một Ngụm Hạnh Phúc"
     },
     {
         "id": "222000",
@@ -11204,6 +11380,78 @@
         "name": "Thời Gian Vui Vẻ Của {NICKNAME}"
     },
     {
+        "id": "260000",
+        "name": "Tiền Vàng Yêu Tinh"
+    },
+    {
+        "id": "260013",
+        "name": "Xà Lách"
+    },
+    {
+        "id": "260014",
+        "name": "Cà Chua Đỏ"
+    },
+    {
+        "id": "260015",
+        "name": "Lúa Mì"
+    },
+    {
+        "id": "260016",
+        "name": "Cà Rốt"
+    },
+    {
+        "id": "260017",
+        "name": "Hành Nước Mắt"
+    },
+    {
+        "id": "260018",
+        "name": "Khoai Tây"
+    },
+    {
+        "id": "260019",
+        "name": "Quả Lốp Bốp"
+    },
+    {
+        "id": "260020",
+        "name": "Bắp Cải Xanh"
+    },
+    {
+        "id": "260021",
+        "name": "Bí Đỏ"
+    },
+    {
+        "id": "260022",
+        "name": "Quả Gai"
+    },
+    {
+        "id": "260023",
+        "name": "Đậu Hà Lan"
+    },
+    {
+        "id": "260024",
+        "name": "Ớt Hít Hà"
+    },
+    {
+        "id": "260031",
+        "name": "Mật Ong"
+    },
+    {
+        "id": "260032",
+        "name": "Quả Chua"
+    },
+    {
+        "id": "260033",
+        "name": "Thịt"
+    },
+    {
+        "id": "260034",
+        "name": "Kem"
+    },
+    {
+        "id": "260035",
+        "name": "Kết Tinh Bội Thu"
+    },
+    {
         "id": "261001",
         "name": "Rương Công Cụ Chíp Chíp"
     },
@@ -11496,6 +11744,10 @@
         "name": "Hành Trình Gặp Gỡ: Chim Giấy Đại Chiến"
     },
     {
+        "id": "309005",
+        "name": "Hành Trình Gặp Gỡ: Quà Của Đội Tàu"
+    },
+    {
         "id": "309006",
         "name": "Hành Trình Gặp Gỡ: Địa Cung Bí Ẩn"
     },
@@ -11554,6 +11806,14 @@
     {
         "id": "310011",
         "name": "Herta - Thỏa Thuận Bổ Sung Du Ngoạn"
+    },
+    {
+        "id": "311000",
+        "name": "Đại Herta-Thỏa Thuận Hỗ Trợ Chiến Lược"
+    },
+    {
+        "id": "311001",
+        "name": "Đại Herta-Thỏa Thuận Hợp Tác Chiến Lược"
     },
     {
         "id": "400004",
@@ -11842,6 +12102,10 @@
     {
         "id": "402034",
         "name": "Tàn Tích Dị Thú"
+    },
+    {
+        "id": "402035",
+        "name": "May Mắn Đầy Ly"
     },
     {
         "id": "403001",
@@ -12194,6 +12458,10 @@
     {
         "id": "406034",
         "name": "Công Thức: Tàn Tích Dị Thú"
+    },
+    {
+        "id": "406035",
+        "name": "Công Thức: May Mắn Đầy Ly"
     },
     {
         "id": "407001",
@@ -12606,5 +12874,9 @@
     {
         "id": "1100101",
         "name": "Đông Đi Xuân Đến"
+    },
+    {
+        "id": "1131001",
+        "name": "Thư Tay Ngày Xuân"
     }
 ]
