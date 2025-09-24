@@ -1,955 +1,155 @@
 [
     {
-        "id": "47",
-        "name": "Incineration Shadewalker"
-    },
-    {
-        "id": "48",
-        "name": "Blaze Out of Space"
-    },
-    {
-        "id": "49",
-        "name": "Silvermane Lieutenant (Bug)"
-    },
-    {
-        "id": "50",
-        "name": "Silvermane Lieutenant"
-    },
-    {
-        "id": "51",
-        "name": "Silvermane Soldier"
-    },
-    {
-        "id": "52",
-        "name": "Silvermane Gunner"
-    },
-    {
-        "id": "54",
-        "name": "Gepard"
-    },
-    {
-        "id": "56",
-        "name": "Ice Out of Space"
-    },
-    {
-        "id": "57",
-        "name": "Automaton Spider"
-    },
-    {
-        "id": "58",
-        "name": "Automaton Direwolf"
-    },
-    {
-        "id": "59",
-        "name": "Svarog"
-    },
-    {
-        "id": "60",
-        "name": "Cocolia"
-    },
-    {
-        "id": "66",
-        "name": "Automaton Hound"
-    },
-    {
-        "id": "68",
-        "name": "Automaton Grizzly"
-    },
-    {
-        "id": "70",
-        "name": "Everwinter Shadewalker"
-    },
-    {
-        "id": "72",
-        "name": "Flamespawn"
-    },
-    {
-        "id": "73",
-        "name": "Frostspawn"
-    },
-    {
-        "id": "76",
+        "id": "103201",
         "name": "Searing Prowler"
     },
     {
-        "id": "77",
-        "name": "Vagrant"
+        "id": "103202",
+        "name": "Ice Out of Space"
     },
     {
-        "id": "78",
-        "name": "Automaton Beetle"
-    },
-    {
-        "id": "80",
-        "name": "Frigid Prowler"
-    },
-    {
-        "id": "81",
-        "name": "Bronya"
-    },
-    {
-        "id": "117",
-        "name": "Decaying Shadow"
-    },
-    {
-        "id": "167",
-        "name": "Automaton Grizzly (Bug)"
-    },
-    {
-        "id": "168",
-        "name": "Automaton Direwolf (Bug)"
-    },
-    {
-        "id": "169",
-        "name": "Searing Prowler (Bug)"
-    },
-    {
-        "id": "170",
-        "name": "Frigid Prowler (Bug)"
-    },
-    {
-        "id": "171",
-        "name": "Ice Out of Space (Bug)"
-    },
-    {
-        "id": "172",
-        "name": "Blaze Out of Space (Bug)"
-    },
-    {
-        "id": "173",
-        "name": "Guardian Shadow (Bug)"
-    },
-    {
-        "id": "174",
-        "name": "Decaying Shadow (Bug)"
-    },
-    {
-        "id": "175",
-        "name": "Voidranger: Trampler (Bug)"
-    },
-    {
-        "id": "176",
-        "name": "Stormbringer (Bug)"
-    },
-    {
-        "id": "184",
-        "name": "Guardian Shadow"
-    },
-    {
-        "id": "186",
-        "name": "Voidranger: Trampler"
-    },
-    {
-        "id": "187",
+        "id": "103203",
         "name": "Stormbringer"
     },
     {
-        "id": "1010",
-        "name": "Auxiliary Robot Arm Unit"
-    },
-    {
-        "id": "1013",
-        "name": "Ice Edge"
-    },
-    {
-        "id": "1025",
-        "name": "Baryon"
-    },
-    {
-        "id": "1026",
-        "name": "Antibaryon"
-    },
-    {
-        "id": "1027",
-        "name": "Voidranger: Reaver"
-    },
-    {
-        "id": "1028",
-        "name": "Voidranger: Distorter"
-    },
-    {
-        "id": "1030",
-        "name": "Cocolia, Mother of Deception"
-    },
-    {
-        "id": "1031",
-        "name": "Lance of the Eternal Freeze"
-    },
-    {
-        "id": "1033",
-        "name": "Doomsday Beast"
-    },
-    {
-        "id": "1034",
-        "name": "Antimatter Engine"
-    },
-    {
-        "id": "1035",
-        "name": "Disaster's Right Hand"
-    },
-    {
-        "id": "1036",
-        "name": "Dawn's Left Hand"
-    },
-    {
-        "id": "1037",
-        "name": "Voidranger: Eliminator"
-    },
-    {
-        "id": "1038",
-        "name": "Imaginary Weaver"
-    },
-    {
-        "id": "1039",
-        "name": "Silvermane Cannoneer"
-    },
-    {
-        "id": "1041",
-        "name": "Warp Trotter"
-    },
-    {
-        "id": "1042",
-        "name": "Mask of No Thought"
-    },
-    {
-        "id": "1044",
-        "name": "Cocolia (Complete)"
-    },
-    {
-        "id": "1045",
-        "name": "Svarog (Complete)"
-    },
-    {
-        "id": "1047",
-        "name": "Windspawn"
-    },
-    {
-        "id": "1048",
-        "name": "Thunderspawn"
-    },
-    {
-        "id": "1049",
-        "name": "Stellaron Hunter: Kafka"
-    },
-    {
-        "id": "1050",
-        "name": "Mara-Struck Soldier"
-    },
-    {
-        "id": "1051",
-        "name": "Cloud Knights Patroller"
-    },
-    {
-        "id": "1052",
-        "name": "Disciples of Sanctus Medicus: Shape Shifter"
-    },
-    {
-        "id": "1053",
+        "id": "103204",
         "name": "Aurumaton Gatekeeper"
     },
     {
-        "id": "1054",
-        "name": "Sequence Trotter"
+        "id": "103205",
+        "name": "Voidranger: Trampler"
     },
     {
-        "id": "1055",
-        "name": "Trotter of Destruction"
+        "id": "103206",
+        "name": "Frigid Prowler"
     },
     {
-        "id": "1056",
-        "name": "Trotter of Preservation"
+        "id": "103207",
+        "name": "Guardian Shadow"
     },
     {
-        "id": "1057",
-        "name": "Trotter of Abundance"
+        "id": "103209",
+        "name": "Silvermane Lieutenant"
     },
     {
-        "id": "1058",
-        "name": "Gepard (Complete)"
+        "id": "103210",
+        "name": "Decaying Shadow"
     },
     {
-        "id": "1059",
-        "name": "Stellaron Hunter: Kafka (Complete)"
+        "id": "103211",
+        "name": "Disciples of Sanctus Medicus: Shape Shifter"
     },
     {
-        "id": "1060",
-        "name": "Entranced Ingenium: Illumination Dragonfish"
+        "id": "103212",
+        "name": "Blaze Out of Space"
     },
     {
-        "id": "1061",
-        "name": "Entranced Ingenium: Obedient Dracolion"
+        "id": "301003",
+        "name": "Automaton Grizzly"
     },
     {
-        "id": "1062",
-        "name": "Entranced Ingenium: Golden Cloud Toad"
+        "id": "301004",
+        "name": "Svarog"
     },
     {
-        "id": "1063",
+        "id": "301006",
+        "name": "Cocolia"
+    },
+    {
+        "id": "307001",
         "name": "Automaton Grizzly (Complete)"
     },
     {
-        "id": "1079",
-        "name": "Disciples of Sanctus Medicus: Internal Alchemist"
+        "id": "307011",
+        "name": "Gepard (Complete)"
     },
     {
-        "id": "1080",
-        "name": "Abundant Ebon Deer"
+        "id": "307021",
+        "name": "Svarog (Complete)"
     },
     {
-        "id": "1081",
-        "name": "Twig of Wintry Wind"
+        "id": "307031",
+        "name": "Stellaron Hunter: Kafka (Complete)"
     },
     {
-        "id": "1082",
-        "name": "Twig of Marple Leaf"
+        "id": "307041",
+        "name": "Cocolia (Complete)"
     },
     {
-        "id": "1083",
-        "name": "Twig of Glorious Blooms"
+        "id": "307111",
+        "name": "Automaton Direwolf"
     },
     {
-        "id": "1084",
-        "name": "Twig of Lavish Fruits"
-    },
-    {
-        "id": "1085",
-        "name": "Abundant Ebon Deer (Complete)"
-    },
-    {
-        "id": "1090",
-        "name": "Cloud Knight Lieutenant: Yanqing"
-    },
-    {
-        "id": "1091",
-        "name": "Flying Sword"
-    },
-    {
-        "id": "1093",
-        "name": "Phantylia the Undying"
-    },
-    {
-        "id": "1094",
-        "name": "Abundance Lotus"
-    },
-    {
-        "id": "1096",
-        "name": "Destruction Lotus"
-    },
-    {
-        "id": "1099",
-        "name": "Abundance Sprite: Golden Hound"
-    },
-    {
-        "id": "1100",
-        "name": "Abundance Sprite: Wooden Lupus"
-    },
-    {
-        "id": "1101",
-        "name": "Abundance Sprite: Malefic Ape"
-    },
-    {
-        "id": "1102",
+        "id": "307114",
         "name": "The Ascended"
     },
     {
-        "id": "1103",
-        "name": "Disciples of Sanctus Medicus: Ballistarius"
+        "id": "307121",
+        "name": "Automaton Direwolf (Bug)"
     },
     {
-        "id": "1109",
-        "name": "Swarm: True Sting (Complete)"
+        "id": "307122",
+        "name": "Searing Prowler (Bug)"
     },
     {
-        "id": "1110",
-        "name": "Juvenile Sting"
+        "id": "307123",
+        "name": "Voidranger: Trampler (Bug)"
     },
     {
-        "id": "1111",
-        "name": "Lesser Sting"
-    },
-    {
-        "id": "1112",
-        "name": "Grunt: Field Personnel"
-    },
-    {
-        "id": "1113",
-        "name": "Grunt: Security Personnel"
-    },
-    {
-        "id": "1114",
-        "name": "Senior Staff: Team Leader"
-    },
-    {
-        "id": "1115",
-        "name": "Wraith Warden"
-    },
-    {
-        "id": "1116",
-        "name": "Mara-Struck Warden"
-    },
-    {
-        "id": "1117",
-        "name": "Cloud Knight Lieutenant: Yanqing (Complete)"
-    },
-    {
-        "id": "1118",
-        "name": "null"
-    },
-    {
-        "id": "1120",
-        "name": "Disciples of Sanctus Medicus: Shape Shifter (Bug)"
-    },
-    {
-        "id": "1121",
-        "name": "Aurumaton Gatekeeper (Bug)"
-    },
-    {
-        "id": "1122",
-        "name": "Aurumaton Spectral Envoy"
-    },
-    {
-        "id": "1123",
-        "name": "Argenti"
-    },
-    {
-        "id": "1124",
-        "name": "\"The Honored\""
-    },
-    {
-        "id": "1125",
-        "name": "\"Speartip\""
-    },
-    {
-        "id": "1126",
-        "name": "\"The Shield\""
-    },
-    {
-        "id": "1127",
-        "name": "Abundance Sprite: Malefic Ape (Bug)"
-    },
-    {
-        "id": "1128",
+        "id": "307124",
         "name": "The Ascended (Bug)"
     },
     {
-        "id": "1129",
-        "name": "Swarm: True Sting"
+        "id": "307221",
+        "name": "Frigid Prowler (Bug)"
     },
     {
-        "id": "1130",
-        "name": "Dreamjolt Troupe's Bubble Hound"
+        "id": "307222",
+        "name": "Ice Out of Space (Bug)"
     },
     {
-        "id": "1131",
-        "name": "Aurumaton Spectral Envoy (Bug)"
+        "id": "307223",
+        "name": "Decaying Shadow (Bug)"
     },
     {
-        "id": "1133",
-        "name": "Senior Staff: Team Leader (Bug)"
+        "id": "307224",
+        "name": "Aurumaton Gatekeeper (Bug)"
     },
     {
-        "id": "1134",
-        "name": "Dreamjolt Troupe's Mr. Domescreen"
+        "id": "307314",
+        "name": "Abundance Sprite: Malefic Ape"
     },
     {
-        "id": "1135",
-        "name": "Memory Zone Meme \"Something Unto Death\""
+        "id": "307321",
+        "name": "Silvermane Lieutenant (Bug)"
     },
     {
-        "id": "1136",
-        "name": "Sombrous Sepulcher"
+        "id": "307322",
+        "name": "Blaze Out of Space (Bug)"
     },
     {
-        "id": "1139",
-        "name": "Starcrusher Swarm King: Skaracabaz (Synthetic)"
+        "id": "307323",
+        "name": "Stormbringer (Bug)"
     },
     {
-        "id": "1140",
-        "name": "Gepard (Illusion)"
+        "id": "307324",
+        "name": "Abundance Sprite: Malefic Ape (Bug)"
     },
     {
-        "id": "1141",
-        "name": "Cocolia (Illusion)"
+        "id": "307331",
+        "name": "Abundant Ebon Deer (Complete)"
     },
     {
-        "id": "1142",
-        "name": "Cocolia, Mother of Deception (Illusion)"
+        "id": "307421",
+        "name": "Automaton Grizzly (Bug)"
     },
     {
-        "id": "1144",
-        "name": "Cloud Knight Lieutenant: Yanqing (Illusion)"
+        "id": "307521",
+        "name": "Guardian Shadow (Bug)"
     },
     {
-        "id": "1145",
-        "name": "Abundant Ebon Deer (Illusion)"
-    },
-    {
-        "id": "1146",
-        "name": "Stellaron Hunter: Kafka (Illusion)"
-    },
-    {
-        "id": "1148",
-        "name": "Argenti (Complete)"
-    },
-    {
-        "id": "1149",
-        "name": "Gnaw Sting"
-    },
-    {
-        "id": "1150",
-        "name": "Ten Stonehearts: Aventurine of Stratagems"
-    },
-    {
-        "id": "1151",
-        "name": "\"All or Nothing\""
-    },
-    {
-        "id": "1152",
-        "name": "Dreamjolt Troupe's Birdskull"
-    },
-    {
-        "id": "1153",
-        "name": "Memory Zone Meme \"Heartbreaker\""
-    },
-    {
-        "id": "1154",
-        "name": "Dreamjolt Troupe's Spring Loader"
-    },
-    {
-        "id": "1155",
-        "name": "Lordly Trashcan"
-    },
-    {
-        "id": "1157",
-        "name": "Memory Zone Meme \"Allseer\""
-    },
-    {
-        "id": "1158",
-        "name": "Dreamjolt Troupe's Sweet Gorilla"
-    },
-    {
-        "id": "1159",
-        "name": "Dreamjolt Troupe's Beyond Overcooked"
-    },
-    {
-        "id": "1160",
-        "name": "Stellaron Hunter: Sam"
-    },
-    {
-        "id": "1161",
-        "name": "Dreamjolt Troupe's Winder Goon"
-    },
-    {
-        "id": "1162",
-        "name": "Memory Zone Meme \"Something In The Mirror\""
-    },
-    {
-        "id": "1163",
-        "name": "Memory Zone Meme \"Shell of Faded Rage\""
-    },
-    {
-        "id": "1164",
-        "name": "Memory Zone Meme \"Something Unto Death\" (Complete)"
-    },
-    {
-        "id": "1165",
-        "name": "Dreamjolt Troupe's Beyond Overcooked (Bug)"
-    },
-    {
-        "id": "1166",
-        "name": "Dreamjolt Troupe's Sweet Gorilla (Bug)"
-    },
-    {
-        "id": "1167",
-        "name": "Dreamjolt Troupe's Fortune Seller"
-    },
-    {
-        "id": "1168",
-        "name": "\"Past Confined and Caged\""
-    },
-    {
-        "id": "1169",
-        "name": "\"Tomorrow in Harmonious Chords\""
-    },
-    {
-        "id": "1170",
-        "name": "\"Present Inebriated in Revelry\""
-    },
-    {
-        "id": "1171",
-        "name": "Memory Zone Meme \"Insatiable Vanity\""
-    },
-    {
-        "id": "1172",
-        "name": "\"Harmonious Choir\" The Great Septimus"
-    },
-    {
-        "id": "1173",
-        "name": "Echo of Faded Dreams"
-    },
-    {
-        "id": "1174",
-        "name": "The Past, Present, and Eternal Show"
-    },
-    {
-        "id": "1175",
-        "name": "Annihilator of Desolation Mistral"
-    },
-    {
-        "id": "1180",
-        "name": "Annihilator of Desolation Mistral: Mother of Deception"
-    },
-    {
-        "id": "1181",
-        "name": "Silver Knight of Virtuous Gallantry"
-    },
-    {
-        "id": "1182",
-        "name": "The Honored"
-    },
-    {
-        "id": "1183",
-        "name": "Speartip"
-    },
-    {
-        "id": "1184",
-        "name": "The Shield"
-    },
-    {
-        "id": "1185",
-        "name": "Stellaron Hunter: Sam (Complete)"
-    },
-    {
-        "id": "1186",
-        "name": "Ten Stonehearts: Aventurine of Stratagems (Complete)"
-    },
-    {
-        "id": "1189",
-        "name": "\"Tomorrow in Harmonious Chords\" (Bug)"
-    },
-    {
-        "id": "1190",
-        "name": "\"Present Inebriated in Revelry\" (Bug)"
-    },
-    {
-        "id": "1191",
-        "name": "\"Past Confined and Caged\" (Bug)"
-    },
-    {
-        "id": "1192",
-        "name": "The Past, Present, and Eternal Show (Complete)"
-    },
-    {
-        "id": "1193",
-        "name": "Cirrus (Complete)"
-    },
-    {
-        "id": "1194",
-        "name": "Soulhook Sovereign"
-    },
-    {
-        "id": "1199",
-        "name": "Starbane Doombringer"
-    },
-    {
-        "id": "1203",
-        "name": "Sableclaw Wolftrooper"
-    },
-    {
-        "id": "1204",
-        "name": "Eclipse Wolftrooper"
-    },
-    {
-        "id": "1205",
-        "name": "Howling Casket"
-    },
-    {
-        "id": "1206",
-        "name": "Borisin Warhead: Hoolay"
-    },
-    {
-        "id": "1207",
-        "name": "Furiae Warrior"
-    },
-    {
-        "id": "1208",
-        "name": "Shadow of \"Feixiao\""
-    },
-    {
-        "id": "1209",
-        "name": "Ecliptic Inner Beast & Shadow of \"Feixiao\""
-    },
-    {
-        "id": "1210",
-        "name": "Nebula Devourer"
-    },
-    {
-        "id": "1211",
-        "name": "Planeshred Claws"
-    },
-    {
-        "id": "1212",
-        "name": "Worldpurge Tail"
-    },
-    {
-        "id": "1213",
-        "name": "Daring Diceroller"
-    },
-    {
-        "id": "1215",
-        "name": "\"All or Nothing: Double Fortune\""
-    },
-    {
-        "id": "1216",
-        "name": "Opportunistic Provocateur"
-    },
-    {
-        "id": "1221",
-        "name": "Furiae Philosopher"
-    },
-    {
-        "id": "1222",
-        "name": "Wonder Forest's Banacademic Office Staff"
-    },
-    {
-        "id": "1223",
-        "name": "Banacademic Office's Assistanana"
-    },
-    {
-        "id": "1224",
-        "name": "Banacademic Office's Fortune BananAdvisor"
-    },
-    {
-        "id": "1225",
-        "name": "Banacademic Office's Dreamweaver BananAdvisor"
-    },
-    {
-        "id": "1226",
-        "name": "Banacademic Office's Charmony BananAdvisor"
-    },
-    {
-        "id": "1227",
-        "name": "Furiae Archer"
-    },
-    {
-        "id": "1228",
-        "name": "Furiae Praetor"
-    },
-    {
-        "id": "1229",
-        "name": "Cacophonic Conductor"
-    },
-    {
-        "id": "1231",
-        "name": "Noontide Gryphon"
-    },
-    {
-        "id": "1232",
-        "name": "Borisin Warhead: Hoolay (Complete)"
-    },
-    {
-        "id": "1233",
-        "name": "Blaznana Monkey Trick"
-    },
-    {
-        "id": "1238",
-        "name": "\"Spirithief\" Bartholos"
-    },
-    {
-        "id": "1239",
-        "name": "Furiae Troupe"
-    },
-    {
-        "id": "1240",
-        "name": "The Giver, Master of Legions, Lance of Fury"
-    },
-    {
-        "id": "1241",
-        "name": "Savage God, Mad King, Incarnation of Strife"
-    },
-    {
-        "id": "1242",
-        "name": "Sky-Shrouding Stardevourer Swarm"
-    },
-    {
-        "id": "1245",
-        "name": "Meteoric Eagle"
-    },
-    {
-        "id": "1246",
-        "name": "Tide-Eroded Blade"
-    },
-    {
-        "id": "1247",
-        "name": "Moonlit Pegasus"
-    },
-    {
-        "id": "1248",
-        "name": "Flame Reaver of the Deepest Dark"
-    },
-    {
-        "id": "1249",
-        "name": "Long-Shattered Vessel"
-    },
-    {
-        "id": "1250",
-        "name": "Black Tide's Corroded Axe"
-    },
-    {
-        "id": "1251",
-        "name": "Black Tide's Corroded Daemon"
-    },
-    {
-        "id": "1252",
-        "name": "Pollux, Netherwing Husk, Ferry of Souls"
-    },
-    {
-        "id": "1253",
-        "name": "The Long Arms of Sorrow"
-    },
-    {
-        "id": "1255",
-        "name": "Furiae Praetor (Bug)"
-    },
-    {
-        "id": "1256",
-        "name": "Howling Casket (Bug)"
-    },
-    {
-        "id": "1257",
-        "name": "Memory Zone Meme \"Shell of Faded Rage\" (Bug)"
-    },
-    {
-        "id": "1258",
-        "name": "Savage God, Mad King, Incarnation of Strife (Complete)"
-    },
-    {
-        "id": "1259",
-        "name": "The Giver, Master of Legions, Lance of Fury (Complete)"
-    },
-    {
-        "id": "1260",
-        "name": "Conquer or Be Conquered"
-    },
-    {
-        "id": "1261",
-        "name": "Wonder Forest's Banacademic Office Staff (Complete)"
-    },
-    {
-        "id": "1262",
-        "name": "Banacademic Office's Assistanana (Complete)"
-    },
-    {
-        "id": "1263",
-        "name": "Banacademic Office's Fortune BananAdvisor (Complete)"
-    },
-    {
-        "id": "1264",
-        "name": "Banacademic Office's Dreamweaver BananAdvisor (Complete)"
-    },
-    {
-        "id": "1265",
-        "name": "Banacademic Office's Charmony BananAdvisor (Complete)"
-    },
-    {
-        "id": "1266",
-        "name": "Fulminating Wolflord"
-    },
-    {
-        "id": "1270",
-        "name": "Black Tide Council"
-    },
-    {
-        "id": "1271",
-        "name": "Black Tide's Decrepit Bow"
-    },
-    {
-        "id": "1272",
-        "name": "Dark Sun Gryphon"
-    },
-    {
-        "id": "1273",
-        "name": "Black Tide's Champion"
-    },
-    {
-        "id": "1274",
-        "name": "Sublime, Radiant, Avatar of the Sky"
-    },
-    {
-        "id": "1275",
-        "name": "Daythunder Raven"
-    },
-    {
-        "id": "1276",
-        "name": "Twig of Hundred Eyes"
-    },
-    {
-        "id": "1277",
-        "name": "Shoot of Hundred Eyes"
-    },
-    {
-        "id": "1278",
-        "name": "Languid Ethmoid Bone"
-    },
-    {
-        "id": "1279",
-        "name": "Dried Lacrimal Bone"
-    },
-    {
-        "id": "1280",
-        "name": "Pollux, Netherwing Husk, Ferry of Souls (Complete)"
-    },
-    {
-        "id": "1283",
-        "name": "Flame Reaver of Doomsday Led Astray"
-    },
-    {
-        "id": "1285",
-        "name": "Cocolia (Corrupted)"
-    },
-    {
-        "id": "1286",
-        "name": "Cloud Knight Lieutenant: Yanqing (Corrupted)"
-    },
-    {
-        "id": "1287",
-        "name": "Borisin Warhead: Hoolay (Corrupted)"
-    },
-    {
-        "id": "1288",
-        "name": "Thousand-Faced Skott (Corrupted)"
-    },
-    {
-        "id": "1289",
-        "name": "Savage God, Mad King, Incarnation of Strife (Corrupted)"
-    },
-    {
-        "id": "1290",
-        "name": "Pollux, Netherwing Husk, Ferry of Souls (Corrupted)"
-    },
-    {
-        "id": "1291",
-        "name": "Flame Reaver of the Deepest Dark (Corrupted)"
-    },
-    {
-        "id": "1292",
-        "name": "Servant of Tides"
-    },
-    {
-        "id": "1293",
-        "name": "Lady of Crashing Waves"
-    },
-    {
-        "id": "1294",
-        "name": "First Genius, Entelechy, Zandar"
-    },
-    {
-        "id": "1295",
-        "name": "Hellcharred Shadow General"
-    },
-    {
-        "id": "1296",
-        "name": "Sanerot Hearteater"
+        "id": "307523",
+        "name": "Disciples of Sanctus Medicus: Shape Shifter (Bug)"
     },
     {
         "id": "310010",
@@ -958,6 +158,26 @@
     {
         "id": "310030",
         "name": "Fragmentum Monster"
+    },
+    {
+        "id": "310051",
+        "name": "Dreamjolt Troupe's Beyond Overcooked"
+    },
+    {
+        "id": "310059",
+        "name": "Memory Zone Meme \"Something Unto Death\""
+    },
+    {
+        "id": "310061",
+        "name": "Dark Sun Gryphon"
+    },
+    {
+        "id": "310150",
+        "name": "Black Tide's Corroded Daemon"
+    },
+    {
+        "id": "311020",
+        "name": "null"
     },
     {
         "id": "311031",
@@ -972,8 +192,64 @@
         "name": "Silvermane Guard"
     },
     {
+        "id": "312051",
+        "name": "Howling Casket"
+    },
+    {
+        "id": "312059",
+        "name": "Borisin Warhead: Hoolay"
+    },
+    {
+        "id": "312129",
+        "name": "Argenti"
+    },
+    {
+        "id": "312171",
+        "name": "Aurumaton Spectral Envoy"
+    },
+    {
+        "id": "312201",
+        "name": "Cloud Knights Patroller"
+    },
+    {
+        "id": "312202",
+        "name": "Wraith Warden"
+    },
+    {
+        "id": "312203",
+        "name": "Disciples of Sanctus Medicus: Ballistarius"
+    },
+    {
+        "id": "312251",
+        "name": "\"Tomorrow in Harmonious Chords\""
+    },
+    {
+        "id": "313010",
+        "name": "Senior Staff: Team Leader"
+    },
+    {
         "id": "313081",
         "name": "Dreamjolt Troupe"
+    },
+    {
+        "id": "313100",
+        "name": "Memory Zone Meme \"Shell of Faded Rage\""
+    },
+    {
+        "id": "313131",
+        "name": "Black Tide's Champion"
+    },
+    {
+        "id": "314030",
+        "name": "Furiae Praetor"
+    },
+    {
+        "id": "314040",
+        "name": "Noontide Gryphon"
+    },
+    {
+        "id": "314051",
+        "name": "Moonlit Pegasus"
     },
     {
         "id": "314071",
@@ -984,8 +260,168 @@
         "name": "Black Tide Creature"
     },
     {
+        "id": "314101",
+        "name": "Lady of Crashing Waves"
+    },
+    {
+        "id": "418003",
+        "name": "Cloud Knight Lieutenant: Yanqing"
+    },
+    {
+        "id": "418006",
+        "name": "Cloud Knight Lieutenant: Yanqing (Complete)"
+    },
+    {
+        "id": "420012",
+        "name": "Abundant Ebon Deer (Illusion)"
+    },
+    {
+        "id": "420022",
+        "name": "Stellaron Hunter: Kafka (Illusion)"
+    },
+    {
+        "id": "420032",
+        "name": "Cloud Knight Lieutenant: Yanqing (Illusion)"
+    },
+    {
         "id": "420042",
         "name": "Bronya (Illusion)"
+    },
+    {
+        "id": "420052",
+        "name": "Cocolia (Illusion)"
+    },
+    {
+        "id": "420101",
+        "name": "Annihilator of Desolation Mistral"
+    },
+    {
+        "id": "420111",
+        "name": "Silver Knight of Virtuous Gallantry"
+    },
+    {
+        "id": "420121",
+        "name": "Starbane Doombringer"
+    },
+    {
+        "id": "420131",
+        "name": "Soulhook Sovereign"
+    },
+    {
+        "id": "420141",
+        "name": "Opportunistic Provocateur"
+    },
+    {
+        "id": "420151",
+        "name": "Daring Diceroller"
+    },
+    {
+        "id": "420161",
+        "name": "Cacophonic Conductor"
+    },
+    {
+        "id": "420181",
+        "name": "Blaznana Monkey Trick"
+    },
+    {
+        "id": "420201",
+        "name": "Sky-Shrouding Stardevourer Swarm"
+    },
+    {
+        "id": "420241",
+        "name": "Fulminating Wolflord"
+    },
+    {
+        "id": "420281",
+        "name": "Flame Reaver of Doomsday Led Astray"
+    },
+    {
+        "id": "420301",
+        "name": "Hellcharred Shadow General"
+    },
+    {
+        "id": "420321",
+        "name": "Guide of Withering and Decay"
+    },
+    {
+        "id": "1012150",
+        "name": "Dreamjolt Troupe's Sweet Gorilla"
+    },
+    {
+        "id": "1012210",
+        "name": "\"Present Inebriated in Revelry\""
+    },
+    {
+        "id": "1043100",
+        "name": "\"Past Confined and Caged\""
+    },
+    {
+        "id": "1043140",
+        "name": "Ichor Memosprite: Winged Serpent"
+    },
+    {
+        "id": "30001041",
+        "name": "Bronya"
+    },
+    {
+        "id": "30001151",
+        "name": "Gepard"
+    },
+    {
+        "id": "30002011",
+        "name": "Imaginary Weaver"
+    },
+    {
+        "id": "30002042",
+        "name": "Abundant Ebon Deer"
+    },
+    {
+        "id": "30002062",
+        "name": "Stellaron Hunter: Kafka"
+    },
+    {
+        "id": "30013252",
+        "name": "Swarm: True Sting"
+    },
+    {
+        "id": "30101112",
+        "name": "Stellaron Hunter: Sam"
+    },
+    {
+        "id": "30103122",
+        "name": "Ten Stonehearts: Aventurine of Stratagems"
+    },
+    {
+        "id": "30109122",
+        "name": "Wonder Forest's Banacademic Office Staff"
+    },
+    {
+        "id": "30111101",
+        "name": "Savage God, Mad King, Incarnation of Strife"
+    },
+    {
+        "id": "30112112",
+        "name": "The Giver, Master of Legions, Lance of Fury"
+    },
+    {
+        "id": "30112121",
+        "name": "Flame Reaver of the Deepest Dark"
+    },
+    {
+        "id": "30113082",
+        "name": "The Past, Present, and Eternal Show"
+    },
+    {
+        "id": "30113121",
+        "name": "Pollux, Netherwing Husk, Ferry of Souls"
+    },
+    {
+        "id": "30116122",
+        "name": "First Genius, Entelechy, Zandar"
+    },
+    {
+        "id": "30117122",
+        "name": "Ichor Memosprite: Judge of Oblivion"
     },
     {
         "id": "43103001",
@@ -1004,8 +440,48 @@
         "name": "Memory Zone Meme"
     },
     {
+        "id": "80180023",
+        "name": "Senior Staff: Team Leader (Bug)"
+    },
+    {
+        "id": "80180024",
+        "name": "Aurumaton Spectral Envoy (Bug)"
+    },
+    {
+        "id": "80190023",
+        "name": "Dreamjolt Troupe's Beyond Overcooked (Bug)"
+    },
+    {
+        "id": "80190024",
+        "name": "Dreamjolt Troupe's Sweet Gorilla (Bug)"
+    },
+    {
+        "id": "80199011",
+        "name": "Memory Zone Meme \"Something Unto Death\" (Complete)"
+    },
+    {
+        "id": "80300101",
+        "name": "The Past, Present, and Eternal Show (Complete)"
+    },
+    {
+        "id": "80300111",
+        "name": "Swarm: True Sting (Complete)"
+    },
+    {
+        "id": "80300121",
+        "name": "Savage God, Mad King, Incarnation of Strife (Complete)"
+    },
+    {
+        "id": "80300131",
+        "name": "Borisin Warhead: Hoolay (Complete)"
+    },
+    {
         "id": "81050011",
         "name": "True Stings"
+    },
+    {
+        "id": "82230021",
+        "name": "Argenti (Complete)"
     },
     {
         "id": "83000016",
@@ -1016,19 +492,91 @@
         "name": "Wandering Monster"
     },
     {
+        "id": "83003201",
+        "name": "\"Past Confined and Caged\" (Bug)"
+    },
+    {
+        "id": "83003211",
+        "name": "\"Tomorrow in Harmonious Chords\" (Bug)"
+    },
+    {
+        "id": "83003221",
+        "name": "\"Present Inebriated in Revelry\" (Bug)"
+    },
+    {
+        "id": "83003231",
+        "name": "Memory Zone Meme \"Shell of Faded Rage\" (Bug)"
+    },
+    {
+        "id": "83003241",
+        "name": "Howling Casket (Bug)"
+    },
+    {
+        "id": "83003251",
+        "name": "Furiae Praetor (Bug)"
+    },
+    {
+        "id": "83004101",
+        "name": "Stellaron Hunter: Sam (Complete)"
+    },
+    {
+        "id": "83004111",
+        "name": "Ten Stonehearts: Aventurine of Stratagems (Complete)"
+    },
+    {
+        "id": "83004131",
+        "name": "Cirrus (Complete)"
+    },
+    {
+        "id": "83004151",
+        "name": "Wonder Forest's Banacademic Office Staff (Complete)"
+    },
+    {
+        "id": "83004161",
+        "name": "The Giver, Master of Legions, Lance of Fury (Complete)"
+    },
+    {
+        "id": "83004171",
+        "name": "Pollux, Netherwing Husk, Ferry of Souls (Complete)"
+    },
+    {
         "id": "83005201",
         "name": "Cirrus"
+    },
+    {
+        "id": "103012310",
+        "name": "Lordly Trashcan"
     },
     {
         "id": "103012990",
         "name": "Boss Stone's Lackeys"
     },
     {
+        "id": "200011110",
+        "name": "Warp Trotter"
+    },
+    {
         "id": "202410010",
         "name": "Escaped Prisoner"
     },
     {
+        "id": "203130050",
+        "name": "Memory Zone Meme \"Something In The Mirror\""
+    },
+    {
+        "id": "204112410",
+        "name": "\"Spirithief\" Bartholos"
+    },
+    {
         "id": "204510110",
         "name": "Abyssal Sea Siren"
+    },
+    {
+        "id": "204610010",
+        "name": "Ichor Memosprite"
+    },
+    {
+        "id": "899992020",
+        "name": "Sequence Trotter"
     }
 ]

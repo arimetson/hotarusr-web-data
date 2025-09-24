@@ -860,6 +860,10 @@
         "name": "Vở Kịch Của Quá Khứ, Hiện Tại Và Mãi Mãi (Hoàn Chỉnh)"
     },
     {
+        "id": "3004012",
+        "name": "Vở Kịch Của Quá Khứ, Hiện Tại Và Mãi Mãi"
+    },
+    {
         "id": "3004020",
         "name": "Nhóm Nghiên Cứu Chúi Trong Rừng Kỳ Ảo"
     },
@@ -1116,6 +1120,14 @@
         "name": "Cánh Tay Thương Xót"
     },
     {
+        "id": "4012076",
+        "name": "Cánh Tay Thương Xót"
+    },
+    {
+        "id": "4012077",
+        "name": "Cánh Tay Thương Xót"
+    },
+    {
         "id": "4012080",
         "name": "Quạ Nắng Sấm"
     },
@@ -1210,6 +1222,10 @@
     {
         "id": "4014035",
         "name": "Người Đưa Hồn, Xác Rồng Tử Vong, Pollux (Ô Nhiễm)"
+    },
+    {
+        "id": "4014036",
+        "name": "Người Dẫn Đường Thân Khô Xương Mục"
     },
     {
         "id": "4015010",
@@ -1360,120 +1376,20 @@
         "name": "Phu Nhân Sóng Cả"
     },
     {
-        "id": "7001010",
-        "name": "Cơ Giáp Nhập Ma - Nghê Tùy Tùng"
+        "id": "4062010",
+        "name": "Linh Hồn Ký Ức Máu Vàng - Chim Trĩ"
     },
     {
-        "id": "7001011",
-        "name": "Chiến Binh Hư Không - Kẻ Cướp Đoạt"
+        "id": "4062020",
+        "name": "Linh Hồn Ký Ức Máu Vàng - Chó"
     },
     {
-        "id": "7001012",
-        "name": "Chiến Binh Hư Không - Kẻ Loại Bỏ"
+        "id": "4063010",
+        "name": "Linh Hồn Ký Ức Máu Vàng - Rắn Cánh"
     },
     {
-        "id": "7001013",
-        "name": "Heo Đất Thương Mại"
-    },
-    {
-        "id": "7002010",
-        "name": "Linh Thú Trù Phú - Sói Cây"
-    },
-    {
-        "id": "7002011",
-        "name": "Tàn Ảnh"
-    },
-    {
-        "id": "7002020",
-        "name": "Kẻ Lang Thang"
-    },
-    {
-        "id": "7002030",
-        "name": "Ảo Ảnh Lửa Thiêu"
-    },
-    {
-        "id": "7002040",
-        "name": "null"
-    },
-    {
-        "id": "7002050",
-        "name": "Cơ Giáp Nhập Ma - Cá Rồng Đèn"
-    },
-    {
-        "id": "7002060",
-        "name": "Pháo Thủ Bờm Bạc"
-    },
-    {
-        "id": "7002070",
-        "name": "Kẻ Dệt Lá Số Ảo"
-    },
-    {
-        "id": "7002080",
-        "name": "Xạ Thủ Bờm Bạc"
-    },
-    {
-        "id": "7002090",
-        "name": "Cận Vệ Bờm Bạc"
-    },
-    {
-        "id": "7002100",
-        "name": "Cỗ Máy Tự Động - Nhền Nhện"
-    },
-    {
-        "id": "7002110",
-        "name": "Cỗ Máy Tự Động - Nhền Nhện"
-    },
-    {
-        "id": "7002120",
-        "name": "Nhân Viên Cơ Sở - Công Tác"
-    },
-    {
-        "id": "7002130",
-        "name": "Nhân Viên Cơ Sở - Bảo Vệ"
-    },
-    {
-        "id": "7002140",
-        "name": "Ảo Ảnh Everwinter"
-    },
-    {
-        "id": "7003010",
-        "name": "Lửa Vũ Trụ"
-    },
-    {
-        "id": "7003020",
-        "name": "Gác Cổng Kim Nhân"
-    },
-    {
-        "id": "7003030",
-        "name": "Hiệu Úy Bờm Bạc"
-    },
-    {
-        "id": "7003040",
-        "name": "Chiến Binh Hư Không - Kẻ Chà Đạp"
-    },
-    {
-        "id": "7003050",
-        "name": "null"
-    },
-    {
-        "id": "7003060",
-        "name": "Kẻ Lang Thang Lạnh Giá"
-    },
-    {
-        "id": "7003070",
-        "name": "Cỗ Máy Tự Động - Sói Nanh Nhọn"
-    },
-    {
-        "id": "7003080",
-        "name": "Kẻ Lang Thang Bốc Cháy"
-    },
-    {
-        "id": "7003090",
-        "name": "Cỗ Máy Tự Động - Gấu Xám"
-    },
-    {
-        "id": "7003100",
-        "name": "Nhân Viên Thâm Niên - Tổ Trưởng"
+        "id": "4064010",
+        "name": "Linh Hồn Ký Ức Máu Vàng - Hình Thái Phán Quyết Lãng Quên"
     },
     {
         "id": "8001010",
@@ -6004,6 +5920,38 @@
         "name": "Chinh Phục Hay Bị Chinh Phục"
     },
     {
+        "id": "401207601",
+        "name": "Cánh Tay Thương Xót"
+    },
+    {
+        "id": "401207602",
+        "name": "Cánh Tay Thương Xót"
+    },
+    {
+        "id": "401207603",
+        "name": "Cánh Tay Thương Xót"
+    },
+    {
+        "id": "401207604",
+        "name": "Cánh Tay Thương Xót"
+    },
+    {
+        "id": "401207701",
+        "name": "Cánh Tay Thương Xót"
+    },
+    {
+        "id": "401207702",
+        "name": "Cánh Tay Thương Xót"
+    },
+    {
+        "id": "401207703",
+        "name": "Cánh Tay Thương Xót"
+    },
+    {
+        "id": "401207704",
+        "name": "Cánh Tay Thương Xót"
+    },
+    {
         "id": "401301001",
         "name": "Tiên Phong Thần Phạt"
     },
@@ -6064,6 +6012,10 @@
         "name": "Vị Thần Man Rợ, Vua Điên, Hóa Thân Của Phân Tranh"
     },
     {
+        "id": "401401101",
+        "name": "Chương Trình Phòng Thủ Tự Chủ PoleMos<unbreak>600</unbreak>"
+    },
+    {
         "id": "401401201",
         "name": "Vị Thần Man Rợ, Vua Điên, Hóa Thân Của Phân Tranh"
     },
@@ -6082,6 +6034,22 @@
     {
         "id": "401402002",
         "name": "Người Ban Ơn, Thủ Lĩnh Thiên Quân, Ngọn Giáo Thần Phạt"
+    },
+    {
+        "id": "401403601",
+        "name": "Người Dẫn Đường Thân Khô Xương Mục"
+    },
+    {
+        "id": "401403602",
+        "name": "Người Dẫn Đường Thân Khô Xương Mục"
+    },
+    {
+        "id": "401403603",
+        "name": "Người Dẫn Đường Thân Khô Xương Mục"
+    },
+    {
+        "id": "401403604",
+        "name": "Người Dẫn Đường Thân Khô Xương Mục"
     },
     {
         "id": "401501001",
@@ -6336,6 +6304,10 @@
         "name": "Chiến Tướng Thủy Triều Đen"
     },
     {
+        "id": "403302004",
+        "name": "\"Người Phá Núi\" Geocles"
+    },
+    {
         "id": "403303002",
         "name": "Hắc Nhật Sư Ưng"
     },
@@ -6353,10 +6325,6 @@
     },
     {
         "id": "403401002",
-        "name": "Thanh Kiếm Hắc Ám, Hành Giả Trộm Lửa"
-    },
-    {
-        "id": "403401003",
         "name": "Thanh Kiếm Hắc Ám, Hành Giả Trộm Lửa"
     },
     {
@@ -6406,30 +6374,6 @@
     {
         "id": "405301003",
         "name": "Phu Nhân Sóng Cả"
-    },
-    {
-        "id": "700203001",
-        "name": "Ảo Ảnh Lửa Thiêu"
-    },
-    {
-        "id": "700203002",
-        "name": "Ảo Ảnh Lửa Thiêu"
-    },
-    {
-        "id": "700205001",
-        "name": "Cơ Giáp Nhập Ma - Cá Rồng Đèn"
-    },
-    {
-        "id": "700207001",
-        "name": "Kẻ Dệt Lá Số Ảo"
-    },
-    {
-        "id": "700207002",
-        "name": "Kẻ Dệt Lá Số Ảo"
-    },
-    {
-        "id": "700209001",
-        "name": "Cận Vệ Bờm Bạc"
     },
     {
         "id": "800101001",

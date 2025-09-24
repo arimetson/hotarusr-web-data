@@ -832,6 +832,70 @@
     "group": "Thuyền Trưởng Đuổi Sóng Biển Sâu"
   },
   {
+    "id": "61271",
+    "name": "Mũ Trùm Hành Trình Của Đấng Cứu Thế",
+    "type": "Nón",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71048.webp",
+    "description" : "2pc: Tỷ Lệ Bạo Kích tăng 8%. \n4pc: Sau khi người trang bị thi triển Tấn Công Thường hoặc Chiến Kỹ, nếu Linh Hồn Ký Ức của người trang bị trong trận, sẽ khiến Giới Hạn HP của người trang bị và Linh Hồn Ký Ức của người đó tăng 24%, sát thương toàn bộ phe ta gây ra tăng 15%, duy trì đến sau khi người trang bị thi triển Tấn Công Thường hoặc Chiến Kỹ tiếp theo.",
+    "group": "Đấng Cứu Thế Tái Tạo Trời Đất"
+  },
+  {
+    "id": "61272",
+    "name": "Găng Tay Cầm Kiếm Của Đấng Cứu Thế",
+    "type": "Tay",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71048.webp",
+    "description" : "2pc: Tỷ Lệ Bạo Kích tăng 8%. \n4pc: Sau khi người trang bị thi triển Tấn Công Thường hoặc Chiến Kỹ, nếu Linh Hồn Ký Ức của người trang bị trong trận, sẽ khiến Giới Hạn HP của người trang bị và Linh Hồn Ký Ức của người đó tăng 24%, sát thương toàn bộ phe ta gây ra tăng 15%, duy trì đến sau khi người trang bị thi triển Tấn Công Thường hoặc Chiến Kỹ tiếp theo.",
+    "group": "Đấng Cứu Thế Tái Tạo Trời Đất"
+  },
+  {
+    "id": "61273",
+    "name": "Chiến Bào Kế Thừa Của Đấng Cứu Thế",
+    "type": "Áo",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71048.webp",
+    "description" : "2pc: Tỷ Lệ Bạo Kích tăng 8%. \n4pc: Sau khi người trang bị thi triển Tấn Công Thường hoặc Chiến Kỹ, nếu Linh Hồn Ký Ức của người trang bị trong trận, sẽ khiến Giới Hạn HP của người trang bị và Linh Hồn Ký Ức của người đó tăng 24%, sát thương toàn bộ phe ta gây ra tăng 15%, duy trì đến sau khi người trang bị thi triển Tấn Công Thường hoặc Chiến Kỹ tiếp theo.",
+    "group": "Đấng Cứu Thế Tái Tạo Trời Đất"
+  },
+  {
+    "id": "61274",
+    "name": "Ủng Khai Hoang Của Đấng Cứu Thế",
+    "type": "Giày",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71048.webp",
+    "description" : "2pc: Tỷ Lệ Bạo Kích tăng 8%. \n4pc: Sau khi người trang bị thi triển Tấn Công Thường hoặc Chiến Kỹ, nếu Linh Hồn Ký Ức của người trang bị trong trận, sẽ khiến Giới Hạn HP của người trang bị và Linh Hồn Ký Ức của người đó tăng 24%, sát thương toàn bộ phe ta gây ra tăng 15%, duy trì đến sau khi người trang bị thi triển Tấn Công Thường hoặc Chiến Kỹ tiếp theo.",
+    "group": "Đấng Cứu Thế Tái Tạo Trời Đất"
+  },
+  {
+    "id": "61281",
+    "name": "Mũ Nỉ Vành Rộng Của Ẩn Sĩ",
+    "type": "Nón",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71049.webp",
+    "description" : "2pc: Lượng khiên cung cấp tăng 10%. \n4pc: Khiến lượng Khiên mà người trang bị cung cấp tăng 12%, khi mục tiêu phe ta có Khiên do người trang bị cung cấp, Sát Thương Bạo Kích tăng 15%.",
+    "group": "Ẩn Sĩ Ẩn Mình Dưới Ánh Sao"
+  },
+  {
+    "id": "61282",
+    "name": "Đồng Hồ Thanh Lịch Của Ẩn Sĩ",
+    "type": "Tay",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71049.webp",
+    "description" : "2pc: Lượng khiên cung cấp tăng 10%. \n4pc: Khiến lượng Khiên mà người trang bị cung cấp tăng 12%, khi mục tiêu phe ta có Khiên do người trang bị cung cấp, Sát Thương Bạo Kích tăng 15%.",
+    "group": "Ẩn Sĩ Ẩn Mình Dưới Ánh Sao"
+  },
+  {
+    "id": "61283",
+    "name": "Áo Khoác Nâu Của Ẩn Sĩ",
+    "type": "Áo",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71049.webp",
+    "description" : "2pc: Lượng khiên cung cấp tăng 10%. \n4pc: Khiến lượng Khiên mà người trang bị cung cấp tăng 12%, khi mục tiêu phe ta có Khiên do người trang bị cung cấp, Sát Thương Bạo Kích tăng 15%.",
+    "group": "Ẩn Sĩ Ẩn Mình Dưới Ánh Sao"
+  },
+  {
+    "id": "61284",
+    "name": "Giày Da Lộn Của Ẩn Sĩ",
+    "type": "Giày",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71049.webp",
+    "description" : "2pc: Lượng khiên cung cấp tăng 10%. \n4pc: Khiến lượng Khiên mà người trang bị cung cấp tăng 12%, khi mục tiêu phe ta có Khiên do người trang bị cung cấp, Sát Thương Bạo Kích tăng 15%.",
+    "group": "Ẩn Sĩ Ẩn Mình Dưới Ánh Sao"
+  },
+  {
     "id": "63015",
     "name": "Điểm Trạm Không Gian Herta",
     "type": "Cầu",

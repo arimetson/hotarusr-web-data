@@ -860,6 +860,10 @@
         "name": "The Past, Present, and Eternal Show (Complete)"
     },
     {
+        "id": "3004012",
+        "name": "The Past, Present, and Eternal Show"
+    },
+    {
         "id": "3004020",
         "name": "Wonder Forest's Banacademic Office Staff"
     },
@@ -1116,6 +1120,14 @@
         "name": "The Long Arms of Sorrow"
     },
     {
+        "id": "4012076",
+        "name": "The Long Arms of Sorrow"
+    },
+    {
+        "id": "4012077",
+        "name": "The Long Arms of Sorrow"
+    },
+    {
         "id": "4012080",
         "name": "Daythunder Raven"
     },
@@ -1210,6 +1222,10 @@
     {
         "id": "4014035",
         "name": "Pollux, Netherwing Husk, Ferry of Souls (Corrupted)"
+    },
+    {
+        "id": "4014036",
+        "name": "Guide of Withering and Decay"
     },
     {
         "id": "4015010",
@@ -1360,120 +1376,20 @@
         "name": "Lady of Crashing Waves"
     },
     {
-        "id": "7001010",
-        "name": "Entranced Ingenium: Obedient Dracolion"
+        "id": "4062010",
+        "name": "Ichor Memosprite: Pheasant"
     },
     {
-        "id": "7001011",
-        "name": "Voidranger: Reaver"
+        "id": "4062020",
+        "name": "Ichor Memosprite: Canine"
     },
     {
-        "id": "7001012",
-        "name": "Voidranger: Eliminator"
+        "id": "4063010",
+        "name": "Ichor Memosprite: Winged Serpent"
     },
     {
-        "id": "7001013",
-        "name": "Commerce Trotter"
-    },
-    {
-        "id": "7002010",
-        "name": "Abundance Sprite: Wooden Lupus"
-    },
-    {
-        "id": "7002011",
-        "name": "Shadow Jackhyena"
-    },
-    {
-        "id": "7002020",
-        "name": "Vagrant"
-    },
-    {
-        "id": "7002030",
-        "name": "Incineration Shadewalker"
-    },
-    {
-        "id": "7002040",
-        "name": "null"
-    },
-    {
-        "id": "7002050",
-        "name": "Entranced Ingenium: Illumination Dragonfish"
-    },
-    {
-        "id": "7002060",
-        "name": "Silvermane Cannoneer"
-    },
-    {
-        "id": "7002070",
-        "name": "Imaginary Weaver"
-    },
-    {
-        "id": "7002080",
-        "name": "Silvermane Gunner"
-    },
-    {
-        "id": "7002090",
-        "name": "Silvermane Soldier"
-    },
-    {
-        "id": "7002100",
-        "name": "Automaton Spider"
-    },
-    {
-        "id": "7002110",
-        "name": "Automaton Spider"
-    },
-    {
-        "id": "7002120",
-        "name": "Grunt: Field Personnel"
-    },
-    {
-        "id": "7002130",
-        "name": "Grunt: Security Personnel"
-    },
-    {
-        "id": "7002140",
-        "name": "Everwinter Shadewalker"
-    },
-    {
-        "id": "7003010",
-        "name": "Blaze Out of Space"
-    },
-    {
-        "id": "7003020",
-        "name": "Aurumaton Gatekeeper"
-    },
-    {
-        "id": "7003030",
-        "name": "Silvermane Lieutenant"
-    },
-    {
-        "id": "7003040",
-        "name": "Voidranger: Trampler"
-    },
-    {
-        "id": "7003050",
-        "name": "null"
-    },
-    {
-        "id": "7003060",
-        "name": "Frigid Prowler"
-    },
-    {
-        "id": "7003070",
-        "name": "Automaton Direwolf"
-    },
-    {
-        "id": "7003080",
-        "name": "Searing Prowler"
-    },
-    {
-        "id": "7003090",
-        "name": "Automaton Grizzly"
-    },
-    {
-        "id": "7003100",
-        "name": "Senior Staff: Team Leader"
+        "id": "4064010",
+        "name": "Ichor Memosprite: Judge of Oblivion"
     },
     {
         "id": "8001010",
@@ -6004,6 +5920,38 @@
         "name": "Conquer or Be Conquered"
     },
     {
+        "id": "401207601",
+        "name": "The Long Arms of Sorrow"
+    },
+    {
+        "id": "401207602",
+        "name": "The Long Arms of Sorrow"
+    },
+    {
+        "id": "401207603",
+        "name": "The Long Arms of Sorrow"
+    },
+    {
+        "id": "401207604",
+        "name": "The Long Arms of Sorrow"
+    },
+    {
+        "id": "401207701",
+        "name": "The Long Arms of Sorrow"
+    },
+    {
+        "id": "401207702",
+        "name": "The Long Arms of Sorrow"
+    },
+    {
+        "id": "401207703",
+        "name": "The Long Arms of Sorrow"
+    },
+    {
+        "id": "401207704",
+        "name": "The Long Arms of Sorrow"
+    },
+    {
         "id": "401301001",
         "name": "Furiae Praetor"
     },
@@ -6064,6 +6012,10 @@
         "name": "Savage God, Mad King, Incarnation of Strife"
     },
     {
+        "id": "401401101",
+        "name": "PoleMos<unbreak>600</unbreak> Autonomous Defense System"
+    },
+    {
         "id": "401401201",
         "name": "Savage God, Mad King, Incarnation of Strife"
     },
@@ -6082,6 +6034,22 @@
     {
         "id": "401402002",
         "name": "The Giver, Master of Legions, Lance of Fury"
+    },
+    {
+        "id": "401403601",
+        "name": "Guide of Withering and Decay"
+    },
+    {
+        "id": "401403602",
+        "name": "Guide of Withering and Decay"
+    },
+    {
+        "id": "401403603",
+        "name": "Guide of Withering and Decay"
+    },
+    {
+        "id": "401403604",
+        "name": "Guide of Withering and Decay"
     },
     {
         "id": "401501001",
@@ -6336,6 +6304,10 @@
         "name": "Black Tide's Champion"
     },
     {
+        "id": "403302004",
+        "name": "Geocles the Mountainbreaker"
+    },
+    {
         "id": "403303002",
         "name": "Dark Sun Gryphon"
     },
@@ -6353,10 +6325,6 @@
     },
     {
         "id": "403401002",
-        "name": "Flame Reaver of the Deepest Dark"
-    },
-    {
-        "id": "403401003",
         "name": "Flame Reaver of the Deepest Dark"
     },
     {
@@ -6406,30 +6374,6 @@
     {
         "id": "405301003",
         "name": "Lady of Crashing Waves"
-    },
-    {
-        "id": "700203001",
-        "name": "Incineration Shadewalker"
-    },
-    {
-        "id": "700203002",
-        "name": "Incineration Shadewalker"
-    },
-    {
-        "id": "700205001",
-        "name": "Entranced Ingenium: Illumination Dragonfish"
-    },
-    {
-        "id": "700207001",
-        "name": "Imaginary Weaver"
-    },
-    {
-        "id": "700207002",
-        "name": "Imaginary Weaver"
-    },
-    {
-        "id": "700209001",
-        "name": "Silvermane Soldier"
     },
     {
         "id": "800101001",

@@ -264,6 +264,14 @@
         "name": "[Maze] Bên Ngoài Thần Thoại"
     },
     {
+        "id": "20461",
+        "name": "[Maze] Điện Cây Giác Ngộ \"Rừng Thiêng Vệt Sáng\""
+    },
+    {
+        "id": "20462",
+        "name": "[Maze] Đại Lăng Mộ Titan Vô Danh: Ma Trận Toàn Thế"
+    },
+    {
         "id": "30101",
         "name": "[Challenge] null"
     },
@@ -329,6 +337,10 @@
     },
     {
         "id": "30135",
+        "name": "[Challenge] null"
+    },
+    {
+        "id": "30136",
         "name": "[Challenge] null"
     },
     {
@@ -596,34 +608,6 @@
         "name": "[Raid] null"
     },
     {
-        "id": "40443",
-        "name": "[Raid] null"
-    },
-    {
-        "id": "40444",
-        "name": "[Raid] null"
-    },
-    {
-        "id": "40445",
-        "name": "[Raid] null"
-    },
-    {
-        "id": "40446",
-        "name": "[Raid] null"
-    },
-    {
-        "id": "40447",
-        "name": "[Raid] null"
-    },
-    {
-        "id": "40448",
-        "name": "[Raid] null"
-    },
-    {
-        "id": "40449",
-        "name": "[Raid] null"
-    },
-    {
         "id": "40451",
         "name": "[Raid] null"
     },
@@ -649,6 +633,22 @@
     },
     {
         "id": "40457",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40461",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40462",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40463",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40465",
         "name": "[Raid] null"
     },
     {

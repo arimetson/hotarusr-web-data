@@ -464,6 +464,10 @@
         "name": "Pollux, Netherwing Husk, Ferry of Souls (Complete)"
     },
     {
+        "id": "4014036",
+        "name": "Guidof Withering and Decay"
+    },
+    {
         "id": "4022010",
         "name": "Meteoric Eagle"
     },
@@ -526,6 +530,22 @@
     {
         "id": "4053010",
         "name": "Lady of Crashing Waves"
+    },
+    {
+        "id": "4062010",
+        "name": "Ichor Memosprite: Pheasant"
+    },
+    {
+        "id": "4062020",
+        "name": "Ichor Memosprite: Canine"
+    },
+    {
+        "id": "4063010",
+        "name": "Ichor Memosprite: Winged Serpent"
+    },
+    {
+        "id": "4064010",
+        "name": "Unclean Hemotort: Hemalytos"
     },
     {
         "id": "7002010",

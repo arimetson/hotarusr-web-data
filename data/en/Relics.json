@@ -832,6 +832,70 @@
     "group": "Wavestrider Captain"
   },
   {
+    "id": "61271",
+    "name": "Deliverer's Hood",
+    "type": "Nón",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71048.webp",
+    "description" : "2-Pc: Increases CRIT Rate by 8%. \n4-Pc: After the wearer uses Basic ATK or Skill, if the wearer's memosprite is on the field, increases Max HP of the wearer and their memosprite by 24%, and increases all allies' dealt DMG by 15%, lasting until after the wearer's next use of Basic ATK or Skill.",
+    "group": "World-Remaking Deliverer"
+  },
+  {
+    "id": "61272",
+    "name": "Deliverer's Sword Gauntlet",
+    "type": "Tay",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71048.webp",
+    "description" : "2-Pc: Increases CRIT Rate by 8%. \n4-Pc: After the wearer uses Basic ATK or Skill, if the wearer's memosprite is on the field, increases Max HP of the wearer and their memosprite by 24%, and increases all allies' dealt DMG by 15%, lasting until after the wearer's next use of Basic ATK or Skill.",
+    "group": "World-Remaking Deliverer"
+  },
+  {
+    "id": "61273",
+    "name": "Deliverer's Robe of Legacy",
+    "type": "Áo",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71048.webp",
+    "description" : "2-Pc: Increases CRIT Rate by 8%. \n4-Pc: After the wearer uses Basic ATK or Skill, if the wearer's memosprite is on the field, increases Max HP of the wearer and their memosprite by 24%, and increases all allies' dealt DMG by 15%, lasting until after the wearer's next use of Basic ATK or Skill.",
+    "group": "World-Remaking Deliverer"
+  },
+  {
+    "id": "61274",
+    "name": "Deliverer's Boots of Pioneering",
+    "type": "Giày",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71048.webp",
+    "description" : "2-Pc: Increases CRIT Rate by 8%. \n4-Pc: After the wearer uses Basic ATK or Skill, if the wearer's memosprite is on the field, increases Max HP of the wearer and their memosprite by 24%, and increases all allies' dealt DMG by 15%, lasting until after the wearer's next use of Basic ATK or Skill.",
+    "group": "World-Remaking Deliverer"
+  },
+  {
+    "id": "61281",
+    "name": "Recluse's Wide-Brimmed Fedora",
+    "type": "Nón",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71049.webp",
+    "description" : "2-Pc: The provided Shield Effect increases by 10%. \n4-Pc: Increases the Shield Effect provided by the wearer by 12%. When an ally target holds a Shield provided by the wearer, the ally target's CRIT DMG increases by 15%.",
+    "group": "Self-Enshrouded Recluse"
+  },
+  {
+    "id": "61282",
+    "name": "Recluse's Refined Timepiece",
+    "type": "Tay",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71049.webp",
+    "description" : "2-Pc: The provided Shield Effect increases by 10%. \n4-Pc: Increases the Shield Effect provided by the wearer by 12%. When an ally target holds a Shield provided by the wearer, the ally target's CRIT DMG increases by 15%.",
+    "group": "Self-Enshrouded Recluse"
+  },
+  {
+    "id": "61283",
+    "name": "Recluse's Camel-Colored Coat",
+    "type": "Áo",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71049.webp",
+    "description" : "2-Pc: The provided Shield Effect increases by 10%. \n4-Pc: Increases the Shield Effect provided by the wearer by 12%. When an ally target holds a Shield provided by the wearer, the ally target's CRIT DMG increases by 15%.",
+    "group": "Self-Enshrouded Recluse"
+  },
+  {
+    "id": "61284",
+    "name": "Recluse's Soft Suede Boots",
+    "type": "Giày",
+    "groupImage" : "https://api.hakush.in/hsr/UI/itemfigures/71049.webp",
+    "description" : "2-Pc: The provided Shield Effect increases by 10%. \n4-Pc: Increases the Shield Effect provided by the wearer by 12%. When an ally target holds a Shield provided by the wearer, the ally target's CRIT DMG increases by 15%.",
+    "group": "Self-Enshrouded Recluse"
+  },
+  {
     "id": "63015",
     "name": "Herta's Space Station",
     "type": "Cầu",
