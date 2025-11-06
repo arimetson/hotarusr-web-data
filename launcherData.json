@@ -1,8 +1,8 @@
 {
-  "Version": "3.6.0",
+  "Version": "3.7.0",
   "Background": "https://github.com/arimetson/hotarusr-web-data/blob/main/3.6Launcher.png?raw=true",
   "DestinationHost": "linhle.io.vn",
   "DestinationPort": 7635,
-  "Annoucement": "HotaruSR currently supports version 3.6.0 of Honkai: Star Rail. If you are using a lower or higher version, please update your game to this supported version. We will update the supported version in this notice.",
+  "Annoucement": "HotaruSR currently supports version 3.7.0 of Honkai: Star Rail. If you are using a lower or higher version, please update your game to this supported version. We will update the supported version in this notice.",
   "Update": ""
 }
